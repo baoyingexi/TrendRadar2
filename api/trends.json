@@ -1,70 +1,59 @@
 {
-  "generated_at": "2025-12-16T07:20:54.064570+08:00",
+  "generated_at": "2025-12-17T07:20:27.779067+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 13,
+      "match_count": 12,
       "titles": [
         {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "上证报：在政策和市场的双轮驱动下，商业航天迈向下一个黄金十年",
-          "url": "https://wallstreetcn.com/livenews/3021207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2230200",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
-          "url": "https://wallstreetcn.com/articles/3761400",
+          "title": "美国就业继续降温：11月非农小幅回升，但失业率创四年新高，交易员估明年降息两次",
+          "url": "https://wallstreetcn.com/articles/3761504",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32177110",
-          "source": "澎湃新闻",
+          "title": "美联储下一任主席生变！沃什的政策主张：降息+缩表",
+          "url": "https://wallstreetcn.com/articles/3761458",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
-          "url": "https://wallstreetcn.com/articles/3761388",
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "据Punchbowl：白宫正准备一项行政命令，可能限制军事承包商的股票回购、股息和高管薪酬。",
+          "url": "https://flash.jin10.com/detail/20251217064812924800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "中央财办：投资和消费增速明年有望恢复，房地产供给端要严控增量、盘活存量",
+          "url": "https://wallstreetcn.com/articles/3761499",
           "source": "华尔街见闻",
           "ranks": [
             9
@@ -74,41 +63,41 @@
           "time_info": "07时20分"
         },
         {
-          "title": "扫地机器人鼻祖要破产了",
-          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%BC%BB%E7%A5%96%E8%A6%81%E7%A0%B4%E4%BA%A7%E4%BA%86",
+          "title": "新西兰第三季度经常帐在GDP占比年率 -3.5%，预期-3.4%，前值-3.70%。",
+          "url": "https://flash.jin10.com/detail/20251217054502959800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
+          "url": "https://www.cls.cn/detail/2231375",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "英伟达急着卖芯片 中国不急着买了",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%80%A5%E7%9D%80%E5%8D%96%E8%8A%AF%E7%89%87+%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%80%A5%E7%9D%80%E4%B9%B0%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "网红张凯毅开班免费艺术展，有孩子将其丈夫亲手打造的 4 斤重的黄金凤冠碰触倒地，导致损伤，此事该如何评价？",
-          "url": "https://www.zhihu.com/question/1983499407107319760",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "（美股）费城金银指数收跌0.41%，报336.35点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.27%，报2398.34点。",
-          "url": "https://wallstreetcn.com/livenews/3021185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "周一（12月15日）纽约尾盘，现货黄金涨0.06%，报4302.34美元/盎司，全天冲高回落，北京时间17:15曾刷新日高至4350.33美元。 COMEX黄金期货涨0.12%，报4333.30美元/盎司，17:32曾刷新日高至4384.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3021184",
+          "title": "彭博援引知情人士报道称，已经申请破产的航空公司Spirit Airlines Holdings Inc.考虑与Frontier Group Holdings合并。 Frontier美股盘后涨16%。",
+          "url": "https://wallstreetcn.com/livenews/3021924",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
@@ -118,8 +107,19 @@
           "time_info": "07时20分"
         },
         {
-          "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
-          "url": "https://wallstreetcn.com/livenews/3021182",
+          "title": "西太平洋银行：预计澳洲联储将在2026年持续按兵不动，之前预计会多次降息。",
+          "url": "https://flash.jin10.com/detail/20251217052908336800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "周二（12月16日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.46%，报88100美元。 CME以太币期货DCR主力合约涨0.82%，报2959美元。 美股加密货币与加密货币关联指数涨1.89%，报61.48点。 最近24小时，MarketVector数字资产100小盘指数涨1.08%，暂报3724.25点。",
+          "url": "https://wallstreetcn.com/livenews/3021922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
@@ -129,22 +129,11 @@
           "time_info": "07时20分"
         },
         {
-          "title": "胖东来黄金专柜人山人海",
-          "url": "https://www.toutiao.com/trending/7583320690137579530/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3021176",
+          "title": "（美股）费城金银指数收跌0.27%，报335.44点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.83%，报2378.53点。",
+          "url": "https://wallstreetcn.com/livenews/3021919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -153,15 +142,37 @@
       ]
     },
     {
-      "keyword_group": "AI chatgpt gemini grok deepseek",
-      "match_count": 1,
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 3,
       "titles": [
         {
-          "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
-          "url": "https://www.cls.cn/detail/2230016",
-          "source": "财联社热门",
+          "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
+          "url": "https://wallstreetcn.com/articles/3761466",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "L3级自动驾驶车型产品获准入许可，智能网联汽车迈入量产应用",
+          "url": "https://wallstreetcn.com/livenews/3021929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
