@@ -1,0 +1,23 @@
+{
+    "update_time": "2025-12-18 13:01:46",
+    "oil": {
+        "updateDate": "12月18日",
+        "prices": {
+            "p92": "--",
+            "p95": "--",
+            "p98": "--"
+        },
+        "alert": "暂无数据"
+    },
+    "lottery": {
+        "issue": "最新期",
+        "red": [],
+        "blue": "00",
+        "pool": "统计中..."
+    },
+    "weather": {
+        "city": "赤峰",
+        "temp": "--",
+        "condition": "未知"
+    }
+}

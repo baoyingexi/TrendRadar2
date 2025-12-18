@@ -1,22 +1,45 @@
 {
-  "generated_at": "2025-12-18T07:20:37.091962+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T21:02:29.706846+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 18,
+      "match_count": 44,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 21时02分]"
+        },
+        {
+          "title": "瑞银：英国央行降息难掩政策制定者之间的分歧",
+          "url": "https://flash.jin10.com/detail/20251218203926505800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "21时02分"
+        },
+        {
+          "title": "花旗：预计美联储将在2026年9月再降息25个基点；维持对2026年1月和3月各降息25个基点的预测。",
+          "url": "https://wallstreetcn.com/livenews/3023137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -30,6 +53,39 @@
           "time_info": "07时20分"
         },
         {
+          "title": "英国央行：预计2026年第一季度通胀将降至约3%，第二季度更接近2%。 预计2025年12月因烟草税和机票价格，通胀将暂时上升。 预算案预计将在2026年4月使通胀下降约0.5个百分点。 预算案在未来两年可能让GDP增加约0.1%-0.2%，三年后财政收紧将带来压力。",
+          "url": "https://wallstreetcn.com/livenews/3023135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美联储理事沃勒：仍有50-100BP降息空间，但无需急于行动",
+          "url": "https://wallstreetcn.com/articles/3761583",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
+          "url": "https://www.cls.cn/detail/2233456",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美联储理事沃勒：任有50-100BP降息空间，但无需急于行动",
           "url": "https://wallstreetcn.com/articles/3761583",
           "source": "华尔街见闻",
@@ -41,6 +97,39 @@
           "time_info": "07时20分"
         },
         {
+          "title": "芯片需求旺盛，美光业绩与指引双双“爆表”、提高资本支出，股价盘后大涨逾9% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761597",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
+          "url": "https://wallstreetcn.com/articles/3761605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：降息的理由更为均衡，敦促采取谨慎措施。",
+          "url": "https://wallstreetcn.com/livenews/3023131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
           "url": "https://wallstreetcn.com/articles/3761532",
           "source": "华尔街见闻",
@@ -50,6 +139,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "外媒分析：英国央行未调整鹰派立场 下次降息时机存疑",
+          "url": "https://flash.jin10.com/detail/20251218203315815800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英国财政大臣Reeves：英国央行降息后，仍需采取更多措施应对生活成本问题。",
+          "url": "https://wallstreetcn.com/livenews/3023130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英国央行行长贝利：利率处于逐步下行轨道上。 每降息一次，就越难以做出决策。 通胀下降的态势进一步确立，有宽松空间。 基准利率的路径无法被精确预判，随着利率接近中性水平，政策空间“更加有限”。",
+          "url": "https://wallstreetcn.com/livenews/3023129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英国央行降息后，英国国债回吐涨幅，10年期国债收益率上行1个基点至4.48%。英国富时100指数亦回吐涨幅，走势趋于平稳。",
+          "url": "https://wallstreetcn.com/livenews/3023128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "“合并三剑客”复牌，为何仅东兴封涨停？哪些空间待释放？",
+          "url": "https://www.cls.cn/detail/2233647",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "市场分析：英国央行的降息不太可能是最后一次",
+          "url": "https://flash.jin10.com/detail/20251218203004953800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "交易员缩减对英国央行降息的押注，预计明年降息39个基点。",
+          "url": "https://wallstreetcn.com/livenews/3023127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "市场爆发前夜“抢阵地” 有企业拟3年投放5万辆 新能源重卡租赁获产业链集中下注",
+          "url": "https://www.cls.cn/detail/2233536",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "降息效应显现 新西兰第三季度GDP反弹超预期",
@@ -74,6 +251,28 @@
           "time_info": "07时20分"
         },
         {
+          "title": "英国央行：以5比4的投票结果将政策利率下调至3.75%。 Greene、Lombardelli、Mann和Pill主张维持利率不变。 是否进一步放松货币政策将变得更加难以抉择。 利率可能会继续呈现逐步下行趋势。 预计短期内通胀率将更快回落至目标水平。 成员们下调了对CPI的预期。 预计第四季度GDP零增长，此前预期为增长0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3023126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "现货黄金回落至4320美元/盎司下方，日内跌0.43%。",
+          "url": "https://flash.jin10.com/detail/20251218202842221800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
           "url": "https://wallstreetcn.com/livenews/3022628",
           "source": "华尔街见闻-快讯",
@@ -85,6 +284,39 @@
           "time_info": "07时20分"
         },
         {
+          "title": "英国央行将政策利率降至自2023年2月以来最低水平。 英国央行行长贝利转而投票支持降息。",
+          "url": "https://wallstreetcn.com/livenews/3023125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "花旗增加美联储降息押注：预计美联储明年降息三次",
+          "url": "https://flash.jin10.com/detail/20251218202813804800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "市场分析：英国央行降息结果没有意外惊喜",
+          "url": "https://flash.jin10.com/detail/20251218202739763800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。",
           "url": "https://wallstreetcn.com/livenews/3022625",
           "source": "华尔街见闻-快讯",
@@ -94,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "英国央行以微弱多数票决定降息后，英国国债收益率上升",
+          "url": "https://flash.jin10.com/detail/20251218202326813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。",
@@ -162,6 +405,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "英国央行副行长拉姆斯登：CPI风险平衡，有放缓宽松节奏的空间。",
+          "url": "https://flash.jin10.com/detail/20251218202040262800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "新西兰三季度GDP同比 1.3%，预期 1.3%，前值 -0.6%。",
           "url": "https://wallstreetcn.com/livenews/3022618",
           "source": "华尔街见闻-快讯",
@@ -195,6 +449,28 @@
           "time_info": "07时20分"
         },
         {
+          "title": "英国央行副行长隆巴尔代利：CPI上行风险令人担忧，我们可能需要放慢宽松步伐。",
+          "url": "https://flash.jin10.com/detail/20251218201912780800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "英国央行委员格林：CPI有下行风险，支持谨慎宽松。",
+          "url": "https://flash.jin10.com/detail/20251218201838005800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
           "url": "https://wallstreetcn.com/livenews/3022611",
           "source": "华尔街见闻-快讯",
@@ -204,13 +480,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "英国央行鹰派分歧压制宽松预期 交易员削减降息押注",
+          "url": "https://flash.jin10.com/detail/20251218201821155800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。",
           "url": "https://wallstreetcn.com/livenews/3022640",
@@ -221,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -234,6 +554,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "从夯到夯评2025AI五大进展",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E5%A4%AF%E8%AF%842025AI%E4%BA%94%E5%A4%A7%E8%BF%9B%E5%B1%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
           "source": "澎湃新闻",
@@ -243,6 +574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         }
       ]
     }
