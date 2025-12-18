@@ -1642,9 +1642,9 @@ def render_html_content(
             .ball.blue { background: #3b82f6; }
             
             .ad-grid { display: flex; gap: 10px; }
-            .ad-item { flex: 1; border-radius: 10px; overflow: hidden; height: 60px; box-shadow: 0 1px 2px rgba(0,0,0,0.05); transition: transform 0.1s; background: #fff; }
+            .ad-item { flex: 1; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,0.05); transition: transform 0.1s; background: #fff; display: block; }
             .ad-item:active { transform: scale(0.98); }
-            .ad-item img { width: 100%; height: 100%; object-fit: cover; display: block; }
+            .ad-item img { width: 100%; height: auto; object-fit: contain; display: block; }
             /* === 生活区样式结束 === */
 
             .content { padding: 24px; }
