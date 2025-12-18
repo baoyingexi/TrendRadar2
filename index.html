@@ -1,606 +1,528 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>热点新闻分析 & 生活简报</title>
+    <script src="https://cdn.jsdelivr.net/npm/lunar-javascript@1.6.12/lunar.min.js"></script>
+    <style>
+        /* ================= 1. 基础 & 新闻样式 (保持您原有的CSS) ================= */
+        * { box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+            margin: 0; padding: 16px; 
+            background: #fafafa; color: #333; line-height: 1.5;
+        }
 
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>热点新闻分析</title>
-        <style>
-            * { box-sizing: border-box; }
-            body { 
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-                margin: 0; 
-                padding: 16px; 
-                background: #fafafa;
-                color: #333;
-                line-height: 1.5;
-            }
+        .container {
+            max-width: 600px; margin: 0 auto;
+            background: white; border-radius: 12px;
+            overflow: hidden; box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+        }
 
-            .container {
-                max-width: 600px;
-                margin: 0 auto;
-                background: white;
-                border-radius: 12px;
-                overflow: hidden;
-                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
-            }
+        /* 顶部 Header */
+        .header {
+            background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+            color: white; padding: 32px 24px; text-align: center;
+        }
+        .header-title { font-size: 22px; font-weight: 700; margin: 0 0 20px 0; }
+        .header-info { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; font-size: 14px; opacity: 0.95; }
+        .info-item { text-align: center; }
+        .info-label { display: block; font-size: 12px; opacity: 0.8; margin-bottom: 4px; }
+        .info-value { font-weight: 600; font-size: 16px; }
 
-            .header {
-                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
-                color: white;
-                padding: 32px 24px;
-                text-align: center;
-            }
+        /* 新闻内容区 */
+        .content { padding: 24px; }
+        .word-group { margin-bottom: 40px; }
+        .word-group:first-child { margin-top: 0; }
+        .word-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; padding-bottom: 8px; border-bottom: 1px solid #f0f0f0; }
+        .word-info { display: flex; align-items: center; gap: 12px; }
+        .word-name { font-size: 17px; font-weight: 600; color: #1a1a1a; }
+        .word-count { color: #666; font-size: 13px; font-weight: 500; }
+        .word-count.hot { color: #dc2626; font-weight: 600; }
+        .word-count.warm { color: #ea580c; font-weight: 600; }
+        .word-index { color: #999; font-size: 12px; }
 
-            .header-title {
-                font-size: 22px;
-                font-weight: 700;
-                margin: 0 0 20px 0;
-            }
+        .news-item { margin-bottom: 20px; padding: 16px 0; border-bottom: 1px solid #f5f5f5; position: relative; display: flex; gap: 12px; align-items: center; }
+        .news-item:last-child { border-bottom: none; }
+        .news-number { color: #999; font-size: 13px; font-weight: 600; min-width: 20px; text-align: center; flex-shrink: 0; background: #f8f9fa; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; align-self: flex-start; margin-top: 8px; }
+        .news-content { flex: 1; min-width: 0; padding-right: 40px; }
+        .news-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+        .source-name { color: #666; font-size: 12px; font-weight: 500; }
+        .rank-num { color: #fff; background: #6b7280; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 10px; min-width: 18px; text-align: center; }
+        .rank-num.top { background: #dc2626; }
+        .rank-num.high { background: #ea580c; }
+        .time-info { color: #999; font-size: 11px; }
+        .news-title { font-size: 15px; line-height: 1.4; color: #1a1a1a; margin: 0; }
+        .news-link { color: #2563eb; text-decoration: none; }
+        .news-link:hover { text-decoration: underline; }
+        .news-link:visited { color: #7c3aed; }
 
-            .header-info {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                gap: 16px;
-                font-size: 14px;
-                opacity: 0.95;
-            }
+        /* ================= 2. 新增：生活服务区样式 ================= */
+        .life-section {
+            background: #f3f4f6; /* 浅灰背景区分 */
+            padding: 16px 24px;
+            border-bottom: 1px solid #eee;
+        }
 
-            .info-item {
-                text-align: center;
-            }
+        /* 卡片网格 */
+        .life-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
 
-            .info-label {
-                display: block;
-                font-size: 12px;
-                opacity: 0.8;
-                margin-bottom: 4px;
-            }
+        /* 通用卡片样式 */
+        .life-card {
+            background: white;
+            border-radius: 10px;
+            padding: 12px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            min-height: 100px;
+        }
 
-            .info-value {
-                font-weight: 600;
-                font-size: 16px;
-            }
+        /* 天气特定 */
+        .weather-top { display: flex; justify-content: space-between; align-items: flex-start; }
+        .weather-temp { font-size: 26px; font-weight: bold; color: #333; line-height: 1; }
+        .weather-icon { font-size: 28px; line-height: 1; }
+        .weather-info-text { font-size: 12px; color: #666; margin-top: 4px; }
+        .date-info { font-size: 11px; color: #888; text-align: right; margin-top: auto; }
 
-            .content {
-                padding: 24px;
-            }
+        /* 油价 & 双色球 混合卡片 */
+        .mini-section-title { font-size: 12px; font-weight: bold; color: #4f46e5; margin-bottom: 4px; display: flex; justify-content: space-between; }
+        .oil-row { display: flex; justify-content: space-between; font-size: 12px; color: #333; margin-bottom: 8px; border-bottom: 1px dashed #eee; padding-bottom: 6px; }
+        .oil-val { font-weight: bold; color: #e60012; }
+        
+        .lotto-balls { display: flex; gap: 3px; }
+        .ball { width: 16px; height: 16px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+        .ball.red { background: #e60012; }
+        .ball.blue { background: #3b82f6; }
 
-            .word-group {
-                margin-bottom: 40px;
-            }
+        /* 广告区 */
+        .ad-grid {
+            display: flex;
+            gap: 10px;
+        }
+        .ad-item {
+            flex: 1;
+            border-radius: 10px;
+            overflow: hidden;
+            height: 60px; /* 控制高度 */
+            box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+            transition: transform 0.1s;
+            background: #fff;
+        }
+        .ad-item:active { transform: scale(0.98); }
+        .ad-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+        }
 
-            .word-group:first-child {
-                margin-top: 0;
-            }
+        @media (max-width: 480px) {
+            body { padding: 12px; }
+            .header { padding: 24px 20px; }
+            .content { padding: 20px; }
+            .header-info { grid-template-columns: 1fr; gap: 12px; }
+            /* 移动端让生活卡片单列显示，或者保持双列看内容多少，这里保持双列 */
+        }
+    </style>
+</head>
+<body>
 
-            .word-header {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                margin-bottom: 20px;
-                padding-bottom: 8px;
-                border-bottom: 1px solid #f0f0f0;
-            }
+    <div class="container">
+        <div class="header">
+            <div class="header-title">热点新闻分析</div>
+            <div class="header-info">
+                <div class="info-item">
+                    <span class="info-label">报告类型</span>
+                    <span class="info-value">当日汇总</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">新闻总数</span>
+                    <span class="info-value">315 条</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">热点新闻</span>
+                    <span class="info-value">21 条</span>
+                </div>
+                <div class="info-item">
+                    <span class="info-label">生成时间</span>
+                    <span class="info-value">12-18 07:20</span>
+                </div>
+            </div>
+        </div>
 
-            .word-info {
-                display: flex;
-                align-items: center;
-                gap: 12px;
-            }
-
-            .word-name {
-                font-size: 17px;
-                font-weight: 600;
-                color: #1a1a1a;
-            }
-
-            .word-count {
-                color: #666;
-                font-size: 13px;
-                font-weight: 500;
-            }
-
-            .word-count.hot { color: #dc2626; font-weight: 600; }
-            .word-count.warm { color: #ea580c; font-weight: 600; }
-
-            .word-index {
-                color: #999;
-                font-size: 12px;
-            }
-
-            .news-item {
-                margin-bottom: 20px;
-                padding: 16px 0;
-                border-bottom: 1px solid #f5f5f5;
-                position: relative;
-                display: flex;
-                gap: 12px;
-                align-items: center;
-            }
-
-            .news-item:last-child {
-                border-bottom: none;
-            }
-
-            .news-item.new::after {
-                content: "NEW";
-                position: absolute;
-                top: 12px;
-                right: 0;
-                background: #fbbf24;
-                color: #92400e;
-                font-size: 9px;
-                font-weight: 700;
-                padding: 3px 6px;
-                border-radius: 4px;
-                letter-spacing: 0.5px;
-            }
-
-            .news-number {
-                color: #999;
-                font-size: 13px;
-                font-weight: 600;
-                min-width: 20px;
-                text-align: center;
-                flex-shrink: 0;
-                background: #f8f9fa;
-                border-radius: 50%;
-                width: 24px;
-                height: 24px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                align-self: flex-start;
-                margin-top: 8px;
-            }
-
-            .news-content {
-                flex: 1;
-                min-width: 0;
-                padding-right: 40px;
-            }
-
-            .news-item.new .news-content {
-                padding-right: 50px;
-            }
-
-            .news-header {
-                display: flex;
-                align-items: center;
-                gap: 8px;
-                margin-bottom: 8px;
-                flex-wrap: wrap;
-            }
-
-            .source-name {
-                color: #666;
-                font-size: 12px;
-                font-weight: 500;
-            }
-
-            .rank-num {
-                color: #fff;
-                background: #6b7280;
-                font-size: 10px;
-                font-weight: 700;
-                padding: 2px 6px;
-                border-radius: 10px;
-                min-width: 18px;
-                text-align: center;
-            }
-
-            .rank-num.top { background: #dc2626; }
-            .rank-num.high { background: #ea580c; }
-
-            .time-info {
-                color: #999;
-                font-size: 11px;
-            }
-
-            .count-info {
-                color: #059669;
-                font-size: 11px;
-                font-weight: 500;
-            }
-
-            .news-title {
-                font-size: 15px;
-                line-height: 1.4;
-                color: #1a1a1a;
-                margin: 0;
-            }
-
-            .news-link {
-                color: #2563eb;
-                text-decoration: none;
-            }
-
-            .news-link:hover {
-                text-decoration: underline;
-            }
-
-            .news-link:visited {
-                color: #7c3aed;
-            }
-
-            .new-section {
-                margin-top: 40px;
-                padding-top: 24px;
-                border-top: 2px solid #f0f0f0;
-            }
-
-            .new-section-title {
-                color: #1a1a1a;
-                font-size: 16px;
-                font-weight: 600;
-                margin: 0 0 20px 0;
-            }
-
-            .new-source-group {
-                margin-bottom: 24px;
-            }
-
-            .new-source-title {
-                color: #666;
-                font-size: 13px;
-                font-weight: 500;
-                margin: 0 0 12px 0;
-                padding-bottom: 6px;
-                border-bottom: 1px solid #f5f5f5;
-            }
-
-            .new-item {
-                display: flex;
-                align-items: center;
-                gap: 12px;
-                padding: 8px 0;
-                border-bottom: 1px solid #f9f9f9;
-            }
-
-            .new-item:last-child {
-                border-bottom: none;
-            }
-
-            .new-item-number {
-                color: #999;
-                font-size: 12px;
-                font-weight: 600;
-                min-width: 18px;
-                text-align: center;
-                flex-shrink: 0;
-                background: #f8f9fa;
-                border-radius: 50%;
-                width: 20px;
-                height: 20px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
-
-            .new-item-rank {
-                color: #fff;
-                background: #6b7280;
-                font-size: 10px;
-                font-weight: 700;
-                padding: 3px 6px;
-                border-radius: 8px;
-                min-width: 20px;
-                text-align: center;
-                flex-shrink: 0;
-            }
-
-            .new-item-rank.top { background: #dc2626; }
-            .new-item-rank.high { background: #ea580c; }
-
-            .new-item-content {
-                flex: 1;
-                min-width: 0;
-            }
-
-            .new-item-title {
-                font-size: 14px;
-                line-height: 1.4;
-                color: #1a1a1a;
-                margin: 0;
-            }
-
-            .error-section {
-                background: #fef2f2;
-                border: 1px solid #fecaca;
-                border-radius: 8px;
-                padding: 16px;
-                margin-bottom: 24px;
-            }
-
-            .error-title {
-                color: #dc2626;
-                font-size: 14px;
-                font-weight: 600;
-                margin: 0 0 8px 0;
-            }
-
-            .error-list {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            }
-
-            .error-item {
-                color: #991b1b;
-                font-size: 13px;
-                padding: 2px 0;
-                font-family: 'SF Mono', Consolas, monospace;
-            }
-
-            @media (max-width: 480px) {
-                body { padding: 12px; }
-                .header { padding: 24px 20px; }
-                .content { padding: 20px; }
-                .header-info { grid-template-columns: 1fr; gap: 12px; }
-                .news-header { gap: 6px; }
-                .news-content { padding-right: 45px; }
-                .news-item { gap: 8px; }
-                .new-item { gap: 8px; }
-                .news-number { width: 20px; height: 20px; font-size: 12px; }
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="header">
-                <div class="header-title">热点新闻分析</div>
-                <div class="header-info">
-                    <div class="info-item">
-                        <span class="info-label">报告类型</span>
-                        <span class="info-value">当日汇总</span>
+        <div class="life-section">
+            <div class="life-grid">
+                <div class="life-card">
+                    <div class="weather-top">
+                        <div>
+                            <div class="weather-temp" id="weather-temp">--°</div>
+                            <div class="weather-info-text">
+                                <span id="weather-city">赤峰</span> <span id="weather-desc">--</span>
+                            </div>
+                        </div>
+                        <div class="weather-icon" id="weather-icon">☀</div>
                     </div>
-                    <div class="info-item">
-                        <span class="info-label">新闻总数</span>
-                        <span class="info-value">315 条</span>
+                    <div class="date-info">
+                        <div id="date-day-text">--月--日</div>
+                        <div id="date-lunar-text">农历--</div>
                     </div>
-                    <div class="info-item">
-                        <span class="info-label">热点新闻</span>
-                        <span class="info-value">21 条</span>
+                </div>
+
+                <div class="life-card">
+                    <div>
+                        <div class="mini-section-title">今日油价</div>
+                        <div class="oil-row">
+                            <span>92#: <span class="oil-val" id="oil-92">--</span></span>
+                            <span>95#: <span class="oil-val" id="oil-95">--</span></span>
+                            <span>98#: <span class="oil-val" id="oil-98">--</span></span>
+                        </div>
                     </div>
-                    <div class="info-item">
-                        <span class="info-label">生成时间</span>
-                        <span class="info-value">12-18 07:20</span>
+                    <div>
+                        <div class="mini-section-title">
+                            双色球 <span style="font-weight:normal;color:#999;font-size:10px" id="lotto-issue">--期</span>
+                        </div>
+                        <div class="lotto-balls" id="lotto-balls-container">
+                            <div class="ball red">-</div><div class="ball blue">-</div>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="content">
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告</div>
-                            <div class="word-count hot">18 条</div>
-                        </div>
-                        <div class="word-index">1/2</div>
+            <div class="ad-grid">
+                <a href="tel:18247622852" class="ad-item">
+                    <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/dingqi.jpg" alt="定期咨询">
+                </a>
+                <a href="https://creditcard.msbank.com/aivue/m/#/index?time=1766054749045&id=85aa7361000511ec93d3286ee488ca42&rid=442f935319d74ba1825b01552c14b77f&applyChannel=21003&qrcity=" target="_blank" class="ad-item">
+                    <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/xinyongka.png" alt="信用卡申请">
+                </a>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="word-group">
+                <div class="word-header">
+                    <div class="word-info">
+                        <div class="word-name">加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告</div>
+                        <div class="word-count hot">18 条</div>
                     </div>
-                    <div class="news-item ">
-                        <div class="news-number">1</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num top">2</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761550" target="_blank" class="news-link">甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高</a>
-                            </div>
+                    <div class="word-index">1/2</div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">1</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻</span><span class="rank-num top">2</span><span class="time-info">07时20分</span>
                         </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">2</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">财联社热门</span><span class="rank-num high">5</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://www.cls.cn/detail/2232828" target="_blank" class="news-link">美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">3</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num ">7</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761583" target="_blank" class="news-link">美联储理事沃勒：任有50-100BP降息空间，但无需急于行动</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">4</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num ">9</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761532" target="_blank" class="news-link">创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">5</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">金十数据</span><span class="rank-num ">13</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://flash.jin10.com/detail/20251218060645932800" target="_blank" class="news-link">降息效应显现 新西兰第三季度GDP反弹超预期</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">6</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">13</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022629" target="_blank" class="news-link">本田将因芯片短缺削减日本和中国的产量。（日经）</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">7</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">14</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022628" target="_blank" class="news-link">美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">8</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">16</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022625" target="_blank" class="news-link">周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">9</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">19</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022622" target="_blank" class="news-link">（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">10</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">20</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022621" target="_blank" class="news-link">美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。 （估计）只能满足1/2-2/3的关键客户的需求。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">11</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">知乎</span><span class="rank-num ">20</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://www.zhihu.com/question/458368304" target="_blank" class="news-link">芯片的原理是什么？</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">12</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">21</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022620" target="_blank" class="news-link">周三（12月17日）纽约尾盘，现货黄金涨0.89%，报4340.84美元/盎司，几乎全天处于上涨状态、整体震荡上行，交投于4301.69-4348.85美元 COMEX黄金期货涨0.96%，报4374.00美元/盎司，北京时间23:33也曾刷新日高至4383.60美元。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">13</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">22</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022619" target="_blank" class="news-link">新西兰三季度GDP季环比 1.1%，预期 0.9%，前值 -0.9%。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">14</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">金十数据</span><span class="rank-num ">23</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://flash.jin10.com/detail/20251218054502642800" target="_blank" class="news-link">新西兰第三季度GDP年率 1.3%，预期1.3%，前值由-0.60%修正为-1.1%。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">15</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">23</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022618" target="_blank" class="news-link">新西兰三季度GDP同比 1.3%，预期 1.3%，前值 -0.6%。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">16</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">金十数据</span><span class="rank-num ">24</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://flash.jin10.com/detail/20251218054502591800" target="_blank" class="news-link">新西兰第三季度GDP季率 1.1%，预期0.9%，前值由-0.90%修正为-1%。</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">17</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">24</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022615" target="_blank" class="news-link">半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">18</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">27</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022611" target="_blank" class="news-link">美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%</a>
-                            </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/articles/3761550" target="_blank" class="news-link">甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高</a>
                         </div>
                     </div>
                 </div>
-                <div class="word-group">
-                    <div class="word-header">
-                        <div class="word-info">
-                            <div class="word-name">AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态</div>
-                            <div class="word-count ">3 条</div>
+                <div class="news-item ">
+                    <div class="news-number">2</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">财联社热门</span><span class="rank-num high">5</span><span class="time-info">07时20分</span>
                         </div>
-                        <div class="word-index">2/2</div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">1</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">7</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022640" target="_blank" class="news-link">OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。</a>
-                            </div>
+                        <div class="news-title"><a href="https://www.cls.cn/detail/2232828" target="_blank" class="news-link">美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%</a>
                         </div>
                     </div>
-                    <div class="news-item ">
-                        <div class="news-number">2</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">金十数据</span><span class="rank-num ">10</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://flash.jin10.com/detail/20251218063011323800" target="_blank" class="news-link">OpenAI：开发者们现在可以向ChatGPT上传APPs。</a>
-                            </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">3</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻</span><span class="rank-num ">7</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/articles/3761583" target="_blank" class="news-link">美联储理事沃勒：任有50-100BP降息空间，但无需急于行动</a>
                         </div>
                     </div>
-                    <div class="news-item ">
-                        <div class="news-number">3</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">澎湃新闻</span><span class="rank-num ">16</span><span class="time-info">07时20分</span>
-                            </div>
-                            <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32194390" target="_blank" class="news-link">小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”</a>
-                            </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">4</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻</span><span class="rank-num ">9</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/articles/3761532" target="_blank" class="news-link">创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">5</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">金十数据</span><span class="rank-num ">13</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://flash.jin10.com/detail/20251218060645932800" target="_blank" class="news-link">降息效应显现 新西兰第三季度GDP反弹超预期</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">6</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">13</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022629" target="_blank" class="news-link">本田将因芯片短缺削减日本和中国的产量。（日经）</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">7</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">14</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022628" target="_blank" class="news-link">美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">8</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">16</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022625" target="_blank" class="news-link">周三（12月17日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌2.10%，报85950美元，北京时间23:06曾拉涨至90565美元刷新日高——短线呈现出冲高回落走势。 CME以太币期货DCR主力合约跌4.73%，报2820美元。 美股加密货币与加密货币关联指数跌5.27%，报58.24点，整体持续走低。 最近24小时，MarketVector数字资产100小盘指数跌5.49%，暂报3525.38点。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">9</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">19</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022622" target="_blank" class="news-link">（美股）费城金银指数收涨0.86%，报338.32点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.29%，报2409.16点，亚太盘初以来维持上涨状态，大部分时间持稳于2390点附近。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">10</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">20</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022621" target="_blank" class="news-link">美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。 （估计）只能满足1/2-2/3的关键客户的需求。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">11</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">知乎</span><span class="rank-num ">20</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://www.zhihu.com/question/458368304" target="_blank" class="news-link">芯片的原理是什么？</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">12</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">21</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022620" target="_blank" class="news-link">周三（12月17日）纽约尾盘，现货黄金涨0.89%，报4340.84美元/盎司，几乎全天处于上涨状态、整体震荡上行，交投于4301.69-4348.85美元 COMEX黄金期货涨0.96%，报4374.00美元/盎司，北京时间23:33也曾刷新日高至4383.60美元。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">13</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">22</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022619" target="_blank" class="news-link">新西兰三季度GDP季环比 1.1%，预期 0.9%，前值 -0.9%。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">14</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">金十数据</span><span class="rank-num ">23</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://flash.jin10.com/detail/20251218054502642800" target="_blank" class="news-link">新西兰第三季度GDP年率 1.3%，预期1.3%，前值由-0.60%修正为-1.1%。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">15</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">23</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022618" target="_blank" class="news-link">新西兰三季度GDP同比 1.3%，预期 1.3%，前值 -0.6%。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">16</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">金十数据</span><span class="rank-num ">24</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://flash.jin10.com/detail/20251218054502591800" target="_blank" class="news-link">新西兰第三季度GDP季率 1.1%，预期0.9%，前值由-0.90%修正为-1%。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">17</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">24</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022615" target="_blank" class="news-link">半导体ETF收跌3.6%，领跌美股行业ETF，标普能源板块反弹2.2%</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">18</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">27</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022611" target="_blank" class="news-link">美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="word-group">
+                <div class="word-header">
+                    <div class="word-info">
+                        <div class="word-name">AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态</div>
+                        <div class="word-count ">3 条</div>
+                    </div>
+                    <div class="word-index">2/2</div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">1</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">7</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://wallstreetcn.com/livenews/3022640" target="_blank" class="news-link">OpenAI：开发者们现在可以向ChatGPT上传APPs。 在ChatGPT内引入一个APP目录。 将在新年推出第一批经过批准的APPs。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">2</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">金十数据</span><span class="rank-num ">10</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://flash.jin10.com/detail/20251218063011323800" target="_blank" class="news-link">OpenAI：开发者们现在可以向ChatGPT上传APPs。</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="news-item ">
+                    <div class="news-number">3</div>
+                    <div class="news-content">
+                        <div class="news-header">
+                            <span class="source-name">澎湃新闻</span><span class="rank-num ">16</span><span class="time-info">07时20分</span>
+                        </div>
+                        <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32194390" target="_blank" class="news-link">小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </body>
-    </html>
-    
+    </div>
+
+    <script>
+        // ================= JS 逻辑：仅处理“生活服务区”的数据 =================
+
+        // 1. 图标匹配函数
+        function getWeatherIcon(condition) {
+            if (!condition) return null;
+            if (condition.includes("雪") || condition.includes("冰")) return "❄️";
+            if (condition.includes("雷")) return "⛈️";
+            if (condition.includes("雨")) return "🌧️";
+            if (condition.includes("雾") || condition.includes("霾") || condition.includes("沙")) return "🌫️";
+            if (condition.includes("阴") || condition.includes("云")) return "☁️";
+            if (condition.includes("晴")) return "☀️";
+            return null; // 没匹配到就隐藏
+        }
+
+        // 2. 渲染生活数据
+        function renderLifeData(data) {
+            // --- 天气 ---
+            if (data.weather) {
+                document.getElementById('weather-city').textContent = data.weather.city || "赤峰";
+                
+                // 处理温度显示 (仅取数字部分，去掉~后半段，显得简洁)
+                let tempStr = data.weather.temp || "--";
+                if(tempStr.includes('~')) tempStr = tempStr.split('~')[0].trim();
+                document.getElementById('weather-temp').textContent = tempStr + "°";
+                
+                document.getElementById('weather-desc').textContent = data.weather.condition || "--";
+                
+                // 图标处理
+                const iconChar = getWeatherIcon(data.weather.condition);
+                const iconElement = document.getElementById('weather-icon');
+                if (iconChar) {
+                    iconElement.textContent = iconChar;
+                    iconElement.style.display = "block";
+                } else {
+                    iconElement.style.display = "none";
+                }
+            }
+
+            // --- 日期 & 农历 ---
+            const now = new Date();
+            document.getElementById('date-day-text').textContent = `${now.getMonth()+1}月${now.getDate()}日`;
+            try {
+                const lunar = Lunar.fromDate(now);
+                document.getElementById('date-lunar-text').textContent = `农历${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`;
+            } catch(e) {}
+
+            // --- 油价 ---
+            if (data.oil && data.oil.prices) {
+                document.getElementById('oil-92').textContent = data.oil.prices.p92 || "--";
+                document.getElementById('oil-95').textContent = data.oil.prices.p95 || "--";
+                document.getElementById('oil-98').textContent = data.oil.prices.p98 || "--";
+            }
+
+            // --- 双色球 ---
+            if (data.lottery) {
+                document.getElementById('lotto-issue').textContent = (data.lottery.issue || "--") + "期";
+                const ballsContainer = document.getElementById('lotto-balls-container');
+                let ballsHtml = '';
+                // 仅显示前6个红球 + 1个蓝球，防止小卡片撑爆
+                if (data.lottery.red && Array.isArray(data.lottery.red)) {
+                    data.lottery.red.slice(0, 6).forEach(num => {
+                        ballsHtml += `<div class="ball red">${num}</div>`;
+                    });
+                }
+                if (data.lottery.blue) {
+                    ballsHtml += `<div class="ball blue">${data.lottery.blue}</div>`;
+                }
+                ballsContainer.innerHTML = ballsHtml;
+            }
+        }
+
+        // 3. 启动逻辑：加载 data.json
+        fetch('data/data.json?v=' + new Date().getTime())
+            .then(res => {
+                if (!res.ok) throw new Error("File not found");
+                return res.json();
+            })
+            .then(data => {
+                console.log("生活数据加载成功:", data);
+                renderLifeData(data);
+            })
+            .catch(e => {
+                console.warn("data.json 加载失败，请确保 update.py 已运行。", e);
+            });
+    </script>
+</body>
+</html>
