@@ -1550,7 +1550,7 @@ def render_html_content(
         is_daily_summary: bool = False,
         mode: str = "daily",
 ) -> str:
-    """渲染HTML内容"""
+    """渲染HTML内容（集成生活服务看板）"""
     html = """
     <!DOCTYPE html>
     <html>
@@ -1558,6 +1558,7 @@ def render_html_content(
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>热点新闻分析</title>
+        <script src="https://cdn.jsdelivr.net/npm/lunar-javascript@1.6.12/lunar.min.js"></script>
         <style>
             * { box-sizing: border-box; }
             body { 
@@ -1599,292 +1600,100 @@ def render_html_content(
                 opacity: 0.95;
             }
 
-            .info-item {
-                text-align: center;
-            }
+            .info-item { text-align: center; }
+            .info-label { display: block; font-size: 12px; opacity: 0.8; margin-bottom: 4px; }
+            .info-value { font-weight: 600; font-size: 16px; }
 
-            .info-label {
-                display: block;
-                font-size: 12px;
-                opacity: 0.8;
-                margin-bottom: 4px;
+            /* === 新增：生活服务区样式 === */
+            .life-section {
+                background: #f3f4f6;
+                padding: 16px 24px;
+                border-bottom: 1px solid #eee;
             }
-
-            .info-value {
-                font-weight: 600;
-                font-size: 16px;
-            }
-
-            .content {
-                padding: 24px;
-            }
-
-            .word-group {
-                margin-bottom: 40px;
-            }
-
-            .word-group:first-child {
-                margin-top: 0;
-            }
-
-            .word-header {
-                display: flex;
-                align-items: center;
-                justify-content: space-between;
-                margin-bottom: 20px;
-                padding-bottom: 8px;
-                border-bottom: 1px solid #f0f0f0;
-            }
-
-            .word-info {
-                display: flex;
-                align-items: center;
+            .life-grid {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
                 gap: 12px;
+                margin-bottom: 12px;
             }
-
-            .word-name {
-                font-size: 17px;
-                font-weight: 600;
-                color: #1a1a1a;
+            .life-card {
+                background: white;
+                border-radius: 10px;
+                padding: 12px;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                min-height: 100px;
             }
+            .weather-top { display: flex; justify-content: space-between; align-items: flex-start; }
+            .weather-temp { font-size: 26px; font-weight: bold; color: #333; line-height: 1; }
+            .weather-icon { font-size: 28px; line-height: 1; }
+            .weather-info-text { font-size: 12px; color: #666; margin-top: 4px; }
+            .date-info { font-size: 11px; color: #888; text-align: right; margin-top: auto; }
+            
+            .mini-section-title { font-size: 12px; font-weight: bold; color: #4f46e5; margin-bottom: 4px; display: flex; justify-content: space-between; }
+            .oil-row { display: flex; justify-content: space-between; font-size: 12px; color: #333; margin-bottom: 8px; border-bottom: 1px dashed #eee; padding-bottom: 6px; }
+            .oil-val { font-weight: bold; color: #e60012; }
+            
+            .lotto-balls { display: flex; gap: 3px; }
+            .ball { width: 16px; height: 16px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+            .ball.red { background: #e60012; }
+            .ball.blue { background: #3b82f6; }
+            
+            .ad-grid { display: flex; gap: 10px; }
+            .ad-item { flex: 1; border-radius: 10px; overflow: hidden; height: 60px; box-shadow: 0 1px 2px rgba(0,0,0,0.05); transition: transform 0.1s; background: #fff; }
+            .ad-item:active { transform: scale(0.98); }
+            .ad-item img { width: 100%; height: 100%; object-fit: cover; display: block; }
+            /* === 生活区样式结束 === */
 
-            .word-count {
-                color: #666;
-                font-size: 13px;
-                font-weight: 500;
-            }
-
+            .content { padding: 24px; }
+            .word-group { margin-bottom: 40px; }
+            .word-group:first-child { margin-top: 0; }
+            .word-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; padding-bottom: 8px; border-bottom: 1px solid #f0f0f0; }
+            .word-info { display: flex; align-items: center; gap: 12px; }
+            .word-name { font-size: 17px; font-weight: 600; color: #1a1a1a; }
+            .word-count { color: #666; font-size: 13px; font-weight: 500; }
             .word-count.hot { color: #dc2626; font-weight: 600; }
             .word-count.warm { color: #ea580c; font-weight: 600; }
+            .word-index { color: #999; font-size: 12px; }
 
-            .word-index {
-                color: #999;
-                font-size: 12px;
-            }
-
-            .news-item {
-                margin-bottom: 20px;
-                padding: 16px 0;
-                border-bottom: 1px solid #f5f5f5;
-                position: relative;
-                display: flex;
-                gap: 12px;
-                align-items: center;
-            }
-
-            .news-item:last-child {
-                border-bottom: none;
-            }
-
-            .news-item.new::after {
-                content: "NEW";
-                position: absolute;
-                top: 12px;
-                right: 0;
-                background: #fbbf24;
-                color: #92400e;
-                font-size: 9px;
-                font-weight: 700;
-                padding: 3px 6px;
-                border-radius: 4px;
-                letter-spacing: 0.5px;
-            }
-
-            .news-number {
-                color: #999;
-                font-size: 13px;
-                font-weight: 600;
-                min-width: 20px;
-                text-align: center;
-                flex-shrink: 0;
-                background: #f8f9fa;
-                border-radius: 50%;
-                width: 24px;
-                height: 24px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                align-self: flex-start;
-                margin-top: 8px;
-            }
-
-            .news-content {
-                flex: 1;
-                min-width: 0;
-                padding-right: 40px;
-            }
-
-            .news-item.new .news-content {
-                padding-right: 50px;
-            }
-
-            .news-header {
-                display: flex;
-                align-items: center;
-                gap: 8px;
-                margin-bottom: 8px;
-                flex-wrap: wrap;
-            }
-
-            .source-name {
-                color: #666;
-                font-size: 12px;
-                font-weight: 500;
-            }
-
-            .rank-num {
-                color: #fff;
-                background: #6b7280;
-                font-size: 10px;
-                font-weight: 700;
-                padding: 2px 6px;
-                border-radius: 10px;
-                min-width: 18px;
-                text-align: center;
-            }
-
+            .news-item { margin-bottom: 20px; padding: 16px 0; border-bottom: 1px solid #f5f5f5; position: relative; display: flex; gap: 12px; align-items: center; }
+            .news-item:last-child { border-bottom: none; }
+            .news-item.new::after { content: "NEW"; position: absolute; top: 12px; right: 0; background: #fbbf24; color: #92400e; font-size: 9px; font-weight: 700; padding: 3px 6px; border-radius: 4px; letter-spacing: 0.5px; }
+            
+            .news-number { color: #999; font-size: 13px; font-weight: 600; min-width: 20px; text-align: center; flex-shrink: 0; background: #f8f9fa; border-radius: 50%; width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; align-self: flex-start; margin-top: 8px; }
+            .news-content { flex: 1; min-width: 0; padding-right: 40px; }
+            .news-item.new .news-content { padding-right: 50px; }
+            
+            .news-header { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; flex-wrap: wrap; }
+            .source-name { color: #666; font-size: 12px; font-weight: 500; }
+            .rank-num { color: #fff; background: #6b7280; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 10px; min-width: 18px; text-align: center; }
             .rank-num.top { background: #dc2626; }
             .rank-num.high { background: #ea580c; }
+            .time-info { color: #999; font-size: 11px; }
+            .count-info { color: #059669; font-size: 11px; font-weight: 500; }
+            .news-title { font-size: 15px; line-height: 1.4; color: #1a1a1a; margin: 0; }
+            .news-link { color: #2563eb; text-decoration: none; }
+            .news-link:hover { text-decoration: underline; }
+            .news-link:visited { color: #7c3aed; }
 
-            .time-info {
-                color: #999;
-                font-size: 11px;
-            }
-
-            .count-info {
-                color: #059669;
-                font-size: 11px;
-                font-weight: 500;
-            }
-
-            .news-title {
-                font-size: 15px;
-                line-height: 1.4;
-                color: #1a1a1a;
-                margin: 0;
-            }
-
-            .news-link {
-                color: #2563eb;
-                text-decoration: none;
-            }
-
-            .news-link:hover {
-                text-decoration: underline;
-            }
-
-            .news-link:visited {
-                color: #7c3aed;
-            }
-
-            .new-section {
-                margin-top: 40px;
-                padding-top: 24px;
-                border-top: 2px solid #f0f0f0;
-            }
-
-            .new-section-title {
-                color: #1a1a1a;
-                font-size: 16px;
-                font-weight: 600;
-                margin: 0 0 20px 0;
-            }
-
-            .new-source-group {
-                margin-bottom: 24px;
-            }
-
-            .new-source-title {
-                color: #666;
-                font-size: 13px;
-                font-weight: 500;
-                margin: 0 0 12px 0;
-                padding-bottom: 6px;
-                border-bottom: 1px solid #f5f5f5;
-            }
-
-            .new-item {
-                display: flex;
-                align-items: center;
-                gap: 12px;
-                padding: 8px 0;
-                border-bottom: 1px solid #f9f9f9;
-            }
-
-            .new-item:last-child {
-                border-bottom: none;
-            }
-
-            .new-item-number {
-                color: #999;
-                font-size: 12px;
-                font-weight: 600;
-                min-width: 18px;
-                text-align: center;
-                flex-shrink: 0;
-                background: #f8f9fa;
-                border-radius: 50%;
-                width: 20px;
-                height: 20px;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
-
-            .new-item-rank {
-                color: #fff;
-                background: #6b7280;
-                font-size: 10px;
-                font-weight: 700;
-                padding: 3px 6px;
-                border-radius: 8px;
-                min-width: 20px;
-                text-align: center;
-                flex-shrink: 0;
-            }
-
+            .new-section { margin-top: 40px; padding-top: 24px; border-top: 2px solid #f0f0f0; }
+            .new-section-title { color: #1a1a1a; font-size: 16px; font-weight: 600; margin: 0 0 20px 0; }
+            .new-source-group { margin-bottom: 24px; }
+            .new-source-title { color: #666; font-size: 13px; font-weight: 500; margin: 0 0 12px 0; padding-bottom: 6px; border-bottom: 1px solid #f5f5f5; }
+            .new-item { display: flex; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid #f9f9f9; }
+            .new-item:last-child { border-bottom: none; }
+            .new-item-number { color: #999; font-size: 12px; font-weight: 600; min-width: 18px; text-align: center; flex-shrink: 0; background: #f8f9fa; border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; }
+            .new-item-rank { color: #fff; background: #6b7280; font-size: 10px; font-weight: 700; padding: 3px 6px; border-radius: 8px; min-width: 20px; text-align: center; flex-shrink: 0; }
             .new-item-rank.top { background: #dc2626; }
             .new-item-rank.high { background: #ea580c; }
-
-            .new-item-content {
-                flex: 1;
-                min-width: 0;
-            }
-
-            .new-item-title {
-                font-size: 14px;
-                line-height: 1.4;
-                color: #1a1a1a;
-                margin: 0;
-            }
-
-            .error-section {
-                background: #fef2f2;
-                border: 1px solid #fecaca;
-                border-radius: 8px;
-                padding: 16px;
-                margin-bottom: 24px;
-            }
-
-            .error-title {
-                color: #dc2626;
-                font-size: 14px;
-                font-weight: 600;
-                margin: 0 0 8px 0;
-            }
-
-            .error-list {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            }
-
-            .error-item {
-                color: #991b1b;
-                font-size: 13px;
-                padding: 2px 0;
-                font-family: 'SF Mono', Consolas, monospace;
-            }
+            .new-item-content { flex: 1; min-width: 0; }
+            .new-item-title { font-size: 14px; line-height: 1.4; color: #1a1a1a; margin: 0; }
+            .error-section { background: #fef2f2; border: 1px solid #fecaca; border-radius: 8px; padding: 16px; margin-bottom: 24px; }
+            .error-title { color: #dc2626; font-size: 14px; font-weight: 600; margin: 0 0 8px 0; }
+            .error-list { list-style: none; padding: 0; margin: 0; }
+            .error-item { color: #991b1b; font-size: 13px; padding: 2px 0; font-family: 'SF Mono', Consolas, monospace; }
 
             @media (max-width: 480px) {
                 body { padding: 12px; }
@@ -1952,6 +1761,53 @@ def render_html_content(
                 </div>
             </div>
 
+            <div class="life-section">
+                <div class="life-grid">
+                    <div class="life-card">
+                        <div class="weather-top">
+                            <div>
+                                <div class="weather-temp" id="weather-temp">--°</div>
+                                <div class="weather-info-text">
+                                    <span id="weather-city">赤峰</span> <span id="weather-desc">--</span>
+                                </div>
+                            </div>
+                            <div class="weather-icon" id="weather-icon">☀</div>
+                        </div>
+                        <div class="date-info">
+                            <div id="date-day-text">--月--日</div>
+                            <div id="date-lunar-text">农历--</div>
+                        </div>
+                    </div>
+
+                    <div class="life-card">
+                        <div>
+                            <div class="mini-section-title">今日油价</div>
+                            <div class="oil-row">
+                                <span>92#: <span class="oil-val" id="oil-92">--</span></span>
+                                <span>95#: <span class="oil-val" id="oil-95">--</span></span>
+                                <span>98#: <span class="oil-val" id="oil-98">--</span></span>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="mini-section-title">
+                                双色球 <span style="font-weight:normal;color:#999;font-size:10px" id="lotto-issue">--期</span>
+                            </div>
+                            <div class="lotto-balls" id="lotto-balls-container">
+                                <div class="ball red">-</div><div class="ball blue">-</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ad-grid">
+                    <a href="tel:18247622852" class="ad-item">
+                        <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/dingqi.jpg" alt="定期咨询">
+                    </a>
+                    <a href="https://creditcard.msbank.com/aivue/m/#/index?time=1766054749045&id=85aa7361000511ec93d3286ee488ca42&rid=442f935319d74ba1825b01552c14b77f&applyChannel=21003&qrcity=" target="_blank" class="ad-item">
+                        <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/xinyongka.png" alt="信用卡申请">
+                    </a>
+                </div>
+            </div>
             <div class="content">"""
 
     # 处理失败ID错误信息
@@ -2129,9 +1985,89 @@ def render_html_content(
         html += """
                 </div>"""
 
+    # 添加 JavaScript 代码以加载生活数据
     html += """
             </div>
         </div>
+
+        <script>
+        // --- 1. 图标匹配 ---
+        function getWeatherIcon(condition) {
+            if (!condition) return null;
+            if (condition.includes("雪") || condition.includes("冰")) return "❄️";
+            if (condition.includes("雷")) return "⛈️";
+            if (condition.includes("雨")) return "🌧️";
+            if (condition.includes("雾") || condition.includes("霾") || condition.includes("沙")) return "🌫️";
+            if (condition.includes("阴") || condition.includes("云")) return "☁️";
+            if (condition.includes("晴")) return "☀️";
+            return null;
+        }
+
+        // --- 2. 渲染数据 ---
+        function renderLifeData(data) {
+            // 天气
+            if (data.weather) {
+                document.getElementById('weather-city').textContent = data.weather.city || "赤峰";
+                let tempStr = data.weather.temp || "--";
+                if(tempStr.includes('~')) tempStr = tempStr.split('~')[0].trim();
+                document.getElementById('weather-temp').textContent = tempStr + "°";
+                document.getElementById('weather-desc').textContent = data.weather.condition || "--";
+                
+                const iconChar = getWeatherIcon(data.weather.condition);
+                const iconElement = document.getElementById('weather-icon');
+                if (iconChar) {
+                    iconElement.textContent = iconChar;
+                    iconElement.style.display = "block";
+                } else {
+                    iconElement.style.display = "none";
+                }
+            }
+
+            // 日期
+            const now = new Date();
+            document.getElementById('date-day-text').textContent = `${now.getMonth()+1}月${now.getDate()}日`;
+            try {
+                const lunar = Lunar.fromDate(now);
+                document.getElementById('date-lunar-text').textContent = `农历${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`;
+            } catch(e) {}
+
+            // 油价
+            if (data.oil && data.oil.prices) {
+                document.getElementById('oil-92').textContent = data.oil.prices.p92 || "--";
+                document.getElementById('oil-95').textContent = data.oil.prices.p95 || "--";
+                document.getElementById('oil-98').textContent = data.oil.prices.p98 || "--";
+            }
+
+            // 双色球
+            if (data.lottery) {
+                document.getElementById('lotto-issue').textContent = (data.lottery.issue || "--") + "期";
+                const ballsContainer = document.getElementById('lotto-balls-container');
+                let ballsHtml = '';
+                if (data.lottery.red && Array.isArray(data.lottery.red)) {
+                    data.lottery.red.slice(0, 6).forEach(num => {
+                        ballsHtml += `<div class="ball red">${num}</div>`;
+                    });
+                }
+                if (data.lottery.blue) {
+                    ballsHtml += `<div class="ball blue">${data.lottery.blue}</div>`;
+                }
+                ballsContainer.innerHTML = ballsHtml;
+            }
+        }
+
+        // --- 3. 启动：加载 data.json ---
+        fetch('data/data.json?v=' + new Date().getTime())
+            .then(res => {
+                if (!res.ok) throw new Error("File not found");
+                return res.json();
+            })
+            .then(data => {
+                renderLifeData(data);
+            })
+            .catch(e => {
+                console.warn("data.json 加载失败", e);
+            });
+        </script>
     </body>
     </html>
     """
