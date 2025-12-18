@@ -2,11 +2,11 @@ name: Hot News Crawler
 
 on:
   schedule:
-    # 我们使用的是 github 官方提供的资源来进行的推送，而每个账号的资源是限额的，为了不被官方判定为滥用而面临封号的风险，不建议比半小时更低
-    - cron: "0 23 * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
+    # 每天北京时间早上 7:00 (UTC 23:00) 运行
+    - cron: "0 23 * * *"
   workflow_dispatch:
 
-# 添加权限设置
+# 添加权限设置，允许提交代码
 permissions:
   contents: write
 
@@ -26,28 +26,36 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+          # 安装 requirements.txt (包含了 requests, beautifulsoup4 等)
           pip install -r requirements.txt
           playwright install --with-deps
 
       - name: Verify required files
         run: |
           echo "🔍 检查必需的配置文件..."
-
           if [ ! -f config/config.yaml ]; then
             echo "❌ 错误: config/config.yaml 文件不存在"
-            echo "请参考项目文档创建配置文件"
             exit 1
           fi
-
-          if [ ! -f config/frequency_words.txt ]; then
-            echo "❌ 错误: config/frequency_words.txt 文件不存在"
-            echo "请参考项目文档创建频率词配置文件"
+          # 检查 update.py 是否存在
+          if [ ! -f update.py ]; then
+            echo "❌ 错误: update.py 文件不存在"
             exit 1
           fi
-
           echo "✅ 配置文件检查通过"
 
-      - name: Run crawler
+      # ================================================================
+      # 步骤 1: 先抓取生活数据 (天气/油价/双色球)
+      # 逻辑：先准备好 data/data.json 数据文件
+      # ================================================================
+      - name: Run Life Data Updater (update.py)
+        run: python update.py
+
+      # ================================================================
+      # 步骤 2: 再抓取新闻并生成网页 (main.py)
+      # 逻辑：main.py 会生成 index.html，里面的 JS 代码会去读取上面的 data.json
+      # ================================================================
+      - name: Run News Crawler (main.py)
         env:
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -57,9 +65,15 @@ jobs:
           GITHUB_ACTIONS: true
         run: python main.py
 
+      # ================================================================
+      # 步骤 3: 一次性提交所有更改
+      # 包括：data/data.json (新数据) 和 index.html (新页面)
+      # ================================================================
       - name: Commit and push if changes
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          # 把所有变化的文件（json和html）都加入暂存区
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+          # 只有当有变化时才提交，防止报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update: News & Life Data at $(TZ=Asia/Shanghai date)" && git push)
