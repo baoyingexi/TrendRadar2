@@ -2038,6 +2038,11 @@ def render_html_content(
                 document.getElementById('oil-92').textContent = data.oil.prices.p92 || "--";
                 document.getElementById('oil-95').textContent = data.oil.prices.p95 || "--";
                 document.getElementById('oil-98').textContent = data.oil.prices.p98 || "--";
+                // ✅✅✅ 在这里插入下面这段代码 (显示油价调整日期) ✅✅✅
+                const oilAlert = document.getElementById('oil-alert');
+                if (oilAlert && data.oil.alert) {
+                    oilAlert.textContent = "📅 " + data.oil.alert;
+                }
             }
 
             // 双色球
@@ -2054,6 +2059,11 @@ def render_html_content(
                     ballsHtml += `<div class="ball blue">${data.lottery.blue}</div>`;
                 }
                 ballsContainer.innerHTML = ballsHtml;
+                // ✅✅✅ 在这里插入下面这段代码 (显示奖池) ✅✅✅
+                const poolDiv = document.getElementById('lottery-pool');
+                if (poolDiv && data.lottery.pool) {
+                    poolDiv.textContent = "💰 奖池: " + data.lottery.pool;
+                }
             }
         }
 
