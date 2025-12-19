@@ -1787,7 +1787,7 @@ def render_html_content(
                                 <span>95#: <span class="oil-val" id="oil-95">--</span></span>
                                 <span>98#: <span class="oil-val" id="oil-98">--</span></span>
                             </div>
-                            <div id="oil-alert" style="font-size: 12px; color: #666; margin-top: 8px;"></div>
+                            <div id="oil-alert" style="font-size: 10px; color: #999; margin-top: 6px; text-align: right; transform: scale(0.9); transform-origin: right center;"></div>
                         </div>
                         <div>
                             <div class="mini-section-title">
@@ -2041,28 +2041,33 @@ def render_html_content(
                 // ✅✅✅ 在这里插入下面这段代码 (显示油价调整日期) ✅✅✅
                 const oilAlert = document.getElementById('oil-alert');
                 if (oilAlert && data.oil.alert) {
-                    oilAlert.textContent = "📅 " + data.oil.alert;
+                    let shortText = data.oil.alert.replace("下一个油价调整日期为", "下次:");
+                    shortText = shortText.replace("2025年", ""); // 去掉年份省空间
+                    oilAlert.innerText = "📅 " + shortText;
+                    oilAlert.style.display = 'block';
                 }
             }
 
             // 双色球
             if (data.lottery) {
-                document.getElementById('lotto-issue').textContent = (data.lottery.issue || "--") + "期";
-                const ballsContainer = document.getElementById('lotto-balls-container');
-                let ballsHtml = '';
-                if (data.lottery.red && Array.isArray(data.lottery.red)) {
-                    data.lottery.red.slice(0, 6).forEach(num => {
-                        ballsHtml += `<div class="ball red">${num}</div>`;
+                const lIssue = document.getElementById('lotto-issue') || document.getElementById('lottery-issue');
+                if (lIssue) {
+                    lIssue.innerText = (data.lottery.issue == "统计中..." ? "统计中" : "第" + data.lottery.issue + "期");
+                const lPool = document.getElementById('lottery-pool');
+                if (lPool && data.lottery.pool) {
+                    lPool.innerText = "💰 奖池: " + data.lottery.pool;
+                    lPool.style.display = 'block';
+                }  
+                const ballsBox = document.getElementById('lotto-balls-container') || document.getElementById('lottery-balls');
+                if (ballsBox && data.lottery.red && data.lottery.red.length > 0) {
+                    let html = ""; 
+                    data.lottery.red.forEach(num => {
+                        html += `<div class="ball red">${num}</div>`;
                     });
-                }
-                if (data.lottery.blue) {
-                    ballsHtml += `<div class="ball blue">${data.lottery.blue}</div>`;
-                }
-                ballsContainer.innerHTML = ballsHtml;
-                // ✅✅✅ 在这里插入下面这段代码 (显示奖池) ✅✅✅
-                const poolDiv = document.getElementById('lottery-pool');
-                if (poolDiv && data.lottery.pool) {
-                    poolDiv.textContent = "💰 奖池: " + data.lottery.pool;
+                    if (data.lottery.blue) {
+                        html += `<div class="ball blue">${data.lottery.blue}</div>`;
+                    }
+                    ballsBox.innerHTML = html;
                 }
             }
         }
