@@ -1,12 +1,36 @@
 {
-  "generated_at": "2025-12-19T07:20:41.507546+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T09:13:23.477100+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 24,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
+          "url": "https://wallstreetcn.com/articles/3761659",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
+        },
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
+        },
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
@@ -17,6 +41,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "澳总理称将建立枪支回购计划",
+          "url": "https://flash.jin10.com/detail/20251219090810891800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "“三巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
@@ -41,26 +87,16 @@
           "time_info": "07时20分"
         },
         {
-          "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
-          "url": "https://wallstreetcn.com/articles/3761659",
+          "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
+          "url": "https://wallstreetcn.com/articles/3761628",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -70,19 +106,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
         },
         {
-          "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
-          "url": "https://wallstreetcn.com/articles/3761628",
-          "source": "华尔街见闻",
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-12-19）",
+          "url": "https://flash.jin10.com/detail/20251219090536148800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时13分"
         },
         {
           "title": "人到中年适当饿或是抗衰黄金窗口",
@@ -107,6 +143,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月19日（周五）早盘盘初下跌0.18%报972.89元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）早盘盘初下跌1.61%报15215.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251219090444925800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "明天，日本加息“板上钉钉”，市场聚焦“下一步如何加”？",
           "url": "https://wallstreetcn.com/articles/3761605",
           "source": "华尔街见闻",
@@ -116,6 +163,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤",
+          "url": "https://wallstreetcn.com/articles/3761632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "日本加息会引爆全球流动性冲击吗？",
+          "url": "https://wallstreetcn.com/articles/3761621",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "“合并三剑客”复牌，为何仅东兴封涨停？哪些空间待释放？",
@@ -151,6 +220,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "安徽“十五五”规划建议：加快构建房地产发展新模式 完善商品房开发、融资、销售等基础制度",
+          "url": "https://wallstreetcn.com/livenews/3023421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "英国10月增持美债 加拿大持仓月度波幅再超500亿",
           "url": "https://flash.jin10.com/detail/20251219060642094800",
           "source": "金十数据",
@@ -171,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "瑞穗：日本央行鸽派加息可能推动美元/日元迈向158关口",
+          "url": "https://wallstreetcn.com/livenews/3023418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "周四（12月18日）纽约尾盘，现货白银跌1.27%，报65.4243美元/盎司，美股盘初显著走低、刷新日低至64.6380美元，北京时间01:00过后再次显著下跌，脱离17日所创历史最高位66.8932美元。 COMEX白银期货跌2.28%，报65.375美元/盎司，也脱离17日所创（盘中）历史最高位67.180美元。 COMEX铜期货大致持平，报5.4250美元/磅。 现货铂金涨1.47%，现货钯金涨2.36%。",
@@ -217,6 +308,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "高盛：预计英国央行将在2026年降息三次",
+          "url": "https://flash.jin10.com/detail/20251219082429293800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "黄金在美国CPI通胀数据发布日冲高回落，一度逼近10月所创历史最高位",
           "url": "https://wallstreetcn.com/livenews/3023362",
           "source": "华尔街见闻-快讯",
@@ -237,6 +339,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "澳大利亚总理阿尔巴尼斯：将建立全国枪支回购计划。",
+          "url": "https://flash.jin10.com/detail/20251219081619920800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "中信证券：美国CPI大幅低于预期 仍预计美联储明年降息两次",
+          "url": "https://flash.jin10.com/detail/20251219080913706800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "海南封关首日黄金买越多省越多",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%E9%A6%96%E6%97%A5%E9%BB%84%E9%87%91%E4%B9%B0%E8%B6%8A%E5%A4%9A%E7%9C%81%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "中信证券：日本央行即将再次加息 “黑色星期一”不太可能重演",
+          "url": "https://flash.jin10.com/detail/20251219080759276800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "哪吒汽车破产重整新进展：已选定经营管理受托方",
+          "url": "https://wallstreetcn.com/livenews/3023401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -261,6 +418,17 @@
           "time_info": "07时20分"
         },
         {
+          "title": "日本加息",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%8A%A0%E6%81%AF&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",
           "url": "https://wallstreetcn.com/livenews/3023349",
           "source": "华尔街见闻-快讯",
@@ -275,29 +443,43 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
           "url": "https://news.ifeng.com/c/8pByOwBOHEi",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时13分]"
         },
         {
           "title": "机构密集调研AI眼镜产业链公司",
@@ -322,17 +504,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
-          "url": "https://www.zhihu.com/question/1984925319061267264",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3023367",
           "source": "华尔街见闻-快讯",
@@ -342,6 +513,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "据Chainalysis：2025年加密货币失窃规模已经达到34亿美元，个人钱包遭遇网络袭击的现象增多。",
+          "url": "https://wallstreetcn.com/livenews/3023412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
