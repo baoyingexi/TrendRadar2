@@ -1609,26 +1609,30 @@ def render_html_content(
                 display: grid;
                 grid-template-columns: 1fr 1fr;
                 gap: 10px;
-                margin-bottom: 15px;
+                margin-bottom: 20px;
+                width: 100%;
             }
             .life-card {
-                background: white;
+                background: linear-gradient(180deg, #ffffff 50%, #f6f0ff 100%);
                 border-radius: 12px;
                 padding: 10px;
-                box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+                box-shadow: 0 2px 8px rgba(0,0,0,0.05);
                 height: 100%;
-                box-sizing: border-box;
-                min-height: 110px;
+                min-height: 120px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                border: 1px solid #fff;
             }
             .life-card.weather-layout {
-                display: flex;
                 flex-direction: row;
                 align-items: stretch;
+                background: linear-gradient(180deg, #ffffff 50%, #eaf8ff 100%);
             } 
             .date-panel {  
-                flex: 1.3; /* 左边稍微宽一点 */
+                flex: 1; /* 左边稍微宽一点 */
                 border-right: 1px dashed #eee; /* 中间的虚线分隔 */
-                padding-right: 8px;
+                padding-right: 5px;
                 text-align: center;
                 display: flex;
                 flex-direction: column;
@@ -1641,7 +1645,7 @@ def render_html_content(
 
             .weather-panel {
                 flex: 1;
-                padding-left: 8px;
+                padding-left: 5px;
                 position: relative; /* 为了右上角图标定位 */
                 text-align: center;
                 display: flex;
@@ -1668,10 +1672,9 @@ def render_html_content(
             .ball.red { background: #e60012; }
             .ball.blue { background: #3b82f6; }
             
-            .ad-grid { display: flex; gap: 10px; }
-            .ad-item { flex: 1; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,0.05); transition: transform 0.1s; background: #fff; display: block; }
-            .ad-item:active { transform: scale(0.98); }
-            .ad-item img { width: 100%; height: auto; object-fit: contain; display: block; }
+            .ad-grid { display: flex; gap: 10px; width: 100%; margin-top: 15px; }
+            .ad-item { flex: 1; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,0.05); background: #fff; }
+            .ad-item img { width: 100%; height: auto; display: block; }
             /* === 生活区样式结束 === */
 
             .content { padding: 24px; }
@@ -1788,51 +1791,51 @@ def render_html_content(
                 </div>
             </div>
 
-            <div class="life-card weather-layout">
-                <div class="date-panel">
-                    <div class="month-header" id="calendar-month">--年--月</div>
-                    <div class="day-number" id="calendar-day">--</div>
-                    <div class="time-clock" id="clock-time">--:--:--</div>
-                    <div class="lunar-text" id="calendar-lunar">-- 农历--</div>
-                </div>
-                <div class="weather-panel">
-                    <div class="weather-icon" id="weather-icon-small">☀</div>
-                    <div class="weather-temp-big" id="weather-temp">--°</div>
-                    <div class="weather-cond-text" id="weather-text">-- --</div>
-                </div>
-                    
-                    <div class="life-card">
-                        <div>
-                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                                <div class="mini-section-title" style="margin: 0;">今日油价</div>
-                                <div id="oil-alert" style="font-size: 11px; color: #999;"></div>
-                            </div>
-                            <div class="oil-row">
-                                <span>92#: <span class="oil-val" id="oil-92">--</span></span>
-                                <span>95#: <span class="oil-val" id="oil-95">--</span></span>
-                                <span>98#: <span class="oil-val" id="oil-98">--</span></span>
-                            </div>
-                        </div>
-                        <div>
-                            <div class="mini-section-title">
-                                双色球 <span style="font-weight:normal;color:#999;font-size:10px" id="lottery-issue">--期</span>
-                            </div>
-                            <div id="lottery-pool" style="font-size: 10px; color: #d9534f; text-align: right; margin-bottom: 5px; font-weight: bold;"></div>
-                            <div class="lotto-balls" id="lotto-balls-container">
-                                <div class="ball red">-</div><div class="ball blue">-</div>
-                            </div>
-                        </div>
+            <div class="life-grid">
+                
+                <div class="life-card weather-layout">
+                    <div class="date-panel">
+                        <div class="month-header" id="calendar-month">--年--月</div>
+                        <div class="day-number" id="calendar-day">--</div>
+                        <div class="time-clock" id="clock-time">--:--:--</div>
+                        <div class="lunar-text" id="calendar-lunar">-- 农历--</div>
+                    </div>
+                    <div class="weather-panel">
+                        <div class="weather-icon-small" id="weather-icon">☀</div>
+                        <div class="weather-temp-big" id="weather-temp">--°</div>
+                        <div class="weather-cond-text" id="weather-text">-- --</div>
                     </div>
                 </div>
-
-                <div class="ad-grid">
-                    <a href="tel:18247622852" class="ad-item">
-                        <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/dingqi.jpg" alt="定期咨询">
-                    </a>
-                    <a href="https://creditcard.msbank.com/aivue/m/#/index?time=1766054749045&id=85aa7361000511ec93d3286ee488ca42&rid=442f935319d74ba1825b01552c14b77f&applyChannel=21003&qrcity=" target="_blank" class="ad-item">
-                        <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/xinyongka.png" alt="信用卡申请">
-                    </a>
-                </div>
+                <div class="life-card">
+                    <div style="width: 100%; margin-bottom: 5px;">
+                        <div class="mini-section-title">
+                            <span>今日油价</span>
+                            <span id="oil-alert" style="font-size: 9px; color: #999; font-weight: normal;"></span>
+                        </div>
+                        <div class="oil-row" style="margin-bottom: 0; border: none; justify-content: space-between;">
+                            <div>92#: <span class="oil-val" id="price-92">--</span></div>
+                            <div>95#: <span class="oil-val" id="price-95">--</span></div>
+                            <div>98#: <span class="oil-val" id="price-98">--</span></div>
+                        </div>
+                    </div>
+                    <div style="width: 100%; border-top: 1px dashed #eee; margin: 5px 0 8px 0;"></div>
+                    <div style="width: 100%;">
+                        <div class="mini-section-title">
+                            <span>双色球</span>
+                            <span id="lotto-issue" style="font-size: 9px; color: #999; font-weight: normal;">--期</span>
+                        </div>
+                        <div id="lottery-pool" style="font-size: 10px; color: #d9534f; text-align: right; margin-bottom: 5px; font-weight: bold; display:none;"></div>
+                        <div class="lotto-balls" id="lotto-balls-container">
+                            <span style="font-size:10px; color:#999;">加载中...</span>  
+                        </div>
+                    </div>
+                </div> </div> <div class="ad-grid">
+                <a href="tel:18247622852" class="ad-item">
+                    <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/dingqi.jpg" alt="定期咨询">
+                </a>
+                <a href="https://creditcard.msbank.com/aivue/m/#/index?time=1766054749045&id=85aa7361000511ec93d3286ee488ca42&rid=442f935319d74ba1825b01552c14b77f&applyChannel=21003&qrcity=" target="_blank" class="ad-item">
+                    <img src="https://fzwhzmdpmzymfuyfenbo.supabase.co/storage/v1/object/public/tupianyinpinshipin/xinyongka.png" alt="信用卡申请">
+                </a>
             </div>
             <div class="content">"""
 
