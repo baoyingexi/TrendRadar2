@@ -1782,12 +1782,12 @@ def render_html_content(
                     <div class="life-card">
                         <div>
                             <div class="mini-section-title">今日油价</div>
+                            <div id="oil-alert" style="font-size: 10px; color: #999; margin-top: 6px; text-align: right; transform: scale(0.9); transform-origin: right center;"></div>
                             <div class="oil-row">
                                 <span>92#: <span class="oil-val" id="oil-92">--</span></span>
                                 <span>95#: <span class="oil-val" id="oil-95">--</span></span>
                                 <span>98#: <span class="oil-val" id="oil-98">--</span></span>
                             </div>
-                            <div id="oil-alert" style="font-size: 10px; color: #999; margin-top: 6px; text-align: right; transform: scale(0.9); transform-origin: right center;"></div>
                         </div>
                         <div>
                             <div class="mini-section-title">
