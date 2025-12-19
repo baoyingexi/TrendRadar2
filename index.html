@@ -52,39 +52,66 @@
             .info-value { font-weight: 600; font-size: 16px; }
 
             /* === 新增：生活服务区样式 === */
-            .life-section {
-                background: #f3f4f6;
-                padding: 16px 24px;
-                border-bottom: 1px solid #eee;
-            }
             .life-grid {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
-                gap: 12px;
-                margin-bottom: 12px;
+                gap: 10px;
+                margin-bottom: 15px;
             }
             .life-card {
                 background: white;
-                border-radius: 10px;
-                padding: 12px;
-                box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+                border-radius: 12px;
+                padding: 10px;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+                height: 100%;
+                box-sizing: border-box;
+                min-height: 110px;
+            }
+            .life-card.weather-layout {
+                display: flex;
+                flex-direction: row;
+                align-items: stretch;
+            } 
+            .date-panel {  
+                flex: 1.3; /* 左边稍微宽一点 */
+                border-right: 1px dashed #eee; /* 中间的虚线分隔 */
+                padding-right: 8px;
+                text-align: center;
                 display: flex;
                 flex-direction: column;
-                justify-content: space-between;
-                min-height: 100px;
+                justify-content: center;
             }
-            .weather-top { display: flex; justify-content: space-between; align-items: flex-start; }
-            .weather-temp { font-size: 26px; font-weight: bold; color: #333; line-height: 1; }
-            .weather-icon { font-size: 28px; line-height: 1; }
-            .weather-info-text { font-size: 12px; color: #666; margin-top: 4px; }
-            .date-info { font-size: 11px; color: #888; text-align: right; margin-top: auto; }
-            
-            .mini-section-title { font-size: 12px; font-weight: bold; color: #4f46e5; margin-bottom: 4px; display: flex; justify-content: space-between; }
-            .oil-row { display: flex; justify-content: space-between; font-size: 12px; color: #333; margin-bottom: 8px; border-bottom: 1px dashed #eee; padding-bottom: 6px; }
+            .month-header { color: #e60012; font-size: 11px; font-weight: bold; margin-bottom: 2px; }
+            .day-number { font-size: 42px; font-weight: bold; color: #333; line-height: 1; letter-spacing: -2px; }
+            .time-clock { font-family: monospace; font-size: 14px; font-weight: bold; color: #555; margin-top: 4px; }
+            .lunar-text { font-size: 10px; color: #999; margin-top: 2px; }
+
+            .weather-panel {
+                flex: 1;
+                padding-left: 8px;
+                position: relative; /* 为了右上角图标定位 */
+                text-align: center;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            .weather-icon-small {
+                 position: absolute;
+                 top: -2px;
+                 right: -2px;
+                 font-size: 26px; /* 图标大小 */
+                 line-height: 1;
+            }
+            .weather-temp-big { font-size: 30px; font-weight: bold; color: #333; line-height: 1; margin-top: 8px; }
+            .weather-cond-text { font-size: 11px; color: #666; margin-top: 6px; background: #f5f5f5; padding: 2px 6px; border-radius: 4px; }
+                        
+            .mini-section-title { font-size: 12px; font-weight: bold; color: #4f46e5; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center; }
+            .oil-row { display: flex; justify-content: space-between; font-size: 11px; color: #333; margin-bottom: 8px; border-bottom: 1px dashed #eee; padding-bottom: 5px; }
             .oil-val { font-weight: bold; color: #e60012; }
             
-            .lotto-balls { display: flex; gap: 3px; }
-            .ball { width: 16px; height: 16px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+            .lotto-balls { display: flex; gap: 2px; }
+            .ball { width: 14px; height: 14px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
             .ball.red { background: #e60012; }
             .ball.blue { background: #3b82f6; }
             
@@ -166,41 +193,38 @@
                     </div>
                     <div class="info-item">
                         <span class="info-label">新闻总数</span>
-                        <span class="info-value">611 条</span>
+                        <span class="info-value">814 条</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">热点新闻</span>
-                        <span class="info-value">57 条</span>
+                        <span class="info-value">70 条</span>
                     </div>
                     <div class="info-item">
                         <span class="info-label">生成时间</span>
-                        <span class="info-value">12-19 10:31</span>
+                        <span class="info-value">12-19 14:36</span>
                     </div>
                 </div>
             </div>
 
-            <div class="life-section">
-                <div class="life-grid">
-                    <div class="life-card">
-                        <div class="weather-top">
-                            <div>
-                                <div class="weather-temp" id="weather-temp">--°</div>
-                                <div class="weather-info-text">
-                                    <span id="weather-city">赤峰</span> <span id="weather-desc">--</span>
-                                </div>
-                            </div>
-                            <div class="weather-icon" id="weather-icon">☀</div>
-                        </div>
-                        <div class="date-info">
-                            <div id="date-day-text">--月--日</div>
-                            <div id="date-lunar-text">农历--</div>
-                        </div>
-                    </div>
-
+            <div class="life-card weather-layout">
+                <div class="date-panel">
+                    <div class="month-header" id="calendar-month">--年--月</div>
+                    <div class="day-number" id="calendar-day">--</div>
+                    <div class="time-clock" id="clock-time">--:--:--</div>
+                    <div class="lunar-text" id="calendar-lunar">-- 农历--</div>
+                </div>
+                <div class="weather-panel">
+                    <div class="weather-icon" id="weather-icon-small">☀</div>
+                    <div class="weather-temp-big" id="weather-temp">--°</div>
+                    <div class="weather-cond-text" id="weather-text">-- --</div>
+                </div>
+                    
                     <div class="life-card">
                         <div>
-                            <div class="mini-section-title">今日油价</div>
-                            <div id="oil-alert" style="font-size: 10px; color: #999; margin-top: 6px; text-align: right; transform: scale(0.9); transform-origin: right center;"></div>
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                <div class="mini-section-title" style="margin: 0;">今日油价</div>
+                                <div id="oil-alert" style="font-size: 11px; color: #999;"></div>
+                            </div>
                             <div class="oil-row">
                                 <span>92#: <span class="oil-val" id="oil-92">--</span></span>
                                 <span>95#: <span class="oil-val" id="oil-95">--</span></span>
@@ -233,7 +257,7 @@
                     <div class="word-header">
                         <div class="word-info">
                             <div class="word-name">加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告</div>
-                            <div class="word-count hot">48 条</div>
+                            <div class="word-count hot">57 条</div>
                         </div>
                         <div class="word-index">1/2</div>
                     </div>
@@ -241,7 +265,7 @@
                         <div class="news-number">1</div>
                         <div class="news-content">
                             <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num top">2-4</span><span class="time-info">07时20分~10时31分</span><span class="count-info">3次</span>
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">2-4</span><span class="time-info">07时20分~14时36分</span><span class="count-info">5次</span>
                             </div>
                             <div class="news-title"><a href="https://wallstreetcn.com/articles/3761659" target="_blank" class="news-link">通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平</a>
                             </div>
@@ -251,9 +275,9 @@
                         <div class="news-number">2</div>
                         <div class="news-content">
                             <div class="news-header">
-                                <span class="source-name">财联社热门</span><span class="rank-num top">2-5</span><span class="time-info">07时20分~10时31分</span><span class="count-info">3次</span>
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">1</span><span class="time-info">09时13分~14时36分</span><span class="count-info">4次</span>
                             </div>
-                            <div class="news-title"><a href="https://www.cls.cn/detail/2234084" target="_blank" class="news-link">美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%</a>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761635" target="_blank" class="news-link">“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03</a>
                             </div>
                         </div>
                     </div>
@@ -261,9 +285,9 @@
                         <div class="news-number">3</div>
                         <div class="news-content">
                             <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num top">1</span><span class="time-info">09时13分~10时31分</span><span class="count-info">2次</span>
+                                <span class="source-name">财联社热门</span><span class="rank-num top">2-5</span><span class="time-info">07时20分~10时31分</span><span class="count-info">3次</span>
                             </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761635" target="_blank" class="news-link">“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03</a>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2234084" target="_blank" class="news-link">美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%</a>
                             </div>
                         </div>
                     </div>
@@ -271,7 +295,7 @@
                         <div class="news-number">4</div>
                         <div class="news-content">
                             <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num high">4-7</span><span class="time-info">07时20分~10时31分</span><span class="count-info">3次</span>
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">4-7</span><span class="time-info">07时20分~14时36分</span><span class="count-info">5次</span>
                             </div>
                             <div class="news-title"><a href="https://wallstreetcn.com/articles/3761628" target="_blank" class="news-link">今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待</a>
                             </div>
@@ -281,14 +305,64 @@
                         <div class="news-number">5</div>
                         <div class="news-content">
                             <div class="news-header">
+                                <span class="source-name">抖音</span><span class="rank-num top">2</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.douyin.com/hot/2341005" target="_blank" class="news-link">日本央行加息25个基点</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num top">3</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2234391" target="_blank" class="news-link">符合预期！日本央行宣布加息 基准利率达到三十年来高位</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">4</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761698" target="_blank" class="news-link">9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">8</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">5</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761683" target="_blank" class="news-link">今日焦点：日本加息“已被市场消化”，央行表态决定日元走向</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">9</div>
+                        <div class="news-content">
+                            <div class="news-header">
                                 <span class="source-name">华尔街见闻</span><span class="rank-num top">1</span><span class="time-info">07时20分</span>
                             </div>
                             <div class="news-title"><a href="https://wallstreetcn.com/articles/3761550" target="_blank" class="news-link">甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高</a>
                             </div>
                         </div>
                     </div>
+                    <div class="news-item new">
+                        <div class="news-number">10</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num top">1</span><span class="time-info">14时36分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3023645" target="_blank" class="news-link">日本央行行长植田和男：预计实际利率仍将维持在极低水平。 宽松的货币环境将继续支撑经济。 如果经济展望实现，日本央行将加息。 经济展望实现的可能性正在上升。</a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="news-item ">
-                        <div class="news-number">6</div>
+                        <div class="news-number">11</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num top">2</span><span class="time-info">09时13分</span>
@@ -298,7 +372,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">7</div>
+                        <div class="news-number">12</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻</span><span class="rank-num top">3</span><span class="time-info">07时20分</span>
@@ -308,7 +382,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">8</div>
+                        <div class="news-number">13</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num top">3</span><span class="time-info">07时20分</span>
@@ -318,7 +392,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">9</div>
+                        <div class="news-number">14</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">财联社热门</span><span class="rank-num high">4-6</span><span class="time-info">07时20分~10时31分</span><span class="count-info">3次</span>
@@ -327,8 +401,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">10</div>
+                    <div class="news-item ">
+                        <div class="news-number">15</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num high">4</span><span class="time-info">10时31分</span>
@@ -338,7 +412,17 @@
                         </div>
                     </div>
                     <div class="news-item new">
-                        <div class="news-number">11</div>
+                        <div class="news-number">16</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num high">4</span><span class="time-info">14时36分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3023640" target="_blank" class="news-link">中国中免A股盘中触及涨停，港股涨超8%。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">17</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num high">5</span><span class="time-info">10时31分</span>
@@ -348,7 +432,37 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">12</div>
+                        <div class="news-number">18</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">7-10</span><span class="time-info">09时13分~14时36分</span><span class="count-info">4次</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761632" target="_blank" class="news-link">华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">19</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">7-9</span><span class="time-info">10时31分~14时36分</span><span class="count-info">3次</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761671" target="_blank" class="news-link">美联储主席最热人选哈塞特：CPI报告好得令人震惊，美联储有很大空间可以降息</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">20</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">8-9</span><span class="time-info">10时31分~14时36分</span><span class="count-info">3次</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761680" target="_blank" class="news-link">就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">21</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻</span><span class="rank-num ">6-10</span><span class="time-info">09时13分~10时31分</span><span class="count-info">2次</span>
@@ -358,17 +472,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">13</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num ">7-9</span><span class="time-info">09时13分~10时31分</span><span class="count-info">2次</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761632" target="_blank" class="news-link">华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news-item ">
-                        <div class="news-number">14</div>
+                        <div class="news-number">22</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">微博</span><span class="rank-num ">9-27</span><span class="time-info">09时13分~10时31分</span><span class="count-info">2次</span>
@@ -378,7 +482,27 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">15</div>
+                        <div class="news-number">23</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">百度热搜</span><span class="rank-num ">10</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9+%E8%BE%BE30%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98" target="_blank" class="news-link">日本央行加息25个基点 达30年来最高</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">24</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">29</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7585070958658981385/" target="_blank" class="news-link">11月统计局房地产数据点评</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">25</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">6</span><span class="time-info">09时13分</span>
@@ -388,7 +512,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">16</div>
+                        <div class="news-number">26</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">今日头条</span><span class="rank-num ">8</span><span class="time-info">07时20分</span>
@@ -398,7 +522,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">17</div>
+                        <div class="news-number">27</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻</span><span class="rank-num ">8</span><span class="time-info">07时20分</span>
@@ -407,18 +531,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">18</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num ">8</span><span class="time-info">10时31分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761680" target="_blank" class="news-link">就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？</a>
-                            </div>
-                        </div>
-                    </div>
                     <div class="news-item ">
-                        <div class="news-number">19</div>
+                        <div class="news-number">28</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">8</span><span class="time-info">09时13分</span>
@@ -428,7 +542,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">20</div>
+                        <div class="news-number">29</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻</span><span class="rank-num ">9</span><span class="time-info">07时20分</span>
@@ -437,18 +551,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">21</div>
-                        <div class="news-content">
-                            <div class="news-header">
-                                <span class="source-name">华尔街见闻</span><span class="rank-num ">9</span><span class="time-info">10时31分</span>
-                            </div>
-                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3761671" target="_blank" class="news-link">美联储主席最热人选哈塞特：CPI报告好得令人震惊，美联储有很大空间可以降息</a>
-                            </div>
-                        </div>
-                    </div>
                     <div class="news-item ">
-                        <div class="news-number">22</div>
+                        <div class="news-number">30</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">财联社热门</span><span class="rank-num ">11</span><span class="time-info">07时20分</span>
@@ -458,7 +562,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">23</div>
+                        <div class="news-number">31</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">11</span><span class="time-info">07时20分</span>
@@ -467,8 +571,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">24</div>
+                    <div class="news-item ">
+                        <div class="news-number">32</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">11</span><span class="time-info">10时31分</span>
@@ -478,7 +582,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">25</div>
+                        <div class="news-number">33</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">12</span><span class="time-info">07时20分</span>
@@ -488,7 +592,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">26</div>
+                        <div class="news-number">34</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">13</span><span class="time-info">09时13分</span>
@@ -498,7 +602,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">27</div>
+                        <div class="news-number">35</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">14</span><span class="time-info">07时20分</span>
@@ -508,7 +612,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">28</div>
+                        <div class="news-number">36</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">15</span><span class="time-info">07时20分</span>
@@ -518,7 +622,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">29</div>
+                        <div class="news-number">37</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">15</span><span class="time-info">09时13分</span>
@@ -528,7 +632,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">30</div>
+                        <div class="news-number">38</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">16</span><span class="time-info">07时20分</span>
@@ -537,8 +641,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">31</div>
+                    <div class="news-item ">
+                        <div class="news-number">39</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">16</span><span class="time-info">10时31分</span>
@@ -548,7 +652,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">32</div>
+                        <div class="news-number">40</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">18</span><span class="time-info">07时20分</span>
@@ -558,7 +662,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">33</div>
+                        <div class="news-number">41</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">18</span><span class="time-info">07时20分</span>
@@ -568,7 +672,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">34</div>
+                        <div class="news-number">42</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">微博</span><span class="rank-num ">18</span><span class="time-info">07时20分</span>
@@ -578,7 +682,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">35</div>
+                        <div class="news-number">43</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">19</span><span class="time-info">09时13分</span>
@@ -588,7 +692,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">36</div>
+                        <div class="news-number">44</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">19</span><span class="time-info">07时20分</span>
@@ -597,8 +701,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">37</div>
+                    <div class="news-item ">
+                        <div class="news-number">45</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">19</span><span class="time-info">10时31分</span>
@@ -608,7 +712,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">38</div>
+                        <div class="news-number">46</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">百度热搜</span><span class="rank-num ">20</span><span class="time-info">07时20分</span>
@@ -617,8 +721,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">39</div>
+                    <div class="news-item ">
+                        <div class="news-number">47</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">21</span><span class="time-info">10时31分</span>
@@ -628,7 +732,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">40</div>
+                        <div class="news-number">48</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">22</span><span class="time-info">09时13分</span>
@@ -637,8 +741,18 @@
                             </div>
                         </div>
                     </div>
+                    <div class="news-item new">
+                        <div class="news-number">49</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">金十数据</span><span class="rank-num ">22</span><span class="time-info">14时36分</span>
+                            </div>
+                            <div class="news-title"><a href="https://flash.jin10.com/detail/20251219135143848800" target="_blank" class="news-link">瑞穗：日本央行加息或净利好日本家庭</a>
+                            </div>
+                        </div>
+                    </div>
                     <div class="news-item ">
-                        <div class="news-number">41</div>
+                        <div class="news-number">50</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">23</span><span class="time-info">09时13分</span>
@@ -648,7 +762,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">42</div>
+                        <div class="news-number">51</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">微博</span><span class="rank-num ">24</span><span class="time-info">09时13分</span>
@@ -658,7 +772,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">43</div>
+                        <div class="news-number">52</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">25</span><span class="time-info">09时13分</span>
@@ -668,7 +782,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">44</div>
+                        <div class="news-number">53</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">25</span><span class="time-info">09时13分</span>
@@ -677,8 +791,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
-                        <div class="news-number">45</div>
+                    <div class="news-item ">
+                        <div class="news-number">54</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">金十数据</span><span class="rank-num ">26</span><span class="time-info">10时31分</span>
@@ -688,7 +802,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">46</div>
+                        <div class="news-number">55</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">26</span><span class="time-info">07时20分</span>
@@ -698,7 +812,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">47</div>
+                        <div class="news-number">56</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">27</span><span class="time-info">07时20分</span>
@@ -708,7 +822,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">48</div>
+                        <div class="news-number">57</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">30</span><span class="time-info">07时20分</span>
@@ -722,7 +836,7 @@
                     <div class="word-header">
                         <div class="word-info">
                             <div class="word-name">AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态</div>
-                            <div class="word-count warm">9 条</div>
+                            <div class="word-count hot">13 条</div>
                         </div>
                         <div class="word-index">2/2</div>
                     </div>
@@ -736,7 +850,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="news-item new">
+                    <div class="news-item ">
                         <div class="news-number">2</div>
                         <div class="news-content">
                             <div class="news-header">
@@ -760,6 +874,16 @@
                         <div class="news-number">4</div>
                         <div class="news-content">
                             <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">12</span><span class="time-info">14时35分~14时36分</span><span class="count-info">2次</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2234101" target="_blank" class="news-link">OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
                                 <span class="source-name">知乎</span><span class="rank-num ">12-15</span><span class="time-info">07时20分~09时13分</span><span class="count-info">2次</span>
                             </div>
                             <div class="news-title"><a href="https://www.zhihu.com/question/1984925319061267264" target="_blank" class="news-link">姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？</a>
@@ -767,7 +891,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">5</div>
+                        <div class="news-number">6</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">抖音</span><span class="rank-num ">16-22</span><span class="time-info">09时13分~10时31分</span><span class="count-info">2次</span>
@@ -777,7 +901,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">6</div>
+                        <div class="news-number">7</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">6</span><span class="time-info">07时20分</span>
@@ -787,7 +911,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">7</div>
+                        <div class="news-number">8</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">百度热搜</span><span class="rank-num ">8</span><span class="time-info">07时20分</span>
@@ -797,7 +921,7 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">8</div>
+                        <div class="news-number">9</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">14</span><span class="time-info">07时20分</span>
@@ -807,12 +931,42 @@
                         </div>
                     </div>
                     <div class="news-item ">
-                        <div class="news-number">9</div>
+                        <div class="news-number">10</div>
                         <div class="news-content">
                             <div class="news-header">
                                 <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">19</span><span class="time-info">09时13分</span>
                             </div>
                             <div class="news-title"><a href="https://wallstreetcn.com/livenews/3023412" target="_blank" class="news-link">据Chainalysis：2025年加密货币失窃规模已经达到34亿美元，个人钱包遭遇网络袭击的现象增多。</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">11</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">23</span><span class="time-info">14时36分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3023602" target="_blank" class="news-link">机构：预计2026年智能手机平均售价将同比增长6.9%</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">12</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">24</span><span class="time-info">14时36分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3023597" target="_blank" class="news-link">中欧AI与管理创新研究中心主任方跃：AI时代将解决信息化和数字化时代所未解决的问题</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">13</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻-快讯</span><span class="rank-num ">25</span><span class="time-info">14时36分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/livenews/3023596" target="_blank" class="news-link">中欧AI与管理创新研究中心主任方跃：AI若无法规模化落地，市场或重演2000年互联网泡沫</a>
                             </div>
                         </div>
                     </div>
@@ -833,39 +987,63 @@
             return null;
         }
 
+        // 日期
+        function updateClock() {
+            const now = new Date();
+        
+            // A. 更新年月 (例如: 2025年12月)
+            const monthEl = document.getElementById('calendar-month');
+            if(monthEl) monthEl.innerText = now.getFullYear() + "年" + (now.getMonth() + 1) + "月";
+        
+            // B. 更新大号日期 (例如: 19)
+            const dayEl = document.getElementById('calendar-day');
+            if(dayEl) dayEl.innerText = now.getDate();
+        
+            // C. 更新时钟 (例如: 14:30:59)
+            const timeEl = document.getElementById('clock-time');
+            if(timeEl) timeEl.innerText = now.toLocaleTimeString('en-GB'); // 24小时制
+
+            // D. 更新星期和农历 (使用原生 API，不需要 Lunar 库)
+            const lunarEl = document.getElementById('calendar-lunar');
+            if(lunarEl) {
+                const weekDays = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
+                const weekStr = weekDays[now.getDay()];
+            
+                // 获取农历字符串 (格式如: 2025年农历十月三十)
+                const lunarDate = new Intl.DateTimeFormat('zh-CN', { calendar: 'chinese', day: 'numeric', month: 'long' }).format(now);
+                // 清理掉年份，只保留 "农历十月三十"
+                const cleanLunar = lunarDate.replace(/\d+年/, '').replace("月", "月");
+            
+                lunarEl.innerText = cleanLunar + " " + weekStr;
+            }
+        }
+        // 立即启动时钟
+        setInterval(updateClock, 1000); // 每秒跳动
+        updateClock(); // 初始化执行一次
+        
         // --- 2. 渲染数据 ---
         function renderLifeData(data) {
             // 天气
             if (data.weather) {
-                document.getElementById('weather-city').textContent = data.weather.city || "赤峰";
-                let tempStr = data.weather.temp || "--";
-                if(tempStr.includes('~')) tempStr = tempStr.split('~')[0].trim();
-                document.getElementById('weather-temp').textContent = tempStr + "°";
-                document.getElementById('weather-desc').textContent = data.weather.condition || "--";
+                const wTemp = document.getElementById('weather-temp');
+                if(wTemp) wTemp.innerText = data.weather.temp + "°";
                 
-                const iconChar = getWeatherIcon(data.weather.condition);
-                const iconElement = document.getElementById('weather-icon');
-                if (iconChar) {
-                    iconElement.textContent = iconChar;
-                    iconElement.style.display = "block";
-                } else {
-                    iconElement.style.display = "none";
+                const wText = document.getElementById('weather-text');
+                if(wText) wText.innerText = (data.weather.city || "赤峰") + " " + (data.weather.condition || "--");
+                
+                const wIcon = document.getElementById('weather-icon');
+                if (wIcon) {
+                    wIcon.innerText = getWeatherIcon(data.weather.condition);
                 }
             }
 
-            // 日期
-            const now = new Date();
-            document.getElementById('date-day-text').textContent = `${now.getMonth()+1}月${now.getDate()}日`;
-            try {
-                const lunar = Lunar.fromDate(now);
-                document.getElementById('date-lunar-text').textContent = `农历${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`;
-            } catch(e) {}
+        
 
             // 油价
             if (data.oil && data.oil.prices) {
-                document.getElementById('oil-92').textContent = data.oil.prices.p92 || "--";
-                document.getElementById('oil-95').textContent = data.oil.prices.p95 || "--";
-                document.getElementById('oil-98').textContent = data.oil.prices.p98 || "--";
+                document.getElementById('price-92').textContent = data.oil.prices.p92 || "--";
+                document.getElementById('price-95').textContent = data.oil.prices.p95 || "--";
+                document.getElementById('price-98').textContent = data.oil.prices.p98 || "--";
                 // ✅✅✅ 在这里插入下面这段代码 (显示油价调整日期) ✅✅✅
                 const oilAlert = document.getElementById('oil-alert');
                 if (oilAlert && data.oil.alert) {
@@ -886,10 +1064,10 @@
                 if (lPool && data.lottery.pool) {
                     lPool.innerText = "💰 奖池: " + data.lottery.pool;
                     lPool.style.display = 'block';
-                }
-                const ballsBox = document.getElementById('lotto-balls-container') || document.getElementById('lottery-balls'); 
+                }  
+                const ballsBox = document.getElementById('lotto-balls-container') || document.getElementById('lottery-balls');
                 if (ballsBox && data.lottery.red && data.lottery.red.length > 0) {
-                    let html = "";
+                    let html = ""; 
                     data.lottery.red.forEach(num => {
                         html += `<div class="ball red">${num}</div>`;
                     });

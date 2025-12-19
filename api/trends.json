@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T10:31:23.418001+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2025-12-19T14:36:06.216364+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 48,
+      "match_count": 57,
       "titles": [
         {
           "title": "通胀超预期放缓！美国11月核心CPI同比上涨2.6%，创2021年以来最低水平",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 10时31分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 14时36分]"
+        },
+        {
+          "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 14时36分]"
         },
         {
           "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
@@ -33,28 +44,62 @@
           "time_info": "[07时20分 ~ 10时31分]"
         },
         {
-          "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
-          "url": "https://wallstreetcn.com/articles/3761635",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 10时31分]"
-        },
-        {
           "title": "今晚，2025年美国最后一份CPI出炉：围绕3%关口拉锯，“2字头”仍是市场最大期待",
           "url": "https://wallstreetcn.com/articles/3761628",
           "source": "华尔街见闻",
           "ranks": [
             7,
             5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 14时36分]"
+        },
+        {
+          "title": "日本央行加息25个基点",
+          "url": "https://www.douyin.com/hot/2341005",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "符合预期！日本央行宣布加息 基准利率达到三十年来高位",
+          "url": "https://www.cls.cn/detail/2234391",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
+          "url": "https://wallstreetcn.com/articles/3761698",
+          "source": "华尔街见闻",
+          "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 10时31分]"
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
+          "url": "https://wallstreetcn.com/articles/3761683",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -66,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日本央行行长植田和男：预计实际利率仍将维持在极低水平。 宽松的货币环境将继续支撑经济。 如果经济展望实现，日本央行将加息。 经济展望实现的可能性正在上升。",
+          "url": "https://wallstreetcn.com/livenews/3023645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "澳总理称将建立枪支回购计划",
@@ -119,9 +175,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "中国中免A股盘中触及涨停，港股涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3023640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "日本财务大臣片山皋月：在编制下一财年预算时，将在一定程度上考虑财政可持续性。 通过降低债务与GDP比率来提振市场信心。 财务省先前估计提高所得税免税门槛将导致税收减少4,000亿日元，目前预估为减少6,500亿日元。",
@@ -130,9 +197,46 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤",
+          "url": "https://wallstreetcn.com/articles/3761632",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 14时36分]"
+        },
+        {
+          "title": "美联储主席最热人选哈塞特：CPI报告好得令人震惊，美联储有很大空间可以降息",
+          "url": "https://wallstreetcn.com/articles/3761671",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时36分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时36分]"
         },
         {
           "title": "日本加息会引爆全球流动性冲击吗？",
@@ -141,18 +245,6 @@
           "ranks": [
             10,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时13分 ~ 10时31分]"
-        },
-        {
-          "title": "华尔街点评美光财报：业绩指引过于“炸裂”，但市场顾虑明年HBM价格回撤",
-          "url": "https://wallstreetcn.com/articles/3761632",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -169,6 +261,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 10时31分]"
+        },
+        {
+          "title": "日本央行加息25个基点 达30年来最高",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%A4%AE%E8%A1%8C%E5%8A%A0%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9+%E8%BE%BE30%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
+        },
+        {
+          "title": "11月统计局房地产数据点评",
+          "url": "https://www.toutiao.com/trending/7585070958658981385/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-19）",
@@ -204,17 +318,6 @@
           "time_info": "07时20分"
         },
         {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 12月19日（周五）早盘盘初下跌0.18%报972.89元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）早盘盘初下跌1.61%报15215.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251219090444925800",
           "source": "金十数据",
@@ -235,17 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "美联储主席最热人选哈塞特：CPI报告好得令人震惊，美联储有很大空间可以降息",
-          "url": "https://wallstreetcn.com/articles/3761671",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
         },
         {
           "title": "“合并三剑客”复牌，为何仅东兴封涨停？哪些空间待释放？",
@@ -276,7 +368,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -353,7 +445,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -419,7 +511,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -441,7 +533,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -455,6 +547,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "瑞穗：日本央行加息或净利好日本家庭",
+          "url": "https://flash.jin10.com/detail/20251219135143848800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         },
         {
           "title": "中信证券：美国CPI大幅低于预期 仍预计美联储明年降息两次",
@@ -507,7 +610,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -548,7 +651,7 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -569,7 +672,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -584,6 +687,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时13分]"
+        },
+        {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 14时36分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -652,6 +766,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
+        },
+        {
+          "title": "机构：预计2026年智能手机平均售价将同比增长6.9%",
+          "url": "https://wallstreetcn.com/livenews/3023602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中欧AI与管理创新研究中心主任方跃：AI时代将解决信息化和数字化时代所未解决的问题",
+          "url": "https://wallstreetcn.com/livenews/3023597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
+        },
+        {
+          "title": "中欧AI与管理创新研究中心主任方跃：AI若无法规模化落地，市场或重演2000年互联网泡沫",
+          "url": "https://wallstreetcn.com/livenews/3023596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     }
