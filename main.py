@@ -1787,11 +1787,13 @@ def render_html_content(
                                 <span>95#: <span class="oil-val" id="oil-95">--</span></span>
                                 <span>98#: <span class="oil-val" id="oil-98">--</span></span>
                             </div>
+                            <div id="oil-alert" style="font-size: 12px; color: #666; margin-top: 8px;"></div>
                         </div>
                         <div>
                             <div class="mini-section-title">
-                                双色球 <span style="font-weight:normal;color:#999;font-size:10px" id="lotto-issue">--期</span>
+                                双色球 <span style="font-weight:normal;color:#999;font-size:10px" id="lottery-issue">--期</span>
                             </div>
+                            <div id="lottery-pool" style="font-size: 10px; color: #d9534f; text-align: right; margin-bottom: 5px; font-weight: bold;"></div>
                             <div class="lotto-balls" id="lotto-balls-container">
                                 <div class="ball red">-</div><div class="ball blue">-</div>
                             </div>
