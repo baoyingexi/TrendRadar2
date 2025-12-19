@@ -1605,39 +1605,66 @@ def render_html_content(
             .info-value { font-weight: 600; font-size: 16px; }
 
             /* === 新增：生活服务区样式 === */
-            .life-section {
-                background: #f3f4f6;
-                padding: 16px 24px;
-                border-bottom: 1px solid #eee;
-            }
             .life-grid {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
-                gap: 12px;
-                margin-bottom: 12px;
+                gap: 10px;
+                margin-bottom: 15px;
             }
             .life-card {
                 background: white;
-                border-radius: 10px;
-                padding: 12px;
-                box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+                border-radius: 12px;
+                padding: 10px;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+                height: 100%;
+                box-sizing: border-box;
+                min-height: 110px;
+            }
+            .life-card.weather-layout {
+                display: flex;
+                flex-direction: row;
+                align-items: stretch;
+            } 
+            .date-panel {  
+                flex: 1.3; /* 左边稍微宽一点 */
+                border-right: 1px dashed #eee; /* 中间的虚线分隔 */
+                padding-right: 8px;
+                text-align: center;
                 display: flex;
                 flex-direction: column;
-                justify-content: space-between;
-                min-height: 100px;
+                justify-content: center;
             }
-            .weather-top { display: flex; justify-content: space-between; align-items: flex-start; }
-            .weather-temp { font-size: 26px; font-weight: bold; color: #333; line-height: 1; }
-            .weather-icon { font-size: 28px; line-height: 1; }
-            .weather-info-text { font-size: 12px; color: #666; margin-top: 4px; }
-            .date-info { font-size: 11px; color: #888; text-align: right; margin-top: auto; }
-            
-            .mini-section-title { font-size: 12px; font-weight: bold; color: #4f46e5; margin-bottom: 4px; display: flex; justify-content: space-between; }
-            .oil-row { display: flex; justify-content: space-between; font-size: 12px; color: #333; margin-bottom: 8px; border-bottom: 1px dashed #eee; padding-bottom: 6px; }
+            .month-header { color: #e60012; font-size: 11px; font-weight: bold; margin-bottom: 2px; }
+            .day-number { font-size: 42px; font-weight: bold; color: #333; line-height: 1; letter-spacing: -2px; }
+            .time-clock { font-family: monospace; font-size: 14px; font-weight: bold; color: #555; margin-top: 4px; }
+            .lunar-text { font-size: 10px; color: #999; margin-top: 2px; }
+
+            .weather-panel {
+                flex: 1;
+                padding-left: 8px;
+                position: relative; /* 为了右上角图标定位 */
+                text-align: center;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            .weather-icon-small {
+                 position: absolute;
+                 top: -2px;
+                 right: -2px;
+                 font-size: 26px; /* 图标大小 */
+                 line-height: 1;
+            }
+            .weather-temp-big { font-size: 30px; font-weight: bold; color: #333; line-height: 1; margin-top: 8px; }
+            .weather-cond-text { font-size: 11px; color: #666; margin-top: 6px; background: #f5f5f5; padding: 2px 6px; border-radius: 4px; }
+                        
+            .mini-section-title { font-size: 12px; font-weight: bold; color: #4f46e5; margin-bottom: 5px; display: flex; justify-content: space-between; align-items: center; }
+            .oil-row { display: flex; justify-content: space-between; font-size: 11px; color: #333; margin-bottom: 8px; border-bottom: 1px dashed #eee; padding-bottom: 5px; }
             .oil-val { font-weight: bold; color: #e60012; }
             
-            .lotto-balls { display: flex; gap: 3px; }
-            .ball { width: 16px; height: 16px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
+            .lotto-balls { display: flex; gap: 2px; }
+            .ball { width: 14px; height: 14px; border-radius: 50%; color: white; font-size: 9px; display: flex; align-items: center; justify-content: center; font-weight: bold; }
             .ball.red { background: #e60012; }
             .ball.blue { background: #3b82f6; }
             
@@ -1761,28 +1788,25 @@ def render_html_content(
                 </div>
             </div>
 
-            <div class="life-section">
-                <div class="life-grid">
-                    <div class="life-card">
-                        <div class="weather-top">
-                            <div>
-                                <div class="weather-temp" id="weather-temp">--°</div>
-                                <div class="weather-info-text">
-                                    <span id="weather-city">赤峰</span> <span id="weather-desc">--</span>
-                                </div>
-                            </div>
-                            <div class="weather-icon" id="weather-icon">☀</div>
-                        </div>
-                        <div class="date-info">
-                            <div id="date-day-text">--月--日</div>
-                            <div id="date-lunar-text">农历--</div>
-                        </div>
-                    </div>
-
+            <div class="life-card weather-layout">
+                <div class="date-panel">
+                    <div class="month-header" id="calendar-month">--年--月</div>
+                    <div class="day-number" id="calendar-day">--</div>
+                    <div class="time-clock" id="clock-time">--:--:--</div>
+                    <div class="lunar-text" id="calendar-lunar">-- 农历--</div>
+                </div>
+                <div class="weather-panel">
+                    <div class="weather-icon" id="weather-icon-small">☀</div>
+                    <div class="weather-temp-big" id="weather-temp">--°</div>
+                    <div class="weather-cond-text" id="weather-text">-- --</div>
+                </div>
+                    
                     <div class="life-card">
                         <div>
-                            <div class="mini-section-title">今日油价</div>
-                            <div id="oil-alert" style="font-size: 10px; color: #999; margin-top: 6px; text-align: right; transform: scale(0.9); transform-origin: right center;"></div>
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                <div class="mini-section-title" style="margin: 0;">今日油价</div>
+                                <div id="oil-alert" style="font-size: 11px; color: #999;"></div>
+                            </div>
                             <div class="oil-row">
                                 <span>92#: <span class="oil-val" id="oil-92">--</span></span>
                                 <span>95#: <span class="oil-val" id="oil-95">--</span></span>
@@ -2005,39 +2029,63 @@ def render_html_content(
             return null;
         }
 
+        // 日期
+        function updateClock() {
+            const now = new Date();
+        
+            // A. 更新年月 (例如: 2025年12月)
+            const monthEl = document.getElementById('calendar-month');
+            if(monthEl) monthEl.innerText = now.getFullYear() + "年" + (now.getMonth() + 1) + "月";
+        
+            // B. 更新大号日期 (例如: 19)
+            const dayEl = document.getElementById('calendar-day');
+            if(dayEl) dayEl.innerText = now.getDate();
+        
+            // C. 更新时钟 (例如: 14:30:59)
+            const timeEl = document.getElementById('clock-time');
+            if(timeEl) timeEl.innerText = now.toLocaleTimeString('en-GB'); // 24小时制
+
+            // D. 更新星期和农历 (使用原生 API，不需要 Lunar 库)
+            const lunarEl = document.getElementById('calendar-lunar');
+            if(lunarEl) {
+                const weekDays = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
+                const weekStr = weekDays[now.getDay()];
+            
+                // 获取农历字符串 (格式如: 2025年农历十月三十)
+                const lunarDate = new Intl.DateTimeFormat('zh-CN', { calendar: 'chinese', day: 'numeric', month: 'long' }).format(now);
+                // 清理掉年份，只保留 "农历十月三十"
+                const cleanLunar = lunarDate.replace(/\d+年/, '').replace("月", "月");
+            
+                lunarEl.innerText = cleanLunar + " " + weekStr;
+            }
+        }
+        // 立即启动时钟
+        setInterval(updateClock, 1000); // 每秒跳动
+        updateClock(); // 初始化执行一次
+        
         // --- 2. 渲染数据 ---
         function renderLifeData(data) {
             // 天气
             if (data.weather) {
-                document.getElementById('weather-city').textContent = data.weather.city || "赤峰";
-                let tempStr = data.weather.temp || "--";
-                if(tempStr.includes('~')) tempStr = tempStr.split('~')[0].trim();
-                document.getElementById('weather-temp').textContent = tempStr + "°";
-                document.getElementById('weather-desc').textContent = data.weather.condition || "--";
+                const wTemp = document.getElementById('weather-temp');
+                if(wTemp) wTemp.innerText = data.weather.temp + "°";
                 
-                const iconChar = getWeatherIcon(data.weather.condition);
-                const iconElement = document.getElementById('weather-icon');
-                if (iconChar) {
-                    iconElement.textContent = iconChar;
-                    iconElement.style.display = "block";
-                } else {
-                    iconElement.style.display = "none";
+                const wText = document.getElementById('weather-text');
+                if(wText) wText.innerText = (data.weather.city || "赤峰") + " " + (data.weather.condition || "--");
+                
+                const wIcon = document.getElementById('weather-icon');
+                if (wIcon) {
+                    wIcon.innerText = getWeatherIcon(data.weather.condition);
                 }
             }
 
-            // 日期
-            const now = new Date();
-            document.getElementById('date-day-text').textContent = `${now.getMonth()+1}月${now.getDate()}日`;
-            try {
-                const lunar = Lunar.fromDate(now);
-                document.getElementById('date-lunar-text').textContent = `农历${lunar.getMonthInChinese()}月${lunar.getDayInChinese()}`;
-            } catch(e) {}
+        
 
             // 油价
             if (data.oil && data.oil.prices) {
-                document.getElementById('oil-92').textContent = data.oil.prices.p92 || "--";
-                document.getElementById('oil-95').textContent = data.oil.prices.p95 || "--";
-                document.getElementById('oil-98').textContent = data.oil.prices.p98 || "--";
+                document.getElementById('price-92').textContent = data.oil.prices.p92 || "--";
+                document.getElementById('price-95').textContent = data.oil.prices.p95 || "--";
+                document.getElementById('price-98').textContent = data.oil.prices.p98 || "--";
                 // ✅✅✅ 在这里插入下面这段代码 (显示油价调整日期) ✅✅✅
                 const oilAlert = document.getElementById('oil-alert');
                 if (oilAlert && data.oil.alert) {
@@ -2053,6 +2101,7 @@ def render_html_content(
                 const lIssue = document.getElementById('lotto-issue') || document.getElementById('lottery-issue');
                 if (lIssue) {
                     lIssue.innerText = (data.lottery.issue == "统计中..." ? "统计中" : "第" + data.lottery.issue + "期");
+                }
                 const lPool = document.getElementById('lottery-pool');
                 if (lPool && data.lottery.pool) {
                     lPool.innerText = "💰 奖池: " + data.lottery.pool;
