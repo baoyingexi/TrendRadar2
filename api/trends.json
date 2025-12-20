@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-20T07:20:27.851987+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-21T07:19:20.475081+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 19,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "9:0全票通过！日本央行如期加息25基点：若经济和物价前景实现将继续加息",
-          "url": "https://wallstreetcn.com/articles/3761698",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
         {
           "title": "3家A股公司因财务造假被罚，2家将“戴帽”",
           "url": "https://www.cls.cn/detail/2235187",
@@ -27,255 +16,272 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "网信办与证监会联合出手！这17个典型自媒体账号被查处",
-          "url": "https://www.cls.cn/detail/2234879",
+          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "累计金额超890亿！520家A股上市公司股东今年以来实施增持，增持金额排行榜出炉",
+          "url": "https://www.cls.cn/detail/2235436",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "“四巫日”前美CPI意外降温，美国股债汇齐涨，加密货币下挫，人民币再度逼近7.03",
-          "url": "https://wallstreetcn.com/articles/3761635",
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
+          "title": "日本央行加息，告别 30 年超宽松，高市早苗又推 18.3 万亿日元财政刺激，如何看待紧货币 + 宽财政的错配？",
+          "url": "https://www.zhihu.com/question/1985384534406103406",
+          "source": "知乎",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "男子用白鹿黄金海报炼10g金豆后破防",
-          "url": "https://www.toutiao.com/trending/7585009866549248041/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "植田和男：宽松政策调整步伐取决未来数据，但若加息行动过迟，未来或被迫大幅快速加息",
-          "url": "https://wallstreetcn.com/articles/3761707",
-          "source": "华尔街见闻",
+          "title": "A股最大重组并购案出炉 中国神华1336亿收购控股股东旗下12家公司|速读公告",
+          "url": "https://www.cls.cn/detail/2235419",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "今日焦点：日本加息“已被市场消化”，央行表态决定日元走向",
-          "url": "https://wallstreetcn.com/articles/3761683",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美联储理事米兰重申应降息以应对就业市场风险",
-          "url": "https://flash.jin10.com/detail/20251220040119868800",
-          "source": "金十数据",
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
-          "url": "https://wallstreetcn.com/articles/3761670",
-          "source": "华尔街见闻",
+          "title": "盘中创历史新高A股名单一览：多只商业航天概念股在列",
+          "url": "https://www.cls.cn/detail/2235498",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "网信办与证监会联合出手，“爱在深秋-郑老师”等17个账号被查处",
-          "url": "https://finance.ifeng.com/c/8pDQ5Qzk52e",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3024176",
-          "source": "华尔街见闻-快讯",
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "周五（12月19日）纽约尾盘，现货黄金涨0.13%，报4338.32美元/盎司，本周累计上涨0.91%，整体震荡于4271.92-4374.65美元区间。 COMEX黄金期货涨0.08%，报4368.40美元/盎司，本周累涨0.92%。",
-          "url": "https://wallstreetcn.com/livenews/3024175",
+          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
+          "url": "https://wallstreetcn.com/livenews/3024329",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3024174",
-          "source": "华尔街见闻-快讯",
+          "title": "招商银行：日本重启加息 或对全球金融条件形成压制",
+          "url": "https://flash.jin10.com/detail/20251220191557631800",
+          "source": "金十数据",
           "ranks": [
-            15
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3024168",
-          "source": "华尔街见闻-快讯",
+          "title": "男子偷170万元黄金藏祖坟墓碑后",
+          "url": "https://www.toutiao.com/trending/7585151455397642246/",
+          "source": "今日头条",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "日本央行加息25个基点",
-          "url": "https://www.douyin.com/hot/2341005",
-          "source": "抖音",
+          "title": "3家A股公司因财务造假被罚",
+          "url": "https://www.toutiao.com/trending/7585095936725532714/",
+          "source": "今日头条",
           "ranks": [
-            21
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "纳指科技指数收涨约1.8%，半导体指数涨约3%，标普本周V形反转",
-          "url": "https://wallstreetcn.com/livenews/3024157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
-          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
-          "url": "https://wallstreetcn.com/livenews/3024191",
-          "source": "华尔街见闻-快讯",
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
-          "url": "https://www.zhihu.com/question/1984644910364774911",
-          "source": "知乎",
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "【焦点复盘】沪指3连阳收复20日均线，全市场超4400股飘红，智能驾驶概念再度爆发",
-          "url": "https://www.cls.cn/detail/2234804",
-          "source": "财联社热门",
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
         },
         {
-          "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32209737",
-          "source": "澎湃新闻",
+          "title": "机构密集调研智能驾驶概念股！龙头4连板，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2235518",
+          "source": "财联社热门",
           "ranks": [
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时19分"
+        },
+        {
+          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "中信建投：继续看好AI算力板块",
+          "url": "https://wallstreetcn.com/livenews/3024316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "英语兔的年报DNA里有AI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "生态环境部副部长于会文任内蒙古自治区党委常委、呼和浩特市委书记",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32220651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
