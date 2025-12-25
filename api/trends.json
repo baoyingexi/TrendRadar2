@@ -1,16 +1,16 @@
 {
-  "generated_at": "2025-12-25T07:20:46.817279+08:00",
+  "generated_at": "2025-12-26T07:20:41.394411+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 14,
       "titles": [
         {
-          "title": "美国结束上届政府针对中国芯片贸易调查，未来18个月不对中国芯片加征额外关税",
-          "url": "https://wallstreetcn.com/livenews/3026378",
-          "source": "华尔街见闻-快讯",
+          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
+          "url": "https://www.cls.cn/detail/2240231",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
@@ -19,31 +19,20 @@
           "time_info": "07时20分"
         },
         {
-          "title": "日本央行前审议委员：日本推动经济增长期间需对加息采取审慎态度",
-          "url": "https://flash.jin10.com/detail/20251225064107166800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "住建部：着力稳定房地产市场",
-          "url": "https://www.douyin.com/hot/2346688",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
           "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "“水果第一股”将退市",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E6%9E%9C%E7%AC%AC%E4%B8%80%E8%82%A1%E2%80%9D%E5%B0%86%E9%80%80%E5%B8%82",
+          "source": "百度热搜",
           "ranks": [
             4
           ],
@@ -52,31 +41,9 @@
           "time_info": "07时20分"
         },
         {
-          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
-          "url": "https://wallstreetcn.com/articles/3761967",
+          "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
+          "url": "https://wallstreetcn.com/articles/3762049",
           "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
-          "url": "https://www.cls.cn/detail/2239150",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
           "ranks": [
             6
           ],
@@ -85,97 +52,53 @@
           "time_info": "07时20分"
         },
         {
-          "title": "年内私募机构豪掷59.8亿元参与A股定增",
-          "url": "https://wallstreetcn.com/livenews/3026374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "男子偷发小100克黄金淡定陪同报警",
-          "url": "https://www.toutiao.com/trending/7587006556160950323/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "12月份MLF延续净投放，分析称不排除一季度实施降准的可能",
-          "url": "https://wallstreetcn.com/livenews/3026372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "LOF盘中再涨停！白银套利“刷屏”，“乌龙指”、“异常交易”提醒都来了！",
-          "url": "https://wallstreetcn.com/articles/3762010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "白银LOF斩获3连板！溢价率跃升至68%，场内基金扎堆涨停，这些溢价率同步飙涨",
-          "url": "https://www.cls.cn/detail/2239047",
+          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
+          "url": "https://www.cls.cn/detail/2240066",
           "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "Clocktower王凯文：白银是当前最高确信度交易，如果美联储“敢”在通胀下降息，那么白银“天上见” | Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "现货黄金突破4500美元创新高 避险共识下机构现分歧：到顶了还是仍看涨？",
-          "url": "https://www.cls.cn/detail/2239195",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32244733",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
-          "url": "https://flash.jin10.com/detail/20251225051502192800",
+          "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251226064647716800",
           "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "光大证券策略首席分析师：政策、产业、资金“三重共振”，2026年A股市场将依然乐观。",
+          "url": "https://wallstreetcn.com/livenews/3026846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/1987426605316924152",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "今年以来A股市场定增融资超7800亿元",
+          "url": "https://wallstreetcn.com/livenews/3026841",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
@@ -184,20 +107,20 @@
           "time_info": "07时20分"
         },
         {
-          "title": "三家公司同日冲刺A股IPO，合计募资近40亿元",
-          "url": "https://wallstreetcn.com/livenews/3026361",
+          "title": "分析师：中国央行2026年实施降准降息的空间仍然存在，但降准概率大于降息",
+          "url": "https://wallstreetcn.com/livenews/3026833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
-          "url": "https://flash.jin10.com/detail/20251225045906463800",
-          "source": "金十数据",
+          "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32253416",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
@@ -206,33 +129,33 @@
           "time_info": "07时20分"
         },
         {
-          "title": "前央行官员称：日本央行在政府全力促增长之际应谨慎对待加息",
-          "url": "https://wallstreetcn.com/livenews/3026356",
-          "source": "华尔街见闻-快讯",
+          "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
+          "url": "https://flash.jin10.com/detail/20251226040528613800",
+          "source": "金十数据",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
-          "url": "https://wallstreetcn.com/livenews/3026354",
+          "title": "中信明明：未来央行可进一步加大对权益市场流动性的关注，利用降准、降息等总量型工具保持宏观流动性平稳",
+          "url": "https://wallstreetcn.com/livenews/3026819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "2025年A股诞生7只十倍股",
-          "url": "https://www.toutiao.com/trending/7586918761643622410/",
-          "source": "今日头条",
+          "title": "上海黄金交易所黄金T+D 12月25日（周四）晚盘收盘上涨1.06%报1013.11元/克；<br/>上海黄金交易所白银T+D 12月25日（周四）晚盘收盘上涨5.09%报18118.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251226023045114800",
+          "source": "金十数据",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -245,31 +168,20 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "AI中场时刻①：摩擦白热化，搅动版权、入口与伦理之争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154249",
-          "source": "澎湃新闻",
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
-          "url": "https://wallstreetcn.com/livenews/3026375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
-          "url": "https://wallstreetcn.com/livenews/3026368",
-          "source": "华尔街见闻-快讯",
+          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
+          "url": "https://flash.jin10.com/detail/20251226064520664800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
@@ -278,11 +190,39 @@
           "time_info": "07时20分"
         },
         {
-          "title": "GROQ：与英伟达达成非独家推理技术许可协议，以在全球范围内加速AI推理。",
-          "url": "https://flash.jin10.com/detail/20251225053135051800",
-          "source": "金十数据",
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "糖尿病治疗迎来“智能时代”",
+          "url": "https://www.toutiao.com/trending/7587354781346496554/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么内蒙古大草原上以羊肉为主食，有那么好的羊，却很少听说内蒙古的羊汤有什么名气？",
+          "url": "https://www.zhihu.com/question/1892923522994635566",
+          "source": "知乎",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
