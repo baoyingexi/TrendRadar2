@@ -1,15 +1,26 @@
 {
-  "generated_at": "2025-12-26T07:20:41.394411+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-27T07:20:34.923884+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
-          "title": "兮璞材料“抢跑”上市 向日葵跨界半导体“暗礁”隐现",
-          "url": "https://www.cls.cn/detail/2240231",
+          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3027489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "央行报告：着力健全有利于“长钱长投”的制度政策环境 显著提高各类中长期资金实际投资A股的规模和比例",
+          "url": "https://www.cls.cn/detail/2241471",
           "source": "财联社热门",
           "ranks": [
             2
@@ -19,8 +30,19 @@
           "time_info": "07时20分"
         },
         {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
+          "title": "乌拉圭央行行长暗示2026年将进一步降息。",
+          "url": "https://flash.jin10.com/detail/20251227035442399800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
+          "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
           "ranks": [
             3
@@ -30,20 +52,20 @@
           "time_info": "07时20分"
         },
         {
-          "title": "“水果第一股”将退市",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B0%B4%E6%9E%9C%E7%AC%AC%E4%B8%80%E8%82%A1%E2%80%9D%E5%B0%86%E9%80%80%E5%B8%82",
-          "source": "百度热搜",
+          "title": "普京：将应用人工智能技术巩固俄武器装备优势",
+          "url": "https://wallstreetcn.com/livenews/3027484",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
-          "url": "https://wallstreetcn.com/articles/3762049",
-          "source": "华尔街见闻",
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
@@ -52,52 +74,63 @@
           "time_info": "07时20分"
         },
         {
-          "title": "【焦点复盘】创业板指探底回升收获5连涨，全市场超3700股飘红，机器人概念现批量涨停",
-          "url": "https://www.cls.cn/detail/2240066",
+          "title": "A股三大指数再度翻红，贵金属、有色全线大涨，锂矿强势，国投白银LOF再次跌停，商业航天活跃，算力硬件领跌",
+          "url": "https://wallstreetcn.com/articles/3762115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
           "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251226064647716800",
+          "title": "国家统计局：经最终核实，2024年GDP现价总量为1348066亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32256627",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月26日（周五）晚盘收盘上涨0.16%报1012.2元/克；<br/>上海黄金交易所白银T+D 12月26日（周五）晚盘收盘上涨4.2%报19140.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251227023104715800",
           "source": "金十数据",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "光大证券策略首席分析师：政策、产业、资金“三重共振”，2026年A股市场将依然乐观。",
-          "url": "https://wallstreetcn.com/livenews/3026846",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的203.39亿美元。",
+          "url": "https://flash.jin10.com/detail/20251227021843590800",
+          "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "美国宣布未来 18 个月不对中国芯片加征额外关税，会对芯片市场带来怎样的影响？",
-          "url": "https://www.zhihu.com/question/1987426605316924152",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "今年以来A股市场定增融资超7800亿元",
-          "url": "https://wallstreetcn.com/livenews/3026841",
+          "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/3027473",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
@@ -107,8 +140,30 @@
           "time_info": "07时20分"
         },
         {
-          "title": "分析师：中国央行2026年实施降准降息的空间仍然存在，但降准概率大于降息",
-          "url": "https://wallstreetcn.com/livenews/3026833",
+          "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3027472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "BLG违约也要踢,Elk五宗罪实锤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348421&amp;topic_name=BLG%E8%BF%9D%E7%BA%A6%E4%B9%9F%E8%A6%81%E8%B8%A2%2CElk%E4%BA%94%E5%AE%97%E7%BD%AA%E5%AE%9E%E9%94%A4",
+          "source": "贴吧",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "周五（12月26日），降息赢家指数涨0.03%，报100.38点，本周累计上涨0.45%。 “特朗普关税输家”指数涨0.48%，报112.72点，本周累跌跌0.18%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.85%，报16.03点，本周累跌4.89%。",
+          "url": "https://wallstreetcn.com/livenews/3027470",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
@@ -118,20 +173,9 @@
           "time_info": "07时20分"
         },
         {
-          "title": "商务部：坚决反对美对华半导体产品加征301关税，已提出严正交涉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32253416",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
-          "url": "https://flash.jin10.com/detail/20251226040528613800",
-          "source": "金十数据",
+          "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
+          "url": "https://wallstreetcn.com/livenews/3027465",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
@@ -140,22 +184,11 @@
           "time_info": "07时20分"
         },
         {
-          "title": "中信明明：未来央行可进一步加大对权益市场流动性的关注，利用降准、降息等总量型工具保持宏观流动性平稳",
-          "url": "https://wallstreetcn.com/livenews/3026819",
-          "source": "华尔街见闻-快讯",
+          "title": "360克黄金无人认领 咨询电话被打爆",
+          "url": "https://www.baidu.com/s?wd=360%E5%85%8B%E9%BB%84%E9%87%91%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86+%E5%92%A8%E8%AF%A2%E7%94%B5%E8%AF%9D%E8%A2%AB%E6%89%93%E7%88%86",
+          "source": "百度热搜",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月25日（周四）晚盘收盘上涨1.06%报1013.11元/克；<br/>上海黄金交易所白银T+D 12月25日（周四）晚盘收盘上涨5.09%报18118.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251226023045114800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -165,34 +198,34 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
-          "title": "OpenAI的“广告模式”已初具雏形",
-          "url": "https://wallstreetcn.com/articles/3762036",
-          "source": "华尔街见闻",
+          "title": "华为：全球悬赏300万元解决AI时代的存储难题",
+          "url": "https://www.cls.cn/detail/2241363",
+          "source": "财联社热门",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
-          "url": "https://flash.jin10.com/detail/20251226064520664800",
-          "source": "金十数据",
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
+          "title": "科研创新 idea 要不要告诉 AI?",
+          "url": "https://www.zhihu.com/question/1914008682825520046",
+          "source": "知乎",
           "ranks": [
             14
           ],
@@ -201,28 +234,22 @@
           "time_info": "07时20分"
         },
         {
-          "title": "糖尿病治疗迎来“智能时代”",
-          "url": "https://www.toutiao.com/trending/7587354781346496554/",
-          "source": "今日头条",
+          "title": "174名北大学生迎特殊考试：对决AI",
+          "url": "https://www.baidu.com/s?wd=174%E5%90%8D%E5%8C%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%8E%E7%89%B9%E6%AE%8A%E8%80%83%E8%AF%95%EF%BC%9A%E5%AF%B9%E5%86%B3AI",
+          "source": "百度热搜",
           "ranks": [
-            27
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "为什么内蒙古大草原上以羊肉为主食，有那么好的羊，却很少听说内蒙古的羊汤有什么名气？",
-          "url": "https://www.zhihu.com/question/1892923522994635566",
-          "source": "知乎",
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
