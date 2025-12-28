@@ -1,143 +1,132 @@
 {
-  "generated_at": "2025-12-28T07:19:52.553387+08:00",
+  "generated_at": "2025-12-29T07:20:32.079939+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 12,
+      "match_count": 11,
       "titles": [
         {
-          "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
-          "url": "https://wallstreetcn.com/articles/3762133",
-          "source": "华尔街见闻",
+          "title": "拟易主特种机器人龙头的胜通能源月内股价涨超210% 12月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2241788",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
+          "title": "现货黄金周一高开，现报4548美元/盎司，逼近新高。",
+          "url": "https://flash.jin10.com/detail/20251229070258211800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
+          "url": "https://www.cls.cn/detail/2241760",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20251229070023196800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2241810",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "多家A股公司打响年末“保壳大战”",
+          "url": "https://wallstreetcn.com/livenews/3027711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
           "url": "https://www.cls.cn/detail/2241723",
           "source": "财联社热门",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "中产涌入海南抢黄金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E6%B5%B7%E5%8D%97%E6%8A%A2%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "新能源主题基金回暖，机构研判新一轮景气周期已至",
+          "url": "https://wallstreetcn.com/livenews/3027709",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
-          "url": "https://flash.jin10.com/detail/20251227214522049800",
+          "title": "金十图示：2025年12月29日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251229064707729800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "物业禁止新能源汽车进地下车库",
-          "url": "https://www.toutiao.com/trending/7587592446197383177/",
-          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
-          "url": "https://www.cls.cn/detail/2241811",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://wallstreetcn.com/livenews/3027570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
-          "url": "https://news.ifeng.com/c/8pQgfOmDcWs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
-          "url": "https://flash.jin10.com/detail/20251227211319753800",
-          "source": "金十数据",
+          "title": "人工智能专家朱松纯谈及归国时落泪",
+          "url": "https://www.toutiao.com/trending/7589047143240060454/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "新能源车高速公路电量耗尽，司乘二人下来推车被撞身亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32265274",
-          "source": "澎湃新闻",
+          "title": "小米联合创始人拟减持不超20亿美元",
+          "url": "https://www.douyin.com/hot/2350310",
+          "source": "抖音",
           "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://flash.jin10.com/detail/20251227205746692800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -146,48 +135,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
-          "url": "https://www.cls.cn/detail/2241816",
-          "source": "财联社热门",
+          "title": "用一个字证明自己不是AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AD%97%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AFAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "Notion CEO谈AI变革：“无限心智”时代来临",
-          "url": "https://wallstreetcn.com/articles/3762183",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
-          "url": "https://www.cls.cn/detail/2241925",
+          "title": "具身智能迎来“奠基时刻” 人形机器人标委会成立 “放量”或成2026行业关键词",
+          "url": "https://www.cls.cn/detail/2241816",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
-          "url": "https://wallstreetcn.com/livenews/3027558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         }
       ]
     }
