@@ -1,386 +1,248 @@
 {
-  "generated_at": "2025-12-31T07:19:56.658565+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-01T07:20:44.451610+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 18,
+      "match_count": 16,
       "titles": [
         {
-          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
-          "url": "https://wallstreetcn.com/articles/3762238",
+          "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32291082",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "2025收官日美国股债双杀，期银盘中跌超10%、仍携手黄金创1979年来最大年涨",
+          "url": "https://wallstreetcn.com/articles/3762386",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "韩国12月CPI月率 0.3%，预期0.20%，前值-0.20%。",
-          "url": "https://flash.jin10.com/detail/20251231070002397800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.43吨，当前持仓量为1070.56吨。",
+          "url": "https://flash.jin10.com/detail/20260101064417558800",
           "source": "金十数据",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "韩国12月CPI年率 2.3%，预期2.30%，前值2.40%。",
-          "url": "https://flash.jin10.com/detail/20251231070002375800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "韩国12月CPI环比上升0.3%，预期上升0.2%，前值下降0.2%。 同比上升2.3%，符合预期，前值上升2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3028956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
-          "url": "https://news.ifeng.com/c/8pWXXu6Vf9x",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "2025年A股并购重组盘点： 活跃度显著提升 “硬科技”成焦点",
-          "url": "https://wallstreetcn.com/livenews/3028954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "印度已邀请中国参加全球人工智能峰会",
-          "url": "https://wallstreetcn.com/livenews/3028952",
-          "source": "华尔街见闻-快讯",
+          "title": "我国芯片自主研发新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%8A%AF%E7%89%87%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762287",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
-          "url": "https://wallstreetcn.com/articles/3762216",
+          "title": "证监会：调降公募基金认申购费、销售服务费，持有期超一年的基金份额不收取销售服务费",
+          "url": "https://wallstreetcn.com/articles/3762394",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "英媒：美政府已颁发许可证，批准韩企向中国出口芯片制造设备",
-          "url": "https://wallstreetcn.com/livenews/3028950",
-          "source": "华尔街见闻-快讯",
+          "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2245895",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2244587",
+          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
+          "url": "https://wallstreetcn.com/livenews/3029494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "现货黄金2025年涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3029493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "山西大同一物业通知禁止新能源车进地库，街道办回应正收集业主意见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289737",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "标普500指数的11个板块全线收跌，房地产板块跌1%，原材料、工业、信息技术/科技、可选消费板块跌0.88%-0.8%，能源板块跌0.52%表现“顺数第二”，电信板块跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3029489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "全面降息下的“存款搬家”",
+          "url": "https://www.toutiao.com/trending/7589904767824973355/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
+          "url": "https://wallstreetcn.com/livenews/3029487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "如何看待黄金走势",
+          "url": "https://www.douyin.com/hot/2352587",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "标普2025年累涨16%，连续三年出现两位数百分比涨幅，半导体指数全年涨超42%",
+          "url": "https://wallstreetcn.com/livenews/3029480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：12月23日当周，投机者所持COMEX黄金净多头头寸增加3,411手合约，至137,541手合约。 COMEX白银净多头头寸减少432手合约，至23,864手合约。",
+          "url": "https://wallstreetcn.com/livenews/3029472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260101050540160800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "澎湃漫评｜新能源车禁入地库是刻舟求剑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32282577",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
-          "url": "https://wallstreetcn.com/livenews/3028934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251231050526825800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251231050523953800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
-          "url": "https://flash.jin10.com/detail/20251231050133467800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "2026年国补方案出炉：新增智能产品，剔除家装、电动自行车，调整家电、汽车补贴标准",
-          "url": "https://wallstreetcn.com/articles/3762313",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "四部门：到2027年整车标杆企业智能制造能力成熟度等级提升一档",
-          "url": "https://www.cls.cn/detail/2244230",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "明年“两新”政策优化升级 智能产品纳入补贴范围",
-          "url": "https://www.cls.cn/detail/2244354",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "2026年“两新”政策部署来了，智能产品纳入补贴范围",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32283426",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
+          "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
+          "url": "https://www.zhihu.com/question/1987568735523980297",
           "source": "知乎",
           "ranks": [
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         },
         {
-          "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
-          "url": "https://www.cls.cn/detail/2244555",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
-          "url": "https://wallstreetcn.com/livenews/3028945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "AI公司MiniMax寻求通过香港IPO融资将近42亿港元",
-          "url": "https://wallstreetcn.com/livenews/3028938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20251231052550783800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "亚马逊：将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3028930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内蒙古一考公机构打出“上岸彩礼多要二十万”横幅，市监部门已立案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280689",
+          "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时20分"
         }
       ]
     }
