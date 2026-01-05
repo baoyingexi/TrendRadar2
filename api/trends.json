@@ -1,138 +1,369 @@
 {
-  "generated_at": "2026-01-05T07:20:36.909236+08:00",
+  "generated_at": "2026-01-06T07:21:20.487962+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 8,
+      "match_count": 21,
       "titles": [
         {
-          "title": "美股三大股指期货周一小幅高开。",
-          "url": "https://flash.jin10.com/detail/20260105070122345800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "国际油价低开，黄金、白银走高，此前美国“闪击”委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/3030368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "就在周四！黄金白银将迎新年“第一劫”：数十亿美元抛单已在路上",
-          "url": "https://www.cls.cn/detail/2246895",
+          "title": "一图看懂 | A股新年迎“新顶流”，脑机接口有哪些因素催化？",
+          "url": "https://www.cls.cn/detail/2248162",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "现货黄金周一跳空高开，报4352.08美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260105070107373800",
-          "source": "金十数据",
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "回购增持分红多措并举，深市公司“真金白银”护航市场稳定",
-          "url": "https://wallstreetcn.com/livenews/3030367",
+          "title": "证监会：进一步增强行政、刑事、民事协同 对财务造假和第三方配合造假一体打击",
+          "url": "https://www.cls.cn/detail/2248400",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
+          "url": "https://wallstreetcn.com/articles/3762520",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
+          "url": "https://www.cls.cn/detail/2248455",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "2026开门红！沪指重回4000点，创33年最长连阳纪录，脑机接口掀起涨停潮，恒指震荡微涨，快手涨超11%",
+          "url": "https://wallstreetcn.com/articles/3762532",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
+          "url": "https://www.cls.cn/detail/2248168",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "逾40家港股公司开年出手回购股份",
+          "url": "https://wallstreetcn.com/livenews/3031142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "金十图示：2026年01月05日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260105064413002800",
-          "source": "金十数据",
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "美联储将被迫降息至2.25%？华尔街预言家：今年失业率恐飙至6%！",
-          "url": "https://www.cls.cn/detail/2246883",
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "三家半导体龙头企业齐推重组交易，科创板并购迈向“质变”新阶段",
+          "url": "https://wallstreetcn.com/livenews/3031141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达：新款Rubin芯片进展顺利，有助于加快人工智能的运行速度",
+          "url": "https://flash.jin10.com/detail/20260106065123141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "超40家A股公司2025年业绩“预喜”，四大行业释放经营暖意",
+          "url": "https://wallstreetcn.com/livenews/3031140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "黄仁勋：英伟达新款Rubin芯片进展顺利，助力加速AI进程",
+          "url": "https://wallstreetcn.com/livenews/3031135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
+          "url": "https://flash.jin10.com/detail/20260106062543527800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：基于Rubin芯片架构的产品将于2026年下半年上市。",
+          "url": "https://flash.jin10.com/detail/20260106062404357800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "避险情绪升温！黄金重回4400美元，变盘或在路上？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32319448",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出Vera Rubin平台，包含六款全新芯片，旨在打造一台人工智能超级计算机。",
+          "url": "https://flash.jin10.com/detail/20260106061624031800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI的复杂性推高需求。 新款Vera Rubin设计已经全面量产。 宣布面向Vera Rubin电脑的六款新芯片。 新款VeraCPU拥有88 Arm定制核。 公司现在是最大的网络公司。",
+          "url": "https://wallstreetcn.com/livenews/3031124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "B站AI大赛开始了",
+          "url": "https://search.bilibili.com/all?keyword=B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E5%BC%80%E5%A7%8B%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
+          "url": "https://wallstreetcn.com/articles/3762568",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "开业月余，三家股份行AIC密集投向“硬科技”",
+          "url": "https://wallstreetcn.com/livenews/3031145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
+          "url": "https://www.cls.cn/detail/2248593",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "中国第一省会 剑指6万亿GDP",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E7%9C%81%E4%BC%9A+%E5%89%91%E6%8C%876%E4%B8%87%E4%BA%BFGDP",
-          "source": "百度热搜",
+          "title": "英伟达推出BlueField-4数据处理器，赋能新一代AI原生存储基础设施，开启AI新纪元",
+          "url": "https://wallstreetcn.com/livenews/3031139",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "年度抽象AI作品Top10",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E5%BA%A6%E6%8A%BD%E8%B1%A1AI%E4%BD%9C%E5%93%81Top10",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "CES 2026前瞻：英伟达或重塑物理AI，中美韩机器人齐“秀肌肉”",
-          "url": "https://wallstreetcn.com/articles/3762500",
-          "source": "华尔街见闻",
+          "title": "英伟达推出适用于自动驾驶汽车和机器人的全新AI工具",
+          "url": "https://flash.jin10.com/detail/20260106063939900800",
+          "source": "金十数据",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "腾讯回应用户被元宝AI辱骂",
-          "url": "https://www.baidu.com/s?wd=%E8%85%BE%E8%AE%AF%E5%9B%9E%E5%BA%94%E7%94%A8%E6%88%B7%E8%A2%AB%E5%85%83%E5%AE%9DAI%E8%BE%B1%E9%AA%82",
-          "source": "百度热搜",
+          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
+          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "source": "金十数据",
           "ranks": [
-            18
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
+          "url": "https://flash.jin10.com/detail/20260106060052070800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
+          "url": "https://wallstreetcn.com/livenews/3031121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：发布用于语音、多模态检索增强生成和安全领域的NEMOTRON模型。",
+          "url": "https://flash.jin10.com/detail/20260106055837713800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         }
       ]
     }
