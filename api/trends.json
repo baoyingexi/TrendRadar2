@@ -1,259 +1,160 @@
 {
-  "generated_at": "2026-01-08T07:21:39.581219+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-09T07:19:22.231250+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 17,
+      "match_count": 12,
       "titles": [
         {
-          "title": "央行将开展1.1万亿买断式逆回购操作",
-          "url": "https://www.toutiao.com/trending/7592426339706470436/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "央行宣布！11000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%EF%BC%8111000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "八部门联合发文，事关“人工智能+制造”",
-          "url": "https://www.cls.cn/detail/2250761",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "中方对原产于日本的进口二氯二氢硅发起反倾销立案调查，二氯二氢硅是做什么的？此举对日方会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1992258271394944650",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
-          "url": "https://www.cls.cn/detail/2251000",
-          "source": "财联社热门",
+          "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "央行预告开展11000亿元买断式逆回购 政府债缴款、税收等多因素扰动资金面 专家预计央行将持续注入中期流动性",
-          "url": "https://www.cls.cn/detail/2250865",
+          "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
+          "url": "https://www.cls.cn/detail/2252454",
           "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "钙钛矿成太空光伏潜在“优选”，新能源公司敏锐布局抢占先机",
-          "url": "https://wallstreetcn.com/livenews/3032743",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
-          "url": "https://wallstreetcn.com/articles/3762734",
+          "title": "沪指走出“15连阳”，商业航天持续爆发，恒科指跌1%，智谱上市首日涨13%，金属齐跌，多晶硅跌停",
+          "url": "https://wallstreetcn.com/articles/3762802",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "央行连续14个月增持黄金",
-          "url": "https://www.douyin.com/hot/2360100",
-          "source": "抖音",
+          "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2252232",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "沪指14连阳冲击4100点，存储器全天活跃，煤炭板块爆发，“双焦”涨停，恒科指跌1.5%，医药生物大涨",
-          "url": "https://wallstreetcn.com/articles/3762705",
+          "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
+          "url": "https://wallstreetcn.com/articles/3762810",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "收盘价首登700元！光芯片龙头剑指新高，“百元天团”继续扩容，周内又新增15股",
-          "url": "https://www.cls.cn/detail/2250702",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
+          "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992286512562270761",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "美国总统特朗普下令：防务企业削减股息和股票回购（规模）。",
-          "url": "https://wallstreetcn.com/livenews/3032727",
+          "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
+          "url": "https://flash.jin10.com/detail/20260109055249345800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "“南下”热情高涨，开年首周逾10家A股公司冲刺H股上市",
+          "url": "https://wallstreetcn.com/livenews/3033585",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "央行连续14个月增持黄金",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD14%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "央行市场预期调查显示，阿根廷2026年底GDP增速预计为3.5%，较先前预测上调0.1个百分点。",
-          "url": "https://flash.jin10.com/detail/20260108053546835800",
+          "title": "穆迪：增加国防开支会促进GDP的增长，但由此带来的额外政府收入无法抵消开支的增加。",
+          "url": "https://flash.jin10.com/detail/20260109053116791800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "周三（1月7日），降息赢家指数跌1.33%，报101.94点。 “特朗普关税输家”指数跌1.60%，报115.99点。 “特朗普金融指数”跌1.63%，报179.24点。 散户抱团概念股指数/迷因股（meme stock）指数跌3.10%，报16.10点。",
-          "url": "https://wallstreetcn.com/livenews/3032719",
+          "title": "（美股）费城金银指数收涨0.10%，报367.31点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.05%，报2583.79点，北京时间22:30美股开盘时候跳水，23:00刷新日低至2525.03点。 （美股）原材料指数涨0.94%，报239.45点。 （美股）金属与矿业指数跌0.89%，报228.50点。",
+          "url": "https://wallstreetcn.com/livenews/3033575",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         },
         {
-          "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
-          "url": "https://wallstreetcn.com/livenews/3032715",
+          "title": "周四（1月8日）纽约尾盘，现货黄金涨0.37%，报4473.13美元/盎司，整体呈现出V形反转走势。 COMEX黄金期货涨0.48%，报4483.30美元/盎司，北京时间20:16刷新日低至4415美元。",
+          "url": "https://wallstreetcn.com/livenews/3033574",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "金十图示：2026年01月08日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260109050537009800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "AI引爆存储市场：三星电子利润创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3032745",
+          "title": "报道：OpenAI拟收购高管教练AI工具Convogo核心团队",
+          "url": "https://wallstreetcn.com/livenews/3033598",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "直播电商新规强化AI内容监管",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%94%B5%E5%95%86%E6%96%B0%E8%A7%84%E5%BC%BA%E5%8C%96AI%E5%86%85%E5%AE%B9%E7%9B%91%E7%AE%A1%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
-          "url": "https://wallstreetcn.com/articles/3762706",
-          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
-          "url": "https://wallstreetcn.com/articles/3762702",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "含AI量极高！工信部推动工业互联网改造升级 智能体、人形机器人获点名",
-          "url": "https://www.cls.cn/detail/2250745",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时19分"
         }
       ]
     }
