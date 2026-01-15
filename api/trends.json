@@ -1,413 +1,270 @@
 {
-  "generated_at": "2026-01-15T07:19:22.853702+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-16T07:22:18.021272+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 25,
+      "match_count": 16,
       "titles": [
         {
-          "title": "科技股重挫拖累美股，美小盘股指跑赢大盘，白银突破93美元，金银比跌破50",
+          "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
+          "url": "https://wallstreetcn.com/articles/3763367",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
           "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "美国宣布对特定半导体等加征25%关税",
-          "url": "https://news.ifeng.com/c/8pvSblFxE83",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "携程涉嫌垄断被立案调查",
-          "url": "https://search.bilibili.com/all?keyword=%E6%90%BA%E7%A8%8B%E6%B6%89%E5%AB%8C%E5%9E%84%E6%96%AD%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "新能源汽车产销量双超1600万辆",
-          "url": "https://www.douyin.com/hot/2367892",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
+          "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
+          "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "市场监管总局对携程立案调查",
-          "url": "https://www.douyin.com/hot/2367563",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "路透调查：约三分之二日本企业认为日本央行最近一次加息是合适的。",
-          "url": "https://flash.jin10.com/detail/20260115070055771800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "【焦点复盘】沪指午后跳水一度逼近4100点，商业航天概念分化持续，半导体设备股卷土重来",
-          "url": "https://www.cls.cn/detail/2257582",
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
+          "title": "美国白宫宣布对特定半导体等加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3763322",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "美国白宫宣布对特定半导体等加征25%关税",
-          "url": "https://wallstreetcn.com/livenews/3037337",
-          "source": "华尔街见闻-快讯",
+          "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
+          "url": "https://www.cls.cn/detail/2259073",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
-          "url": "https://www.cls.cn/detail/2258154",
-          "source": "财联社热门",
+          "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
+          "url": "https://wallstreetcn.com/articles/3763340",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "A股调整融资保证金有何影响",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.57吨，当前持仓量为1074.8吨。",
+          "url": "https://flash.jin10.com/detail/20260116064455703800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "浙江证监局：对向日葵重组预案涉嫌误导性陈述立案调查",
-          "url": "https://www.cls.cn/detail/2257766",
+          "title": "【早报】事关降息等，央行推出政策大礼包；“十五五”电网投资4万亿元",
+          "url": "https://www.cls.cn/detail/2259670",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
-          "url": "https://www.cls.cn/detail/2257887",
+          "title": "一次收受2000枚以太币，证监会科技监管司原司长姚前大搞权钱交易",
+          "url": "https://wallstreetcn.com/articles/3763326",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "为何新能源车满6年就能享受换新优惠",
+          "url": "https://www.toutiao.com/trending/7595560185112825354/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "六连板人工智能概念牛股异动核查完毕 明起复牌|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2259373",
           "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "携程回应被立案调查",
-          "url": "https://www.douyin.com/hot/2367721",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "市场监管总局依法对携程集团有限公司立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382955",
-          "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "美股集体低开 携程跌近17%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
+          "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
+          "url": "https://wallstreetcn.com/livenews/3038238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "央行官宣：结构性降息落地",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%AE%98%E5%AE%A3%EF%BC%9A%E7%BB%93%E6%9E%84%E6%80%A7%E9%99%8D%E6%81%AF%E8%90%BD%E5%9C%B0",
           "source": "百度热搜",
           "ranks": [
-            14
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "涉嫌垄断行为被立案调查，携程：积极配合监管部门，全面落实监管要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32383284",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "SK海力士America CEO：公司位于韩国Yongin（龙仁市）的芯片设施将提前三个月成立。 2027年2月份，公司将在当地成立第一家工厂。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3037329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "12月以来披露8起案例，A股公司跨境并购民企唱主角",
-          "url": "https://wallstreetcn.com/livenews/3037328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "存储芯片涨价趋势持续",
-          "url": "https://www.douyin.com/hot/2367041",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
-          "url": "https://wallstreetcn.com/livenews/3037319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
-          "url": "https://www.toutiao.com/trending/7594783963441545225/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.30%，报393.33点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.43%，报2757.16点，也创历史新高，北京时间22:30美股开盘以来V形反转。 （美股）原材料指数收涨1.10%，报252.44点。 （美股）金属与矿业指数涨2.48%，报242.99点。",
-          "url": "https://wallstreetcn.com/livenews/3037317",
+          "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
+          "url": "https://wallstreetcn.com/livenews/3038227",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "张小泉集团破产重组的背后",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%B0%8F%E6%B3%89%E9%9B%86%E5%9B%A2%E7%A0%B4%E4%BA%A7%E9%87%8D%E7%BB%84%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "航空业ETF收涨约2.3%，和半导体ETF领跑美股行业ETF，标普能源板块跌0.9%",
+          "url": "https://wallstreetcn.com/livenews/3038225",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 11,
+      "match_count": 7,
       "titles": [
         {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
-          "source": "百度热搜",
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "title": "DeepSeek 梁文锋旗下幻方量化 2025 年收益率 56.6%，如何评价这一业绩？",
+          "url": "https://www.zhihu.com/question/1995072623625855863",
           "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "AI查贪官准确率相当高",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "谷歌母公司 Alphabet 的市值正式突破 4 万亿美元，其在这波 AI 浪潮中做对了什么？",
+          "url": "https://www.zhihu.com/question/1994345893202191645",
+          "source": "知乎",
           "ranks": [
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
+          "source": "知乎",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
-          "title": "从“读懂中国”到“算力解码”，外资巨头加码中国市场AI投研",
-          "url": "https://wallstreetcn.com/livenews/3037339",
-          "source": "华尔街见闻-快讯",
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
           "source": "贴吧",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
           "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "07时22分"
         }
       ]
     }
