@@ -1,242 +1,154 @@
 {
-  "generated_at": "2026-01-17T07:21:22.275404+08:00",
+  "generated_at": "2026-01-18T07:20:22.224234+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 13,
       "titles": [
         {
-          "title": "证监会：坚持稳字当头，及时做好逆周期调节，严肃查处违法违规行为，防止市场大起大落",
-          "url": "https://wallstreetcn.com/articles/3763457",
+          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
+          "url": "https://wallstreetcn.com/articles/3763515",
           "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "我国芯片制造核心装备取得重要突破",
+          "url": "https://www.cls.cn/detail/2261102",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "性能突破性提升！我国攻克半导体材料世界难题",
+          "url": "https://www.cls.cn/detail/2261067",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "通过数字身份证溯源，新能源车废旧动力电池回收利用新规发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398029",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
-          "url": "https://wallstreetcn.com/articles/3763348",
-          "source": "华尔街见闻",
+          "title": "【早报】证监会发声！坚持稳字当头，巩固市场稳中向好势头；税务部门提醒纳税人对近三年境外所得开展自查",
+          "url": "https://www.cls.cn/detail/2261013",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "中国攻克半导体材料世界难题",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%94%BB%E5%85%8B%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E4%B8%96%E7%95%8C%E9%9A%BE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "第一批免签去土耳其的人已「破产」，可乐折合 34 元一罐，土耳其物价算贵吗？去旅行有哪些省钱攻略？",
-          "url": "https://www.zhihu.com/question/1995202851333431617",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
+          "title": "央行开年启动结构性降息，近30万亿到期定存何去何从？一线：存款偏好依旧强烈，理财、基金未现流入",
+          "url": "https://www.cls.cn/detail/2261105",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "金十图示：2026年01月16日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050524828800",
-          "source": "金十数据",
+          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2261163",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
-          "url": "https://wallstreetcn.com/articles/3763450",
-          "source": "华尔街见闻",
+          "title": "全球首个电动车电耗强制新国标实施，媒体称部分电车重达 3 吨，新能源车该减肥了，行业会否转向能效技术竞赛？",
+          "url": "https://www.zhihu.com/question/1995807702694269078",
+          "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "沪指险守4100点，两市ETF成交再创历史天量，电网设备走强，半导体产业链爆发，碳酸锂跌停",
-          "url": "https://wallstreetcn.com/articles/3763433",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "证监会：坚决防止市场大起大落",
-          "url": "https://www.douyin.com/hot/2369854",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2260838",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美股三大指数小幅收跌 美光收涨近8%",
-          "url": "https://flash.jin10.com/detail/20260117050027802800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "（美股）费城金银指数收涨0.06%，报395.01点，本周累计上涨5.47%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.06%，报2760.43点，特朗普谈论哈塞特带来一波尖锐的V形走势，本周累涨5.38%。 （美股）原材料指数收跌0.21%，报252.23点，本周累涨2.89%。 （美股）金属与矿业指数收跌1.09%，报241.90点，本周累涨4.46%。",
-          "url": "https://wallstreetcn.com/livenews/3039039",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
+          "url": "https://www.zhihu.com/question/659369541",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "陕西科研团队攻克芯片散热世界难题",
+          "url": "https://flash.jin10.com/detail/20260117213816267800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至1月13日当周，COMEX黄金投机客将净多头头寸增加了12,292手，达到136,548手，COMEX白银投机客将净多头头寸减少了2,613手，至15,045手。",
-          "url": "https://flash.jin10.com/detail/20260117043333956800",
-          "source": "金十数据",
+          "title": "报废新能源车为何必须“车电一体”",
+          "url": "https://www.toutiao.com/trending/7596288943369227818/",
+          "source": "今日头条",
           "ranks": [
-            14
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "周五（1月16日）纽约尾盘，现货黄金跌0.44%，报4595.23美元/盎司，特朗普淡化白宫顾问贝森特担任美联储主席可能性之后快速跳水，本周累计上涨1.91%，绝大部分时间高位震荡。 COMEX黄金期货跌0.57%，报4597美元/盎司，本周累涨2.12%。",
-          "url": "https://wallstreetcn.com/livenews/3039034",
+          "title": "西电团队攻克芯片散热世界难题：氮化镓射频芯片性能提升30%到40%",
+          "url": "https://wallstreetcn.com/livenews/3039138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
-          "url": "https://wallstreetcn.com/livenews/3039029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：在经济上合理的情况下，很高兴看到常备回购协议操作的使用增加。",
-          "url": "https://flash.jin10.com/detail/20260117043149735800",
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260117195232354800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美国财长贝森特：2025年，财政赤字与GDP的比率为5.4%。",
-          "url": "https://wallstreetcn.com/livenews/3039028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：自2024年以来的美联储降息已使政策利率进入与中性一致的区间。",
-          "url": "https://flash.jin10.com/detail/20260117043128220800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3039026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -245,48 +157,48 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
         },
         {
-          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
-          "url": "https://flash.jin10.com/detail/20260117043322271800",
-          "source": "金十数据",
+          "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
+          "url": "https://wallstreetcn.com/livenews/3039142",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时20分"
+        },
+        {
+          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://flash.jin10.com/detail/20260117195257548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
+          "url": "https://wallstreetcn.com/livenews/3039131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     }
