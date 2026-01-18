@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-18T07:20:22.224234+08:00",
+  "generated_at": "2026-01-19T07:20:42.220023+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,9 +8,9 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "美国暂不征收“关键矿产”关税，摩根大通：白银暂时扛住了，但回调风险巨大，这对黄金是机会",
-          "url": "https://wallstreetcn.com/articles/3763515",
-          "source": "华尔街见闻",
+          "title": "固收及黄金主题产品成银行理财“香饽饽”",
+          "url": "https://wallstreetcn.com/livenews/3039329",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
@@ -19,19 +19,8 @@
           "time_info": "07时20分"
         },
         {
-          "title": "我国芯片制造核心装备取得重要突破",
-          "url": "https://www.cls.cn/detail/2261102",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "性能突破性提升！我国攻克半导体材料世界难题",
-          "url": "https://www.cls.cn/detail/2261067",
+          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://www.cls.cn/detail/2261399",
           "source": "财联社热门",
           "ranks": [
             2
@@ -41,8 +30,19 @@
           "time_info": "07时20分"
         },
         {
-          "title": "【早报】证监会发声！坚持稳字当头，巩固市场稳中向好势头；税务部门提醒纳税人对近三年境外所得开展自查",
-          "url": "https://www.cls.cn/detail/2261013",
+          "title": "金十图示：2026年01月19日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260119065319770800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2261451",
           "source": "财联社热门",
           "ranks": [
             3
@@ -52,8 +52,8 @@
           "time_info": "07时20分"
         },
         {
-          "title": "央行开年启动结构性降息，近30万亿到期定存何去何从？一线：存款偏好依旧强烈，理财、基金未现流入",
-          "url": "https://www.cls.cn/detail/2261105",
+          "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
+          "url": "https://www.cls.cn/detail/2261401",
           "source": "财联社热门",
           "ranks": [
             5
@@ -74,9 +74,9 @@
           "time_info": "07时20分"
         },
         {
-          "title": "全球首个电动车电耗强制新国标实施，媒体称部分电车重达 3 吨，新能源车该减肥了，行业会否转向能效技术竞赛？",
-          "url": "https://www.zhihu.com/question/1995807702694269078",
-          "source": "知乎",
+          "title": "韩国官员：将与美国谈判争取芯片关税优惠待遇",
+          "url": "https://wallstreetcn.com/livenews/3039324",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
@@ -85,31 +85,31 @@
           "time_info": "07时20分"
         },
         {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
+          "title": "下周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
+          "url": "https://wallstreetcn.com/articles/3763440",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "【早报】事关存储芯片！美商务部长100%关税威慑；我国芯片制造核心装备取得重要突破",
+          "url": "https://www.cls.cn/detail/2261258",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
-          "url": "https://www.zhihu.com/question/659369541",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "陕西科研团队攻克芯片散热世界难题",
-          "url": "https://flash.jin10.com/detail/20260117213816267800",
-          "source": "金十数据",
+          "title": "机构：A股“春季躁动”行情仍在延续，市场主线有望回归业绩基本面",
+          "url": "https://wallstreetcn.com/livenews/3039317",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
@@ -118,33 +118,33 @@
           "time_info": "07时20分"
         },
         {
-          "title": "报废新能源车为何必须“车电一体”",
-          "url": "https://www.toutiao.com/trending/7596288943369227818/",
+          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "万亿存款搬家进行时 A股慢牛正在成形",
+          "url": "https://www.toutiao.com/trending/7595758502787268627/",
           "source": "今日头条",
           "ranks": [
-            20
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
         {
-          "title": "西电团队攻克芯片散热世界难题：氮化镓射频芯片性能提升30%到40%",
-          "url": "https://wallstreetcn.com/livenews/3039138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260117195232354800",
+          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
+          "url": "https://flash.jin10.com/detail/20260119042408235800",
           "source": "金十数据",
           "ranks": [
-            23
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -157,9 +157,31 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
+          "url": "https://wallstreetcn.com/articles/3763530",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -168,33 +190,28 @@
           "time_info": "07时20分"
         },
         {
-          "title": "匈牙利政府及企业家代表团到访天奇股份，考察具身智能机器人工业应用",
-          "url": "https://wallstreetcn.com/livenews/3039142",
+          "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
+          "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
+          "title": "内蒙古包钢股份一板材厂爆炸事故已致2人死亡2人失联78人送医",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32412315",
+          "source": "澎湃新闻",
           "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
-          "url": "https://wallstreetcn.com/livenews/3039131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
