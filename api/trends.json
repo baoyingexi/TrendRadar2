@@ -1,221 +1,270 @@
 {
-  "generated_at": "2026-01-19T07:20:42.220023+08:00",
+  "generated_at": "2026-01-20T07:21:48.348632+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
-          "title": "固收及黄金主题产品成银行理财“香饽饽”",
-          "url": "https://wallstreetcn.com/livenews/3039329",
-          "source": "华尔街见闻-快讯",
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
-          "url": "https://www.cls.cn/detail/2261399",
-          "source": "财联社热门",
+          "title": "首超140万亿！去年中国GDP增速5%",
+          "url": "https://www.toutiao.com/trending/7596049706971794998/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "金十图示：2026年01月19日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260119065319770800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "A股春季行情仍有新高？投资主线有哪些？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2261451",
-          "source": "财联社热门",
+          "title": "突破140万亿元关口！2025年中国GDP同比增长5%，四季度GDP增长4.5%",
+          "url": "https://wallstreetcn.com/articles/3763563",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "应声20CM涨停！A股年报行情如火如荼，16家上市公司净利最高同比预增超200%",
-          "url": "https://www.cls.cn/detail/2261401",
+          "title": "2025年GDP增长5%",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4GDP%E5%A2%9E%E9%95%BF5%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "金十图示：2026年01月20日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260120070344455800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "2025年中国GDP达1401879亿元，比上年增长5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32413940",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "最高检：会同证监会深化资本市场法治建设 从严惩治财务造假、操纵市场等证券犯罪",
+          "url": "https://www.cls.cn/detail/2262709",
           "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "中国GDP跨越140万亿元关口",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "半导体封测概念股两日累计涨超30% 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2261163",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "韩国官员：将与美国谈判争取芯片关税优惠待遇",
-          "url": "https://wallstreetcn.com/livenews/3039324",
+          "title": "券商测算：2026年A股潜在的增量资金规模有望达到3万亿元左右",
+          "url": "https://wallstreetcn.com/livenews/3039943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "下周重磅日程：中国GDP、“美联储最爱通胀指标”、日央行决议、冬季达沃斯",
-          "url": "https://wallstreetcn.com/articles/3763440",
+          "title": "普华永道全球主席：人工智能定义CEO成败",
+          "url": "https://wallstreetcn.com/livenews/3039942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "“只买不卖”！“香港巴菲特”将四分之一的财富投入黄金",
+          "url": "https://wallstreetcn.com/articles/3763586",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "【早报】事关存储芯片！美商务部长100%关税威慑；我国芯片制造核心装备取得重要突破",
-          "url": "https://www.cls.cn/detail/2261258",
+          "title": "2025年GDP增长5%",
+          "url": "https://www.douyin.com/hot/2372479",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
           "source": "财联社热门",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "机构：A股“春季躁动”行情仍在延续，市场主线有望回归业绩基本面",
-          "url": "https://wallstreetcn.com/livenews/3039317",
+          "title": "美光高管称存储芯片短缺史无前例 传统电子也将遭全面挤压",
+          "url": "https://www.cls.cn/detail/2262388",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "订3间房结果变3张床 退订扣80%违约金",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A23%E9%97%B4%E6%88%BF%E7%BB%93%E6%9E%9C%E5%8F%983%E5%BC%A0%E5%BA%8A+%E9%80%80%E8%AE%A2%E6%89%A380%25%E8%BF%9D%E7%BA%A6%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "必和必拓(BHP.N)：南澳铜矿精炼黄金产量创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260120062014191800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "稳中向好!25年GDP涨5个点",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349322&amp;topic_name=%E7%A8%B3%E4%B8%AD%E5%90%91%E5%A5%BD%2125%E5%B9%B4GDP%E6%B6%A85%E4%B8%AA%E7%82%B9",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "决定黄金价格的三大属性",
+          "url": "https://www.toutiao.com/trending/7597064696004349450/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股再融资市场活跃 上市公司募资加码产业创新升级",
+          "url": "https://wallstreetcn.com/livenews/3039931",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "用6万吨产能博千亿大单？锂电正极材料公司容百科技遭证监会立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411428",
-          "source": "澎湃新闻",
+          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
+          "url": "https://wallstreetcn.com/livenews/3039930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "万亿存款搬家进行时 A股慢牛正在成形",
-          "url": "https://www.toutiao.com/trending/7595758502787268627/",
-          "source": "今日头条",
+          "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉将在2026年提高黄金和铁产量。 在2026年，铁矿石出口将扩大50%，煤炭产量将超过翻倍。 来自国内和外国的金属投资将提供外汇（收入）。",
+          "url": "https://wallstreetcn.com/livenews/3039929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
-          "url": "https://flash.jin10.com/detail/20260119042408235800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
+          "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
+          "url": "https://www.zhihu.com/question/63359251",
+          "source": "知乎",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         },
         {
-          "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
-          "url": "https://wallstreetcn.com/articles/3763530",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
-          "url": "https://wallstreetcn.com/livenews/3039323",
+          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3039928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内蒙古包钢股份一板材厂爆炸事故已致2人死亡2人失联78人送医",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32412315",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时21分"
         }
       ]
     }
