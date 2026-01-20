@@ -1,242 +1,209 @@
 {
-  "generated_at": "2026-01-20T07:21:48.348632+08:00",
+  "generated_at": "2026-01-21T07:23:21.637877+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 18,
       "titles": [
         {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
+          "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
+          "url": "https://wallstreetcn.com/articles/3763668",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "首超140万亿！去年中国GDP增速5%",
-          "url": "https://www.toutiao.com/trending/7596049706971794998/",
-          "source": "今日头条",
+          "title": "银行保管箱“一箱难求”，黄金投资带火银行“小众”业务",
+          "url": "https://wallstreetcn.com/livenews/3040721",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "突破140万亿元关口！2025年中国GDP同比增长5%，四季度GDP增长4.5%",
-          "url": "https://wallstreetcn.com/articles/3763563",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "2025年GDP增长5%",
-          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4GDP%E5%A2%9E%E9%95%BF5%25",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "金十图示：2026年01月20日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260120070344455800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "2025年中国GDP达1401879亿元，比上年增长5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32413940",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "最高检：会同证监会深化资本市场法治建设 从严惩治财务造假、操纵市场等证券犯罪",
-          "url": "https://www.cls.cn/detail/2262709",
+          "title": "美股收盘：关税阴影再度笼罩市场 三大指数集体大跌 纳指跌超2%",
+          "url": "https://www.cls.cn/detail/2264307",
           "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "中国GDP跨越140万亿元关口",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3",
-          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "券商测算：2026年A股潜在的增量资金规模有望达到3万亿元左右",
-          "url": "https://wallstreetcn.com/livenews/3039943",
-          "source": "华尔街见闻-快讯",
+          "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2264127",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "普华永道全球主席：人工智能定义CEO成败",
-          "url": "https://wallstreetcn.com/livenews/3039942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "“只买不卖”！“香港巴菲特”将四分之一的财富投入黄金",
-          "url": "https://wallstreetcn.com/articles/3763586",
+          "title": "创业板跌近2%，化工、黄金逆势大涨，商业航天、算力硬件集体调整，恒科指跌超1%，泡泡玛特涨9%，碳酸锂涨停",
+          "url": "https://wallstreetcn.com/articles/3763658",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "2025年GDP增长5%",
-          "url": "https://www.douyin.com/hot/2372479",
-          "source": "抖音",
+          "title": "密集“打卡”热门标的，机构开年积极掘金A股机遇",
+          "url": "https://wallstreetcn.com/livenews/3040713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.01吨，当前持仓量为1081.66吨。",
+          "url": "https://flash.jin10.com/detail/20260121062106116800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
+          "title": "一图看懂 | 5年前1瓶茅台≈10克黄金，如今≈？",
+          "url": "https://www.cls.cn/detail/2263836",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "美光高管称存储芯片短缺史无前例 传统电子也将遭全面挤压",
-          "url": "https://www.cls.cn/detail/2262388",
-          "source": "财联社热门",
+          "title": "泛美白银(PAAS.O)：2025年权益白银产量为2280万盎司，权益黄金产量为74.22万盎司。",
+          "url": "https://flash.jin10.com/detail/20260121061207321800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "泛美白银(PAAS.O)：预计2026年应权益白银产量在2500万至2700万盎司之间，预计2026年权益黄金产量在70万至75万盎司之间。",
+          "url": "https://flash.jin10.com/detail/20260121061048128800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "订3间房结果变3张床 退订扣80%违约金",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A23%E9%97%B4%E6%88%BF%E7%BB%93%E6%9E%9C%E5%8F%983%E5%BC%A0%E5%BA%8A+%E9%80%80%E8%AE%A2%E6%89%A380%25%E8%BF%9D%E7%BA%A6%E9%87%91",
-          "source": "百度热搜",
+          "title": "中国GDP跨越140万亿元关口",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "必和必拓(BHP.N)：南澳铜矿精炼黄金产量创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260120062014191800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "稳中向好!25年GDP涨5个点",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349322&amp;topic_name=%E7%A8%B3%E4%B8%AD%E5%90%91%E5%A5%BD%2125%E5%B9%B4GDP%E6%B6%A85%E4%B8%AA%E7%82%B9",
-          "source": "贴吧",
+          "title": "今年首期LPR“按兵不动”，部分专家认为今年全面降息时点可能后移",
+          "url": "https://wallstreetcn.com/livenews/3040705",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "决定黄金价格的三大属性",
-          "url": "https://www.toutiao.com/trending/7597064696004349450/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "A股再融资市场活跃 上市公司募资加码产业创新升级",
-          "url": "https://wallstreetcn.com/livenews/3039931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "周一（1月19日）纽约尾盘，现货黄金涨1.63%，报4670.87美元/盎司，亚太盘初急剧拉升、北京时间07:32涨至4690.59美元创历史新高。 现货白银涨4.66%，报94.3270美元/盎司，亚太盘初显著拉升，之后也持续高位震荡，01:31刷新历史高位至94.6805美元。",
-          "url": "https://wallstreetcn.com/livenews/3039930",
-          "source": "华尔街见闻-快讯",
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "委内瑞拉代总统Delcy Rodriguez：委内瑞拉将在2026年提高黄金和铁产量。 在2026年，铁矿石出口将扩大50%，煤炭产量将超过翻倍。 来自国内和外国的金属投资将提供外汇（收入）。",
-          "url": "https://wallstreetcn.com/livenews/3039929",
-          "source": "华尔街见闻-快讯",
+          "title": "事关黄金形成 中国科学家重大发现",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E9%BB%84%E9%87%91%E5%BD%A2%E6%88%90+%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%87%8D%E5%A4%A7%E5%8F%91%E7%8E%B0",
+          "source": "百度热搜",
           "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨5.23%，报415.65点，美股长周末归来跳空高开、全天持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨4.65%，报2912.14点，继续创收盘历史新高，北京时间22:30美股开盘之前大致持稳于2780点附近，随后跳空走高至2880点一线并持续高位窄幅震荡。 （美股）原材料指数收涨0.42%，（美股）金属与矿业指数收涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3040698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "纽约期银涨6.7%，美股盘前刷新历史高位，逼近96美元",
+          "url": "https://wallstreetcn.com/livenews/3040696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌将近4.4%，特斯拉跌约4.2%，苹果和亚马逊至少跌3.4%",
+          "url": "https://wallstreetcn.com/livenews/3040693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "全球科技股指数ETF收跌将近3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3040692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -245,26 +212,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
-          "url": "https://www.zhihu.com/question/63359251",
+          "title": "谷歌 Gemini 准确率从 21% 提升至 97% 仅靠「复制粘贴」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         },
         {
-          "title": "据知情人士透露，Yann LeCun旗下AI初创公司AMI Labs已经吸引到Cathay Innovation和Hiro等潜在的投资者。 这家由Meta Platforms Inc.研究员创立的公司有望在本轮融资中获得30亿欧元（折合35亿美元）估值。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3039928",
-          "source": "华尔街见闻-快讯",
+          "title": "上海中小学开设AI课程",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
+          "source": "百度热搜",
           "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时23分"
         }
       ]
     }
