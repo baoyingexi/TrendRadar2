@@ -1,347 +1,303 @@
 {
-  "generated_at": "2026-01-22T07:26:31.624171+08:00",
+  "generated_at": "2026-01-23T07:22:06.999785+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 20,
       "titles": [
         {
-          "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "被误解的“渗透”和被低估的韧性：伊朗如何令各种“崩溃论”破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440209",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "“十五五”新开局，房地产高质量发展有哪些着力点？住建部部长倪虹发声",
-          "url": "https://www.cls.cn/detail/2265380",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "韩国四季度GDP同比初值1.5%，预期1.8%，前值1.8%。 韩国四季度GDP环比初值-0.3%，预期0.2%，前值1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3041561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "联合国警告全球“水破产”时代来临",
-          "url": "https://www.baidu.com/s?wd=%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%85%A8%E7%90%83%E2%80%9C%E6%B0%B4%E7%A0%B4%E4%BA%A7%E2%80%9D%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "百度热搜",
+          "title": "联合国报告称全球「水破产」时代已来临，什么是「水破产」？会对我们的生活造成哪些影响？",
+          "url": "https://www.zhihu.com/question/1997327160944371401",
+          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "去年净利亏损约10亿！摩尔线程发布上市后首份业绩预告",
-          "url": "https://www.cls.cn/detail/2265495",
+          "title": "央行明日开展9000亿元MLF操作 加码呵护资金面平稳 市场预计短期内降准可能性不大",
+          "url": "https://www.cls.cn/detail/2266929",
           "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "科学家首次捕捉黄金生长过程",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E6%8D%95%E6%8D%89%E9%BB%84%E9%87%91%E7%94%9F%E9%95%BF%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "韩国第四季度GDP年率初值 1.5%，预期1.9%，前值1.80%。",
-          "url": "https://flash.jin10.com/detail/20260122070002570800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "韩国第四季度GDP季率初值 -0.3%，预期0.1%，前值1.30%。",
-          "url": "https://flash.jin10.com/detail/20260122070002542800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4吨，当前持仓量为1077.66吨。",
-          "url": "https://flash.jin10.com/detail/20260122065637933800",
-          "source": "金十数据",
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
+          "title": "现货黄金周五小幅高开，现报4941美元/盎司，续刷历史新高。",
+          "url": "https://flash.jin10.com/detail/20260123070039435800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时22分"
         },
         {
-          "title": "联合国警告水破产时代已来临",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E8%AD%A6%E5%91%8A%E6%B0%B4%E7%A0%B4%E4%BA%A7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%9D%A5%E4%B8%B4%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042361",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时22分"
         },
         {
-          "title": "现货黄金首次站上4800",
-          "url": "https://www.douyin.com/hot/2374686",
-          "source": "抖音",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2吨，当前持仓量为1079.66吨。",
+          "url": "https://flash.jin10.com/detail/20260123064731158800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时22分"
         },
         {
-          "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
-          "url": "https://www.zhihu.com/question/1994322673698903855",
+          "title": "年内4家半导体企业完成港股IPO，基石投资者积极参与",
+          "url": "https://wallstreetcn.com/livenews/3042358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "消息称阿里旗下芯片公司平头哥拟独立上市，可能性有多大？如何解读阿里这一战略部署？",
+          "url": "https://www.zhihu.com/question/1997719094858835395",
           "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "中国 GDP 首破 140 万亿增速 5%，140 万亿意味着什么？在全球经济中处于什么水平？",
-          "url": "https://www.zhihu.com/question/1996534896076808317",
-          "source": "知乎",
+          "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
+          "url": "https://wallstreetcn.com/articles/3763880",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
-          "url": "https://wallstreetcn.com/articles/3763773",
+          "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
+          "url": "https://wallstreetcn.com/articles/3763888",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
-          "url": "https://www.cls.cn/detail/2265637",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "业绩预告“亮红灯”，多家公司发布退市风险警示",
-          "url": "https://wallstreetcn.com/livenews/3041549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
+          "source": "微博",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "（美股）费城金银指数收跌1.22%，报410.57点。 （全球时段）纽约证交所ARCA金矿开采商指数跌0.55%，报2896.08点。 （美股）原材料指数收涨1.52%，（美股）金属与矿业指数收涨2.33%。",
-          "url": "https://wallstreetcn.com/livenews/3041537",
+          "title": "京东推最低11299元黄金手机壳秒售罄",
+          "url": "https://www.cls.cn/detail/2266854",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "商务部回应H200芯片购买审批",
+          "url": "https://www.douyin.com/hot/2376362",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "曝阿里旗下芯片公司平头哥拟独立上市",
+          "url": "https://www.toutiao.com/trending/7598116374967225892/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "英特尔(INTC.O)CFO津斯纳：定制芯片业务在2025年增长超过50%，并在第四季度实现了超过10亿美元的年化收入规模。",
+          "url": "https://flash.jin10.com/detail/20260123063100745800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后跌幅扩大至10%，其一季度营收展望不及预期。",
+          "url": "https://flash.jin10.com/detail/20260123062128122800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "英特尔：存储芯片价格上涨，可能会在2026年伤害到个人电脑（PC）市场。",
+          "url": "https://wallstreetcn.com/livenews/3042348",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO陈立武：快速部署人工智能需要软件栈的创新。",
+          "url": "https://flash.jin10.com/detail/20260123060723901800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时22分"
         },
         {
-          "title": "纳斯达克生物科技指数收涨超2.4%，表现好于美股大盘指数。 成分股诺瓦瓦克斯医药收涨20.67%，Ironwood医药、莫德纳Moderna、Vir Biotech、BioNTech、Annexon、Aura Biosciences涨15.94%-10.26%，Solid Biosciences涨9.61%。 Zenas Biopharma则收跌6.18%，PepGen跌9.08%，Legend Bio跌11.40%。",
-          "url": "https://wallstreetcn.com/livenews/3041529",
+          "title": "英特尔股价美股盘后跌9%。",
+          "url": "https://wallstreetcn.com/livenews/3042340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3041528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时22分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 9,
+      "match_count": 6,
       "titles": [
         {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
-          "url": "https://flash.jin10.com/detail/20260122063934524800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "为了500亿美元巨额融资，OpenAI的CEO会见中东投资者",
-          "url": "https://wallstreetcn.com/livenews/3041550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "市场消息：OpenAI创始人奥特曼会见中东投资者，洽谈500亿美元融资。",
-          "url": "https://flash.jin10.com/detail/20260122063100035800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
           "title": "DeepSeek Model 1悄然现身",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Model%201%E6%82%84%E7%84%B6%E7%8E%B0%E8%BA%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32418066",
-          "source": "澎湃新闻",
+          "title": "韩国在全球率先施行涉AI指导性法律，相关细节引发国内业界担忧",
+          "url": "https://wallstreetcn.com/livenews/3042354",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "头号重仓股易主，公募持续掘金AI主线",
+          "url": "https://wallstreetcn.com/livenews/3042350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     }
