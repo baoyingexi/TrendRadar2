@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-01-23 23:21:41",
+  "update_time": "2026-01-24 23:20:13",
   "oil": {
     "updateDate": "2026年01月24日",
     "prices": {
@@ -24,7 +24,7 @@
   },
   "weather": {
     "city": "赤峰",
-    "temp": "-19.3",
-    "condition": "多云"
+    "temp": "-19.0",
+    "condition": "晴"
   }
 }
