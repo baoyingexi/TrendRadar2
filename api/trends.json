@@ -1,193 +1,270 @@
 {
-  "generated_at": "2026-01-26T07:21:36.466992+08:00",
+  "generated_at": "2026-01-27T07:22:46.750602+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
-          "title": "现货黄金历史性突破5000美元大关",
-          "url": "https://flash.jin10.com/detail/20260126070023832800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
-          "url": "https://wallstreetcn.com/articles/3764002",
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2268628",
-          "source": "财联社热门",
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "金十图示：2026年01月26日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260126065632368800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "涨幅远超芯片和Mag 7，全球矿业股成为基金经理“头号配置目标”",
-          "url": "https://wallstreetcn.com/articles/3764095",
+          "title": "如何看待黄金五千，白银破百？",
+          "url": "https://wallstreetcn.com/articles/3764115",
           "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465295",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "行业景气度回暖叠加政策利好，逾50家生物医药A股公司2025年业绩预盈",
+          "url": "https://wallstreetcn.com/livenews/3044226",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "盘中创历史新高A股名单一览：多只有色金属股在列",
-          "url": "https://www.cls.cn/detail/2268588",
+          "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
+          "url": "https://wallstreetcn.com/articles/3764149",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "黄金逼近5100美元！一图看懂金银加速上涨",
+          "url": "https://www.cls.cn/detail/2269870",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "张又侠刘振立被立案调查",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E7%AB%8B%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
-          "source": "bilibili 热搜",
+          "title": "广东GDP出炉,37连冠稳坐榜1",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349719&amp;topic_name=%E5%B9%BF%E4%B8%9CGDP%E5%87%BA%E7%82%89%2C37%E8%BF%9E%E5%86%A0%E7%A8%B3%E5%9D%90%E6%A6%9C1",
+          "source": "贴吧",
           "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "87岁老人出售30年前买的黄金",
-          "url": "https://www.toutiao.com/trending/7598952040403976230/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
-          "url": "https://flash.jin10.com/detail/20260126051356994800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "宝宝误嚼金锁医生称黄金已到大肠",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%AF%AF%E5%9A%BC%E9%87%91%E9%94%81%E5%8C%BB%E7%94%9F%E7%A7%B0%E9%BB%84%E9%87%91%E5%B7%B2%E5%88%B0%E5%A4%A7%E8%82%A0%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "多家A股公司预计2025年业绩大增",
-          "url": "https://www.toutiao.com/trending/7598929065479962643/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
           "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
         },
         {
-          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
-          "url": "https://www.cls.cn/detail/2268686",
+          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
+          "url": "https://www.cls.cn/detail/2270480",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "A股贵金属板块涨停潮与巨额压单同现",
+          "url": "https://wallstreetcn.com/livenews/3044222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
+          "url": "https://flash.jin10.com/detail/20260127060902912800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
+          "url": "https://wallstreetcn.com/livenews/3044219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "现货黄金涨超0.2%，亚太尾盘刷新历史高位至5110美元上方，纽约中午以来显著回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3044208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "现货金银走低，现货黄金跌破5000美元关口，现货白银一度跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260127053726943800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
+          "url": "https://wallstreetcn.com/livenews/3044207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
+          "url": "https://wallstreetcn.com/livenews/3044203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3044230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "阶跃星辰印奇谈AI商业化",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
+          "url": "https://wallstreetcn.com/articles/3764155",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
+          "url": "https://www.cls.cn/detail/2270223",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时22分"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     }
