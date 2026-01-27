@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-01-27T07:22:46.750602+08:00",
+  "generated_at": "2026-01-28T07:22:46.052979+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
+          "title": "中微半导、国科微部分芯片涨价",
+          "url": "https://www.cls.cn/detail/2271491",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
@@ -19,9 +19,31 @@
           "time_info": "07时22分"
         },
         {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
+          "title": "1克黄金竟能打造一张完整黄金婚书",
+          "url": "https://s.weibo.com/weibo?q=%231%E5%85%8B%E9%BB%84%E9%87%91%E7%AB%9F%E8%83%BD%E6%89%93%E9%80%A0%E4%B8%80%E5%BC%A0%E5%AE%8C%E6%95%B4%E9%BB%84%E9%87%91%E5%A9%9A%E4%B9%A6%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
+          "url": "https://wallstreetcn.com/articles/3764253",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "现货黄金周三低开3美元，报5177.1美元/盎司；现货白银小幅低开，回落至112美元/盎司下方，日内跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20260128070106851800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
@@ -30,41 +52,52 @@
           "time_info": "07时22分"
         },
         {
-          "title": "如何看待黄金五千，白银破百？",
-          "url": "https://wallstreetcn.com/articles/3764115",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32465295",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "行业景气度回暖叠加政策利好，逾50家生物医药A股公司2025年业绩预盈",
-          "url": "https://wallstreetcn.com/livenews/3044226",
+          "title": "报告称加拿大若取消国内贸易壁垒，实际GDP可增长近7%",
+          "url": "https://wallstreetcn.com/livenews/3045034",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
         {
-          "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
-          "url": "https://wallstreetcn.com/articles/3764149",
+          "title": "易方达黄金主题LOF暂停申购",
+          "url": "https://www.douyin.com/hot/2381549",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
+          "url": "https://www.cls.cn/detail/2271670",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.85吨，当前持仓量为1087.38吨。",
+          "url": "https://flash.jin10.com/detail/20260128065109053800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
           "source": "华尔街见闻",
           "ranks": [
             10
@@ -74,11 +107,132 @@
           "time_info": "07时22分"
         },
         {
-          "title": "黄金逼近5100美元！一图看懂金银加速上涨",
-          "url": "https://www.cls.cn/detail/2269870",
+          "title": "黄金将继续狂飙？法兴银行上调目标价：保守估计，年内站上6000美元！",
+          "url": "https://www.cls.cn/detail/2271306",
           "source": "财联社热门",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "时隔6年首次易主！白酒股均价遭半导体反超，3成标的近期回撤超一成",
+          "url": "https://www.cls.cn/detail/2271319",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "万亿GDP地市辖区来了",
+          "url": "https://www.douyin.com/hot/2380759",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "2025年广东GDP增长3.9%",
+          "url": "https://www.douyin.com/hot/2380634",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "港股上市公司回购热度持续，机构称市场有望震荡上行",
+          "url": "https://wallstreetcn.com/livenews/3045019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "存储芯片公司业绩亮眼，行业高景气2026年仍将持续",
+          "url": "https://wallstreetcn.com/livenews/3045018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "任泽平：黄金白银暴涨的原因有两个",
+          "url": "https://www.toutiao.com/trending/7600018593677315590/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "临近收盘，现货黄金刷新新高至5190美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260128055015193800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "李蓓：上月已清仓黄金",
+          "url": "https://www.douyin.com/hot/2381189",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "植入“戒酒芯片”戒掉20年酒瘾",
+          "url": "https://www.baidu.com/s?wd=%E6%A4%8D%E5%85%A5%E2%80%9C%E6%88%92%E9%85%92%E8%8A%AF%E7%89%87%E2%80%9D%E6%88%92%E6%8E%8920%E5%B9%B4%E9%85%92%E7%98%BE",
+          "source": "百度热搜",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,117 +243,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349719&amp;topic_name=%E5%B9%BF%E4%B8%9CGDP%E5%87%BA%E7%82%89%2C37%E8%BF%9E%E5%86%A0%E7%A8%B3%E5%9D%90%E6%A6%9C1",
           "source": "贴吧",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
-          "url": "https://www.cls.cn/detail/2270480",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "A股贵金属板块涨停潮与巨额压单同现",
-          "url": "https://wallstreetcn.com/livenews/3044222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普称将韩国对等关税从15%提高至25%。",
-          "url": "https://flash.jin10.com/detail/20260127060902912800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "在美上市韩国ETF美股盘后跌幅扩大至1%，特朗普突然宣布将韩国商品的关税提高至25%，称韩国国会尚未通过与美国的贸易协定。",
-          "url": "https://wallstreetcn.com/livenews/3044219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "现货黄金涨超0.2%，亚太尾盘刷新历史高位至5110美元上方，纽约中午以来显著回吐涨幅",
-          "url": "https://wallstreetcn.com/livenews/3044208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "现货金银走低，现货黄金跌破5000美元关口，现货白银一度跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260127053726943800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨0.42%，报436.27点，高开之后持续高位震荡，北京时间01:44开始持续回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.01%，报3069.65点，美股开盘之前维持微幅上涨状态——持续交投于3050点一线，后续走势与费城金银指数一致。 （美股）原材料指数收跌1.29%，报261.86点，整体高开低走。 （美股）金属与矿业指数收跌1.87%，报247.73点，走势与原材料指数类似。",
-          "url": "https://wallstreetcn.com/livenews/3044207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
-          "url": "https://wallstreetcn.com/livenews/3044205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        },
-        {
-          "title": "联合健康美股盘后跳水超9%，CVS跌超10%，投资者关注与医疗保健费率相关的报道。",
-          "url": "https://wallstreetcn.com/livenews/3044203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "女子买100克黄金轮胎手镯赚4万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0100%E5%85%8B%E9%BB%84%E9%87%91%E8%BD%AE%E8%83%8E%E6%89%8B%E9%95%AF%E8%B5%9A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3045008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -209,12 +275,12 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
-          "title": "巨额红包“助燃”，机构看好AI应用方向投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3044230",
-          "source": "华尔街见闻-快讯",
+          "title": "Clawdbot引爆整个AI agent生态",
+          "url": "https://wallstreetcn.com/articles/3764269",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
@@ -223,20 +289,31 @@
           "time_info": "07时22分"
         },
         {
-          "title": "阶跃星辰印奇谈AI商业化",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
         {
-          "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
-          "url": "https://wallstreetcn.com/articles/3764155",
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
+          "url": "https://www.cls.cn/detail/2271472",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
@@ -245,22 +322,33 @@
           "time_info": "07时22分"
         },
         {
-          "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
-          "url": "https://www.cls.cn/detail/2270223",
+          "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
+          "url": "https://www.cls.cn/detail/2271331",
           "source": "财联社热门",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
         {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
