@@ -1,22 +1,44 @@
 {
-  "generated_at": "2026-02-08T07:31:16.067229+08:00",
+  "generated_at": "2026-02-09T07:32:27.487849+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 11,
+      "match_count": 22,
       "titles": [
         {
-          "title": "中国央行黄金储备\"十五连增\"，1月环比增持4万盎司，增持节奏略有加快",
-          "url": "https://wallstreetcn.com/articles/3765215",
-          "source": "华尔街见闻",
+          "title": "现货黄金、白银亚市盘初走高，现货黄金现涨0.6%，接近4990美元关口；现货白银涨2.5%，报79.47美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3051897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "周末要闻汇总：我国成功发射可重复使用试验航天器；半导体行业有望首次迈入万亿美元时代",
+          "url": "https://www.cls.cn/detail/2283882",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "太空光伏概念龙头三连板 P型HJT/钙钛矿叠层技术路线A股名单及相关业务一览",
@@ -26,201 +48,289 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
-          "title": "中国黄金调整回购规则",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%BB%84%E9%87%91%E8%B0%83%E6%95%B4%E5%9B%9E%E8%B4%AD%E8%A7%84%E5%88%99",
-          "source": "百度热搜",
+          "title": "金十图示：2026年02月09日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260209065808250800",
+          "source": "金十数据",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
-          "title": "系好安全带！避险黄金进入大波动时代",
-          "url": "https://wallstreetcn.com/articles/3765227",
+          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
+          "url": "https://wallstreetcn.com/articles/3765246",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
+          "url": "https://wallstreetcn.com/livenews/3051893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "年内迄今19家A股上市公司公告终止并购重组 热门商业航天概念股赫然在列",
+          "url": "https://www.cls.cn/detail/2283734",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
+          "url": "https://www.cls.cn/detail/2283869",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "券商开年以来共计“拜访”685家A股公司",
+          "url": "https://wallstreetcn.com/livenews/3051890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "央行连续第15个月增持黄金",
           "url": "https://www.cls.cn/detail/2283640",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
-          "url": "https://www.cls.cn/detail/2283586",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "黄金——资产再配置，金价走向何方？",
-          "url": "https://wallstreetcn.com/articles/3765213",
-          "source": "华尔街见闻",
-          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
-          "title": "A股再添一位“00”后董事长",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%B7%BB%E4%B8%80%E4%BD%8D%E2%80%9C00%E2%80%9D%E5%90%8E%E8%91%A3%E4%BA%8B%E9%95%BF",
-          "source": "百度热搜",
+          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2283877",
+          "source": "财联社热门",
           "ranks": [
-            30
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
-          "title": "国家电网：春节假期新能源汽车充电量预计将创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3051745",
+          "title": "【早报】央行连续第15个月增持黄金；我国成功发射可重复使用试验航天器",
+          "url": "https://www.cls.cn/detail/2283820",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
+          "url": "https://wallstreetcn.com/livenews/3051885",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时32分"
         },
         {
-          "title": "2026年半导体产业有望首度冲破万亿美元大关",
-          "url": "https://flash.jin10.com/detail/20260207192154238800",
-          "source": "金十数据",
+          "title": "2026 年 1 月份广汽本田销量再次暴跌 70% 至 4558 辆，未受到新能源车购置税提振，如何看待这一结果？",
+          "url": "https://www.zhihu.com/question/2002317088476382247",
+          "source": "知乎",
           "ranks": [
-            20
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时32分"
         },
         {
-          "title": "上海市经信委：在上海好模型不缺算力 好应用不缺语料 好产品不缺芯片",
-          "url": "https://wallstreetcn.com/livenews/3051723",
+          "title": "看好A股春节假期前后“红包行情”，机构称“持股过节或为上策”",
+          "url": "https://wallstreetcn.com/livenews/3051877",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "一夜之间4家A股公司被立案或处罚",
+          "url": "https://www.toutiao.com/trending/7604445809202957874/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时32分"
+        },
+        {
+          "title": "高盛交易员警告：美股抛售尚未结束",
+          "url": "https://flash.jin10.com/detail/20260209002129268800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国财长贝森特谈黄金行情",
+          "url": "https://flash.jin10.com/detail/20260209000357405800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "南非央行：对欧洲央行考虑向非欧洲央行开放回购便利表示欢迎，南非的降息周期仍有空间",
+          "url": "https://wallstreetcn.com/livenews/3051869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "“千亿大单”信披失真 证监会出手",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%83%E4%BA%BF%E5%A4%A7%E5%8D%95%E2%80%9D%E4%BF%A1%E6%8A%AB%E5%A4%B1%E7%9C%9F+%E8%AF%81%E7%9B%91%E4%BC%9A%E5%87%BA%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
-          "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
-          "url": "https://wallstreetcn.com/articles/3765209",
+          "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
+          "url": "https://wallstreetcn.com/articles/3765241",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
           "url": "https://www.cls.cn/detail/2283350",
           "source": "财联社热门",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "xAI联合创始人拟以5700万英镑购入伦敦豪宅顶层公寓",
-          "url": "https://wallstreetcn.com/livenews/3051748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时32分"
         },
         {
-          "title": "美科技股“崩盘式”回调的信号：风险资产普涨时代终结，AI输家将被无情抛弃！",
-          "url": "https://wallstreetcn.com/articles/3765226",
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
-          "title": "高盛解读本周市场焦点：“AI-SaaS”之争",
-          "url": "https://wallstreetcn.com/articles/3765210",
-          "source": "华尔街见闻",
+          "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
+          "url": "https://www.zhihu.com/question/2003429600861110745",
+          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
-          "title": "AI推动先进封装扩产 台积电CoWoS供应紧张 FOPLP登上舞台",
-          "url": "https://www.cls.cn/detail/2283686",
+          "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
+          "url": "https://www.cls.cn/detail/2283872",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "你认为AI会替代软件开发吗",
-          "url": "https://www.toutiao.com/trending/7603910615171301402/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "中兴通讯、工行建行AIC入局，粤港澳基金完成500亿募资",
-          "url": "https://wallstreetcn.com/livenews/3051719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时32分"
+        },
+        {
+          "title": "UP主用AI做影游融合沉浸式科普",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E5%81%9A%E5%BD%B1%E6%B8%B8%E8%9E%8D%E5%90%88%E6%B2%89%E6%B5%B8%E5%BC%8F%E7%A7%91%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "如何看待 Anthropic 用纯 AI 实现的 CCC 编译器可编译 Linux?",
+          "url": "https://www.zhihu.com/question/2003524766523473932",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         }
       ]
     }
