@@ -1,303 +1,248 @@
 {
-  "generated_at": "2026-02-10T07:38:14.111997+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-11T07:39:16.408454+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 18,
+      "match_count": 17,
       "titles": [
         {
-          "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
-          "url": "https://wallstreetcn.com/articles/3765262",
+          "title": "非农前夜，降息预期难振风险偏好，标普转跌，人民币又创近三年新高，商品震荡横盘",
+          "url": "https://wallstreetcn.com/articles/3765361",
           "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
-          "url": "https://www.cls.cn/detail/2284984",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "自嗨锅头部品牌濒临破产，75 亿估值灰飞烟灭，曾经大热的自嗨锅为什么不行了？为新消费行业带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2004201422498001915",
-          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
+          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
+          "url": "https://www.cls.cn/detail/2286121",
+          "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "现货黄金失守5000美元关口",
-          "url": "https://flash.jin10.com/detail/20260210071226622800",
+          "title": "零售疲软强化降息预期 全球市场聚焦非农数据",
+          "url": "https://flash.jin10.com/detail/20260211070305938800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "外资机构密集调研A股公司，科技赛道成关注重点",
-          "url": "https://wallstreetcn.com/livenews/3052553",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时39分"
         },
         {
-          "title": "现货黄金回落至5030美元/盎司下方，日内跌0.75%。",
-          "url": "https://flash.jin10.com/detail/20260210071029412800",
-          "source": "金十数据",
+          "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
+          "url": "https://wallstreetcn.com/livenews/3053282",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时39分"
         },
         {
-          "title": "截至2月9日，全球最大的黄金ETF SPDR Gold Trust持仓量为1079.66吨，较前一个交易日增加3.43吨。",
-          "url": "https://flash.jin10.com/detail/20260210070957936800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "中国经济最强县GDP超5600亿",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%9C%80%E5%BC%BA%E5%8E%BFGDP%E8%B6%855600%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
-          "url": "https://www.cls.cn/detail/2285220",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "【焦点复盘】沪指日线5连阳收复4100点，全市场超120股涨逾10%，太空光伏概念再现批量涨停",
-          "url": "https://www.cls.cn/detail/2284692",
+          "title": "【数据看盘】一线游资激烈博弈捷成股份，机构、北向资金出逃协鑫集成",
+          "url": "https://www.cls.cn/detail/2286069",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
+          "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2285010",
+          "title": "一图看懂 | 春节“国债逆回购”福利到，最高“1天赚11天息”",
+          "url": "https://www.cls.cn/detail/2286103",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "买139999元黄金手机壳送苹果手机",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%B0139999%E5%85%83%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E5%A3%B3%E9%80%81%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "余承东：问界M9是新能源车保值率第一",
+          "url": "https://www.toutiao.com/trending/7605075450944880646/",
+          "source": "今日头条",
           "ranks": [
-            29
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 07时39分]"
         },
         {
-          "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
-          "url": "https://flash.jin10.com/detail/20260210065424099800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨5.85%，报414.90点。 （全球时段）纽约证交所ARCA金矿开采商指数涨5.68%，报2921.91点。 （美股）原材料指数收涨1.55%，（美股）金属与矿业指数收涨0.96%。",
-          "url": "https://wallstreetcn.com/livenews/3052528",
+          "title": "西太平洋银行：预计新西兰联储料将在2027年更加迅猛地加息。",
+          "url": "https://wallstreetcn.com/livenews/3053279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时39分"
         },
         {
-          "title": "周一（2月9日）纽约尾盘，现货黄金涨2.01%，报5064.10美元/盎司。 COMEX黄金期货涨2.04%，报5081.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3052525",
+          "title": "福特汽车财报遭遇四年最大“爆冷”：关税成本拖累，但看好2026年复苏",
+          "url": "https://wallstreetcn.com/livenews/3053270",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时39分"
         },
         {
-          "title": "安森美半导体四季度营收15.3亿美元，符合分析师预期。 预计一季度营收14.4亿-15.4亿美元，分析师预期15.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052523",
+          "title": "周二（2月10日）纽约尾盘，现货黄金跌0.62%，报5026.20美元/盎司。 COMEX黄金期货跌0.65%，报5046.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "不要对AI说谢谢",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "07时39分"
         },
         {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
-          "url": "https://www.cls.cn/detail/2284689",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "孩子沉迷于和 AI 聊天，甚至把它当成寒假里最好的朋友，这正常吗？",
-          "url": "https://www.zhihu.com/question/2001660645247051342",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "AI工具引发颠覆担忧 美国保险经纪股周一遭重挫",
-          "url": "https://flash.jin10.com/detail/20260210060937090800",
+          "title": "富国银行：获利了结无碍长牛 上调黄金目标价至6300美元",
+          "url": "https://flash.jin10.com/detail/20260211053637469800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美泰（Mattel）美股盘后跌幅扩大至21%。 最新业绩报告显示，该公司四季度净销售17.7亿美元，分析师预期18.4亿美元。 授权15亿美元新版股票回购计划。 预计2026年净销售按恒定汇率将增长3%-6%。",
+          "url": "https://wallstreetcn.com/livenews/3053261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "巴克莱：美联储缩表将耗时多年，或需降息来抵消金融环境收紧",
+          "url": "https://wallstreetcn.com/livenews/3053259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异",
+          "url": "https://wallstreetcn.com/livenews/3053256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "生物科技指数ETF收跌超1.3%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3053253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "AI周星驰视频大量传播 经纪人质疑",
+          "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 07时39分]"
         }
       ]
     }
