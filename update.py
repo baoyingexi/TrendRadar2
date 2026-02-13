@@ -103,34 +103,44 @@ def get_oil_price():
 # 2. 抓取双色球 (修正版)
 def get_lottery():
     print("\n>>> 正在获取双色球(500彩票网)...")
-    target_url = "http://kaijiang.500.com/ssq.shtml"
-    
-    data = {
-        "issue": "统计中...", "red": [], "blue": "--", "pool": ""
-    }
+    target_url = "https://kaijiang.500.com/ssq.shtml"   # 建议用 https
+
+    data = {"issue": "统计中...", "red": [], "blue": "--", "pool": ""}
 
     html = fetch_via_proxy(target_url)
-    if not html: return data
+    if not html:
+        return data
 
     try:
-        soup = BeautifulSoup(html, 'html.parser')
-        page_text = soup.get_text() # 获取纯文本
-        
-        # 红球
-        red_balls = soup.find_all('li', class_='ball_red')
-        if red_balls: data["red"] = [b.get_text(strip=True) for b in red_balls[:6]]
-        
-        # 蓝球
-        blue_ball = soup.find('li', class_='ball_blue')
-        if blue_ball: data["blue"] = blue_ball.get_text(strip=True)
-            
-        # 🔥【关键修复】正则允许"第"和数字之间有空格 (\s*)
-        issue_match = re.search(r'第\s*(\d{5})\s*期', page_text)
-        if issue_match:
-            data["issue"] = issue_match.group(1)
-            print(f"✅ 抓到期号: {data['issue']}")
+        soup = BeautifulSoup(html, "html.parser")
 
-        # 🔥【关键修复】奖池匹配更宽松
+        # 1) 期号：从 td.table-title 里拿（你截图就是这个）
+        title_td = soup.select_one("td.table-title")
+        if title_td:
+            m = re.search(r"(\d{5})\s*期", title_td.get_text(strip=True))
+            if m:
+                data["issue"] = m.group(1)
+                print(f"✅ 抓到期号: {data['issue']}")
+
+        # 2) 红球：span.ball-red-normal.ball
+        reds = [x.get_text(strip=True) for x in soup.select("span.ball-red-normal.ball")]
+        if len(reds) >= 6:
+            data["red"] = reds[:6]
+            print(f"✅ 抓到红球: {data['red']}")
+
+        # 3) 蓝球：不同页面可能是 ball-blue-normal / ball_blue / ball-blue
+        blue_el = (
+            soup.select_one("span.ball-blue-normal.ball")
+            or soup.select_one("li.ball_blue")
+            or soup.select_one("li.ball_blue")
+            or soup.select_one(".ball_blue, .ball-blue, .ball_blue_normal, .ball-blue-normal")
+        )
+        if blue_el:
+            data["blue"] = blue_el.get_text(strip=True)
+            print(f"✅ 抓到蓝球: {data['blue']}")
+
+        # 4) 奖池：你原来用 page_text 正则，有时页面文本变了会匹配不到
+        page_text = soup.get_text(" ", strip=True)
         pool_match = re.search(r"奖池滚存[^\d]*([\d,]+)", page_text)
         if pool_match:
             raw_money = pool_match.group(1).replace(",", "")
@@ -142,6 +152,7 @@ def get_lottery():
 
     except Exception as e:
         print(f"❌ 双色球解析异常: {e}")
+
     return data
 
 # 3. 抓取天气
@@ -182,3 +193,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
