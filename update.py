@@ -103,48 +103,44 @@ def get_oil_price():
 # 2. 抓取双色球 (修正版)
 def get_lottery():
     print("\n>>> 正在获取双色球(500 数据源优先)...")
-
     data = {"issue": "统计中...", "red": [], "blue": "--", "pool": ""}
 
-    # ✅ 1) 优先走 500 的静态 XML 数据源（不依赖 JS）
     xml_url = "https://kaijiang.500.com/static/info/kaijiang/xml/ssq.xml"
     xml_text = fetch_via_proxy(xml_url)
+
     if xml_text:
-        try:
-            # 有些代理会在前面塞东西，找一下 XML 起始位置
-            start = xml_text.find("<?xml")
-            if start != -1:
-                xml_text = xml_text[start:]
+        # ✅ 先判断是不是 XML
+        if "<?xml" not in xml_text and "<row" not in xml_text:
+            print("❌ 拿到的不是 XML，可能被代理包装/拦截。")
+        else:
+            try:
+                start = xml_text.find("<?xml")
+                if start != -1:
+                    xml_text = xml_text[start:]
 
-            root = ET.fromstring(xml_text)
+                root = ET.fromstring(xml_text)
+                rows = root.findall(".//row")
+                if rows:
+                    latest = rows[0]
+                    issue = latest.attrib.get("expect") or latest.attrib.get("issue") or ""
+                    red = latest.attrib.get("red") or ""
+                    blue = latest.attrib.get("blue") or ""
 
-            # 常见结构：<xml><row ... /></xml> 或 <xml><lottery><row .../></lottery></xml>
-            rows = root.findall(".//row")
-            if rows:
-                latest = rows[0]  # 通常第一个就是最新
-                # 兼容不同字段命名
-                issue = latest.attrib.get("expect") or latest.attrib.get("issue") or ""
-                red = latest.attrib.get("red") or ""
-                blue = latest.attrib.get("blue") or ""
+                    reds = [x for x in re.split(r"[,\s]+", red.strip()) if x]
 
-                # red 可能是 "01,02,03,04,05,06" 或 "01 02 03..."
-                reds = re.split(r"[,\s]+", red.strip()) if red else []
-                reds = [x for x in reds if x]
+                    if issue and re.fullmatch(r"\d{5}", issue):
+                        data["issue"] = issue
+                    if len(reds) >= 6:
+                        data["red"] = reds[:6]
+                    if blue:
+                        data["blue"] = blue.strip()
 
-                if issue and re.fullmatch(r"\d{5}", issue):
-                    data["issue"] = issue
-                if len(reds) >= 6:
-                    data["red"] = reds[:6]
-                if blue:
-                    data["blue"] = blue.strip()
+                    print(f"✅ XML 抓到：期号={data['issue']} 红={data['red']} 蓝={data['blue']}")
+                    return data
+            except Exception as e:
+                print(f"❌ XML 解析失败：{e}")
 
-                print(f"✅ XML 抓到：期号={data['issue']} 红={data['red']} 蓝={data['blue']}")
-                return data
-
-        except Exception as e:
-            print(f"❌ XML 解析失败：{e}")
-
-    # ✅ 2) 兜底：尝试抓 HTML（但很多情况下这里是空壳）
+    # 兜底 HTML（多数情况下仍会空壳）
     html_url = "https://kaijiang.500.com/ssq.shtml"
     html = fetch_via_proxy(html_url)
     if not html:
@@ -152,7 +148,6 @@ def get_lottery():
 
     try:
         soup = BeautifulSoup(html, "html.parser")
-
         title_td = soup.select_one("td.table-title")
         if title_td:
             m = re.search(r"(\d{5})\s*期", title_td.get_text(strip=True))
@@ -163,12 +158,11 @@ def get_lottery():
         if len(reds) >= 6:
             data["red"] = reds[:6]
 
-        blue_el = soup.select_one("span.ball-blue-normal.ball, .ball_blue, .ball-blue, .ball_blue_normal, .ball-blue-normal")
+        blue_el = soup.select_one("span.ball-blue-normal.ball")
         if blue_el:
             data["blue"] = blue_el.get_text(strip=True)
 
         print(f"⚠️ HTML 兜底结果：期号={data['issue']} 红={data['red']} 蓝={data['blue']}")
-
     except Exception as e:
         print(f"❌ HTML 解析异常：{e}")
 
@@ -212,5 +206,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
