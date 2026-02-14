@@ -1,701 +1,375 @@
 {
-  "generated_at": "2026-02-14T07:31:24.683401+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-02-15T07:25:18.678795+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 46,
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 22,
       "titles": [
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
+          "title": "当OpenClaw智能体“写小作文”辱骂人类，连硅谷都慌了",
+          "url": "https://wallstreetcn.com/articles/3765720",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
-          "title": "在互动平台策划“自问自答”，英集芯被立案调查",
-          "url": "https://www.cls.cn/detail/2289851",
-          "source": "财联社热门",
+          "title": "AI女副总因反色情被炒鱿鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
+          "source": "贴吧",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
+          "title": "“我们正在目睹一场AI创造性破坏席卷全球各行各业”！高盛合伙人：本质上，这是一次“护城河检查”",
+          "url": "https://wallstreetcn.com/articles/3765723",
           "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
-          "url": "https://wallstreetcn.com/articles/3765629",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时07分]"
-        },
-        {
-          "title": "现货黄金日内涨幅达2.0%，报5019.64美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3055285",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
-          "url": "https://wallstreetcn.com/livenews/3055394",
-          "source": "华尔街见闻-快讯",
+          "title": "Anthropic掌门人重磅访谈：AI正处于指数级增长尾声，2026年将迎“数据中心里的天才国度”，营收正以10倍极速狂飙",
+          "url": "https://wallstreetcn.com/articles/3765732",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时25分"
         },
         {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "本周，“AI颠覆一切”的狼终于来了",
+          "url": "https://wallstreetcn.com/articles/3765735",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "13F报告显示：安大略省教师退休基金会（OTPP）四季度建仓做多Meta等。 增持iShares iBoxx $高收益公司债ETF、英伟达、罗克韦尔自动化、迪士尼等。 清仓霍尼韦尔、微软、Pinterest、礼来制药等。 减持小马智行、AT&T、美国银行等。 重仓资产包括GFL Environment、iShares iBoxx $高收益公司债ETF、Capital One、沃尔玛、Salesforce。",
-          "url": "https://wallstreetcn.com/livenews/3055392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时25分"
         },
         {
-          "title": "美国1月CPI同比2.4%低于预期，核心CPI降至四年来最低水平",
-          "url": "https://wallstreetcn.com/articles/3765700",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
-          "title": "证监会：严肃查处天风证券违法违规行为",
-          "url": "https://www.cls.cn/detail/2289672",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
+          "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
+          "url": "https://wallstreetcn.com/articles/3765728",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "【焦点复盘】沪指低开低走失守4100点，军工、半导体设备板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2289707",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "商务部回应安世半导体案裁决结果",
-          "url": "https://www.douyin.com/hot/2399895",
-          "source": "抖音",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "荷公布安世半导体裁决 商务部回应",
-          "url": "https://www.toutiao.com/trending/7606332994369900086/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "黄金何时能反弹大涨",
-          "url": "https://www.toutiao.com/trending/7606326644776652326/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "湖北通报部分精神院违规收治患者、涉嫌套取医保基金，多名公职人员被立案调查，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2005753468204315145",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时07分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时07分]"
-        },
-        {
-          "title": "事关黄金！深圳十部门出手",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8B%E5%85%B3%E9%BB%84%E9%87%91%EF%BC%81%E6%B7%B1%E5%9C%B3%E5%8D%81%E9%83%A8%E9%97%A8%E5%87%BA%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时07分]"
-        },
-        {
-          "title": "中概指数在美股早盘实现V形反转",
-          "url": "https://wallstreetcn.com/livenews/3055280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
-          "url": "https://wallstreetcn.com/livenews/3055390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "13F报告显示：凯雷集团四季度建仓做多Medline、网红券商Robinhood、以及Spyre Therapeutics。 增持Invitation Homes、Adicet Bio Inc.。 减持SunPower、Exicure、以及Spruce Bio。 重仓Medline、StandardAero、Phathom Pharma、小马智行、以及Invitation Homes。",
-          "url": "https://wallstreetcn.com/livenews/3055389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
-          "url": "https://wallstreetcn.com/livenews/3055388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国通胀温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债走强，黄金重回5000关口",
-          "url": "https://wallstreetcn.com/articles/3765664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "据悉美国劳工部寻求加强员工人工智能培训。",
-          "url": "https://flash.jin10.com/detail/20260213231807078800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
-          "url": "https://wallstreetcn.com/livenews/3055387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
-          "url": "https://www.cls.cn/detail/2290109",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美国联邦贸易委员会（FTC）加大对微软(MSFT.O)的调查力度，就云和人工智能问题向竞争对手取证。",
-          "url": "https://flash.jin10.com/detail/20260213231654274800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "全球第二大黄金生产商CEO：愿意推进并购活动",
-          "url": "https://flash.jin10.com/detail/20260214032641176800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "商务部就荷公布安世半导体案裁决结果答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603418",
+          "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601198",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时25分"
         },
         {
-          "title": "现货黄金向上触及5040美元/盎司，日内涨2.38%。",
-          "url": "https://flash.jin10.com/detail/20260214030643710800",
-          "source": "金十数据",
+          "title": "AI无视版权,老外集火围殴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "如何看待导演郭帆与 AI 短片《牌子》的互动，是否标志着 AI 创作正被主流影视圈所接受？",
+          "url": "https://www.zhihu.com/question/2004540214375376677",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "马上评｜AI时代，让我们更懂年味",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32604363",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "3名华人联合创始人接连出走，马斯克的xAI发生了什么",
+          "url": "https://news.ifeng.com/c/8qk233NwWb6",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
+          "url": "https://www.cls.cn/detail/2290186",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时25分"
         },
         {
-          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
-          "url": "https://flash.jin10.com/detail/20260213230215077800",
-          "source": "金十数据",
+          "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
+          "url": "https://www.zhihu.com/question/2005725246167147371",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "印度AI峰会“五天赛程”安排",
+          "url": "https://wallstreetcn.com/livenews/3055544",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "13F报告显示：索罗斯四季度建仓做多Dayforce、New Gold等。 增持微软、台积电、艺电、亚马逊。 减持Snowflake、Invesco标普500 平权ETF。 清仓Aramark、KKR、iShares 7-10年期美国国债ETF等。 重仓亚马逊、谷歌A、Salesforce、TKO、微软。",
-          "url": "https://wallstreetcn.com/livenews/3055379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "货币市场预计，欧洲央行在12月之前降息的可能性为40%，而在公布美国CPI数据之前，这一概率仅为30%。",
-          "url": "https://flash.jin10.com/detail/20260213225406614800",
-          "source": "金十数据",
+          "title": "当AI可以预测你和TA的婚后十年",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93AI%E5%8F%AF%E4%BB%A5%E9%A2%84%E6%B5%8B%E4%BD%A0%E5%92%8CTA%E7%9A%84%E5%A9%9A%E5%90%8E%E5%8D%81%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "纳斯达克金龙中国指数跌幅收窄至将近0.5%，美股盘初一度跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3055265",
+          "title": "意大利能源公司埃尼集团Eni确认，在安哥拉周边海域Algaita-01区块发现石油，储量5亿桶。",
+          "url": "https://wallstreetcn.com/livenews/3055541",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "据知情人士透露，随着现金日益紧张，汽车零部件制造商First Brands Group及其部分债权人正考虑将旗下部分业务转入《破产法》第7章清算程序。此举可能使其得以出售部分资产，并削减已消耗其破产贷款的顾问费用。",
-          "url": "https://flash.jin10.com/detail/20260214025058678800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3055368",
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊创2006年以来最长连跌天数",
-          "url": "https://wallstreetcn.com/livenews/3055367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "去年印度GDP达4.18万亿美元",
-          "url": "https://www.toutiao.com/trending/7605162003853803563/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260213223705054800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
-        {
-          "title": "中方回应荷方公布安世半导体案裁决",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8D%B7%E6%96%B9%E5%85%AC%E5%B8%83%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%A1%88%E8%A3%81%E5%86%B3",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "机构：CPI报告分项之间存巨大分歧实为利好",
-          "url": "https://flash.jin10.com/detail/20260213223632759800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "半导体设备制造商应用材料涨13%，创盘中历史新高。 该公司预计2026财年Q2营收约为76.5亿美元，上下浮动范围约5亿美元，超过预期。",
-          "url": "https://wallstreetcn.com/livenews/3055255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
-          "url": "https://wallstreetcn.com/livenews/3055361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "机构：反通胀趋势持续，将为今年晚些时候降息铺平道路",
-          "url": "https://flash.jin10.com/detail/20260213223128888800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 15,
-      "titles": [
         {
           "title": "老码农裁员理由+1:被AI优化",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
           "source": "贴吧",
           "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "小伙5个月用AI做120多个App",
-          "url": "https://www.toutiao.com/trending/7605526928975659054/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "FTC升级对微软反垄断调查，向竞争对手质询云与AI业务",
-          "url": "https://flash.jin10.com/detail/20260213233520438800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
-          "url": "https://wallstreetcn.com/livenews/3055282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            8,
-            9
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
+          "title": "因“不可预见的情况”，英伟达CEO黄仁勋取消下周的印度AI峰会行程",
+          "url": "https://wallstreetcn.com/livenews/3055529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
+          "url": "https://www.cls.cn/detail/2289993",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "A股蛇年十大牛股盘点：上纬新材以超25倍涨幅夺魁 商业航天龙头赫然在列",
+          "url": "https://www.cls.cn/detail/2290257",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "液冷模组已开始批量交付 液冷概念股涨停 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2290417",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 07时31分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时07分]"
-        },
-        {
-          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
-          "url": "https://wallstreetcn.com/livenews/3055274",
-          "source": "华尔街见闻-快讯",
+          "title": "近一个月这些上市公司被“踏破门槛”！芯片股获机构组团调研，机构来访接待量居前的个股名单一览",
+          "url": "https://www.cls.cn/detail/2290317",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "美国劳工部督促雇主加强员工AI使用培训",
-          "url": "https://wallstreetcn.com/livenews/3055273",
-          "source": "华尔街见闻-快讯",
+          "title": "三年累计虚增营收、成本均超6亿元，近一个月内翻倍牛股将退市",
+          "url": "https://www.cls.cn/detail/2290453",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
+          "title": "夜店告别黄金时代 面临倒闭命运",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9C%E5%BA%97%E5%91%8A%E5%88%AB%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3+%E9%9D%A2%E4%B8%B4%E5%80%92%E9%97%AD%E5%91%BD%E8%BF%90",
+          "source": "百度热搜",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
-          "url": "https://wallstreetcn.com/livenews/3055377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
-          "url": "https://www.zhihu.com/question/1969140298404853132",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
-          "url": "https://wallstreetcn.com/livenews/3055261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "黄金还能买吗",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "你如何看王楠任内蒙古乒乓球队主帅",
+          "url": "https://www.toutiao.com/trending/7606389080037408810/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
