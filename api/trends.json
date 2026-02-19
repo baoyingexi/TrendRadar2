@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-02-19T07:31:12.552822+08:00",
+  "generated_at": "2026-02-20T07:31:03.317143+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 12,
+      "match_count": 22,
       "titles": [
         {
-          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
-          "url": "https://wallstreetcn.com/articles/3765834",
+          "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
+          "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
+          "title": "“存储荒”愈演愈烈！三星HBM4据称涨价30% 韩国“芯片双雄”积极扩产",
+          "url": "https://www.cls.cn/detail/2291781",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
@@ -30,19 +30,30 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "Doordash美股盘后涨10%。",
-          "url": "https://wallstreetcn.com/livenews/3056517",
+          "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
+          "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
+          "title": "黄仁勋预告“前所未见”的芯片新品，下一代Feynman架构或成焦点",
+          "url": "https://wallstreetcn.com/articles/3765868",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "黄仁勋：将在3月发布“世界前所未见”的全新芯片",
+          "url": "https://www.cls.cn/detail/2291708",
           "source": "财联社热门",
           "ranks": [
             6
@@ -52,8 +63,8 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291551",
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
             7
@@ -67,6 +78,17 @@
           "url": "https://www.cls.cn/detail/2291376",
           "source": "财联社热门",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
             9
           ],
           "is_new": false,
@@ -74,8 +96,8 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
+          "title": "原来公募春节前就在集中调研，机器人、半导体、有色金属都是调研热点",
+          "url": "https://www.cls.cn/detail/2291772",
           "source": "财联社热门",
           "ranks": [
             11
@@ -85,31 +107,86 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "2026物价展望：CPI有望温和回升，PPI或将转正",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593831",
-          "source": "澎湃新闻",
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
           "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
-          "url": "https://wallstreetcn.com/livenews/3056484",
-          "source": "华尔街见闻-快讯",
+          "title": "2月科创板领涨名单扫描：半导体、光通信成牛股温床 多公司创历史新高",
+          "url": "https://www.cls.cn/detail/2291363",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "带黄金马桶去漫展如何呢",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E9%BB%84%E9%87%91%E9%A9%AC%E6%A1%B6%E5%8E%BB%E6%BC%AB%E5%B1%95%E5%A6%82%E4%BD%95%E5%91%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "解读Intel2025年财报",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBIntel2025%E5%B9%B4%E8%B4%A2%E6%8A%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "据英国金融时报：马克·扎克伯格削减成本以为巨额人工智能支出留出资金，大多数Meta公司员工的股权奖励将减少5%。",
+          "url": "https://flash.jin10.com/detail/20260220064549549800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
         {
-          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
-          "url": "https://wallstreetcn.com/livenews/3056505",
+          "title": "景顺与卡米尼亚克做空美债，看淡美联储降息空间",
+          "url": "https://wallstreetcn.com/livenews/3056819",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美联储戴利：劳动力市场比以前更加低迷，因此看不到来自人工智能资本支出的通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260220062542607800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
@@ -118,8 +195,30 @@
           "time_info": "07时31分"
         },
         {
-          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3056498",
+          "title": "美联储戴利：关于人工智能资本支出，存在真实需求，并非空谈。",
+          "url": "https://flash.jin10.com/detail/20260220062514888800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3056806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AppLovin美股盘后涨6.6%。",
+          "url": "https://wallstreetcn.com/livenews/3056801",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
@@ -129,11 +228,22 @@
           "time_info": "07时31分"
         },
         {
-          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056488",
+          "title": "周四（2月19日）纽约尾盘，现货黄金涨0.42%，报4998.50美元/盎司。 COMEX黄金期货涨0.09%，报5014美元/盎司。 现货白银涨1.32%，报78.2375美元/盎司。 COMEX白银期货涨0.82%。 COMEX铜期货跌0.67%，报5.8240美元/磅。 现货铂金跌0.32%，现货钯金跌1.45%。 （美股）费城金银指数收涨1.51%，报422.69点。 （全球时段）纽约证交所ARCA金矿开采商指数涨1.26%，报2982.07点。 （美股）原材料指数收跌0.09%，金属与矿业指数收跌0.17%。",
+          "url": "https://wallstreetcn.com/livenews/3056799",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美联储戴利：在降息75个基点后，劳动力市场状况更好了。",
+          "url": "https://flash.jin10.com/detail/20260220061648624800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -143,12 +253,12 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
-          "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
-          "url": "https://www.cls.cn/detail/2290959",
-          "source": "财联社热门",
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
           "ranks": [
             1
           ],
@@ -157,22 +267,55 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
+          "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
+          "url": "https://flash.jin10.com/detail/20260220070738269800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "终末地建模,AI偷偷加料",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350773&amp;topic_name=%E7%BB%88%E6%9C%AB%E5%9C%B0%E5%BB%BA%E6%A8%A1%2CAI%E5%81%B7%E5%81%B7%E5%8A%A0%E6%96%99",
+          "source": "贴吧",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -183,7 +326,7 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350765&amp;topic_name=AI%E5%A4%A7%E6%88%98%3A%E9%B9%85%E5%8E%82%E9%98%BF%E9%87%8C%E5%8F%8C%E5%8F%8C%E5%87%BA%E5%B1%80",
           "source": "贴吧",
           "ranks": [
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -194,33 +337,11 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
           "source": "贴吧",
           "ranks": [
-            15
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
-          "url": "https://flash.jin10.com/detail/20260219054611726800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "Meta收到智能手表计划，考虑2026年推出相关产品。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3056490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     }
