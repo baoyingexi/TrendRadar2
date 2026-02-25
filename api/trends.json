@@ -1,386 +1,281 @@
 {
-  "generated_at": "2026-02-25T07:32:42.566300+08:00",
+  "generated_at": "2026-02-26T07:29:02.726617+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 19,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "英伟达Q4财报公布在即",
+          "url": "https://www.douyin.com/hot/2411539",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
           "url": "https://wallstreetcn.com/articles/3766041",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加7.72吨，当前持仓量为1094.19吨。",
-          "url": "https://flash.jin10.com/detail/20260225071201998800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "马年A股开门红",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B9%B4A%E8%82%A1%E5%BC%80%E9%97%A8%E7%BA%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "一口气锁定6吉瓦芯片！Meta大单绑定AMD 还顺手收认股权证",
-          "url": "https://www.cls.cn/detail/2294021",
+          "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
+          "url": "https://www.cls.cn/detail/2295108",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
+          "title": "A股有色和化工板块联袂大涨，春季行情主线渐明",
+          "url": "https://wallstreetcn.com/livenews/3059104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "澳新银行调整对澳洲联储利率政策的预期，现在预计5月份会加息25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3059102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2295156",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
+          "title": "女子5.5克黄金戒指换新只剩下2克",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905.5%E5%85%8B%E9%BB%84%E9%87%91%E6%88%92%E6%8C%87%E6%8D%A2%E6%96%B0%E5%8F%AA%E5%89%A9%E4%B8%8B2%E5%85%8B%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "【焦点复盘】A股马年开市现放量普涨，涨价概念全线爆发，影视等消费股现逆势调整",
-          "url": "https://www.cls.cn/detail/2293730",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "惠普(HPQ.N)CFO：第一季度搭载人工智能技术的个人电脑占总出货量的35%，高于上一季度的30%。",
-          "url": "https://flash.jin10.com/detail/20260225064530677800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "【每日收评】A股迎马年开门红！全市场超4000股收涨，化工、油气等周期股全线爆发",
-          "url": "https://www.cls.cn/detail/2293678",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "业内人士：存储芯片涨价或将贯穿全年，中国产业崛起成“胜负手”",
-          "url": "https://wallstreetcn.com/livenews/3058379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
+          "title": "连续2日百股涨停！周期成资金“扫货”重点，融资余额节后回升，这些方向热度也大增",
+          "url": "https://www.cls.cn/detail/2294832",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "马年首个交易日，A股上市公司回购增持热潮延续",
-          "url": "https://wallstreetcn.com/livenews/3058377",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "Vital Knowledge的Adam Crisafulli在研报中写道：Anthropic对合作的重视缓解了市场的担忧，因为它强调了Claude如何整合进而非取代现有系统。 Anthropic传递的“我们是来帮忙而不是伤人”的信息帮助激发了软件板块相当健康的反弹，而这或许是整个市场中最遭人恨的领域。 软件股尤其受到关注，因为投资者几个月来出于对人工智能（AI）潜在颠覆性冲击的担心一直在抛售。",
-          "url": "https://wallstreetcn.com/livenews/3058369",
+          "title": "老相机成“电子黄金”",
+          "url": "https://www.toutiao.com/trending/7610397908298383396/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
+          "url": "https://wallstreetcn.com/livenews/3059092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "英伟达CFO：尖端芯片供应仍然紧张。",
+          "url": "https://wallstreetcn.com/livenews/3059086",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "07时29分"
         },
         {
-          "title": "为什么说黄金这波春节上涨“不健康”",
-          "url": "https://www.toutiao.com/trending/7610286715936345651/",
-          "source": "今日头条",
+          "title": "据AXIOS：美国国防部已采取初步行动，威胁要将人工智能初创公司Anthropic列入黑名单。",
+          "url": "https://flash.jin10.com/detail/20260226063756839800",
+          "source": "金十数据",
           "ranks": [
-            22
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "07时29分"
         },
         {
-          "title": "Taalas芯片能否颠覆传统GPU",
-          "url": "https://search.bilibili.com/all?keyword=Taalas%E8%8A%AF%E7%89%87%E8%83%BD%E5%90%A6%E9%A2%A0%E8%A6%86%E4%BC%A0%E7%BB%9FGPU",
-          "source": "bilibili 热搜",
+          "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
+          "url": "https://flash.jin10.com/detail/20260226061338644800",
+          "source": "金十数据",
           "ranks": [
-            25
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "07时29分"
         },
         {
-          "title": "Brandywine 全球投资管理公司基金经理杰克·麦金太尔（Jack McIntyre）：（对于美联储利率政策前景）问题在于，人工智能（AI）将如何引发通胀，也许长端利率曲线已经察觉到了这一切。 AI唯一的通胀因素在于数据中心的建设及其相关的能源需求，而这一点已经是已知信息。",
-          "url": "https://wallstreetcn.com/livenews/3058363",
+          "title": "日本央行行长植田和男（Ueda）：将检视12月及之前加息行动的影响。（Yomiuri）",
+          "url": "https://wallstreetcn.com/livenews/3059074",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美债市场持仓更新：债券交易员押注美联储降息将持续至2027年",
-          "url": "https://wallstreetcn.com/livenews/3058362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "现货黄金跌约1.5%，白银跌1.1%，纽约铜期货涨2%",
-          "url": "https://wallstreetcn.com/livenews/3058361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "07时29分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 13,
+      "match_count": 8,
       "titles": [
         {
-          "title": "反向逻辑：城堡证券驳斥Citrini的“AI危机”设想",
-          "url": "https://wallstreetcn.com/livenews/3058389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
+          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
+          "url": "https://www.zhihu.com/question/2009666916382421190",
+          "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "Citrini创始人对其AI预测引发股市大跌表示震惊",
-          "url": "https://wallstreetcn.com/livenews/3058382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "李在明社媒发AI视频",
-          "url": "https://www.douyin.com/hot/2410021",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
-          "url": "https://wallstreetcn.com/livenews/3058376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "西安一市民除夕夜被AI给骂了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B8%82%E6%B0%91%E9%99%A4%E5%A4%95%E5%A4%9C%E8%A2%ABAI%E7%BB%99%E9%AA%82%E4%BA%86%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
-          "url": "https://wallstreetcn.com/livenews/3058374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反美出口管制",
-          "url": "https://www.toutiao.com/trending/7610332842534374955/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
-          "url": "https://wallstreetcn.com/livenews/3058364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "Mosaic预计2026年资本开支大约15亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3058359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "男子与女童动作亲密 内蒙古妇联回应",
-          "url": "https://www.toutiao.com/trending/7610406664227995694/",
-          "source": "今日头条",
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        },
+        {
+          "title": "AI需求拉动，被动元器件全面涨价即将到来",
+          "url": "https://wallstreetcn.com/livenews/3059090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "07时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：有信心在具身智能兴起之际，公司的现金流实现增长。",
+          "url": "https://flash.jin10.com/detail/20260226062947747800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
+          "url": "https://flash.jin10.com/detail/20260226062302497800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     }
