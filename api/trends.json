@@ -1,231 +1,165 @@
 {
-  "generated_at": "2026-03-03T07:26:55.648652+08:00",
+  "generated_at": "2026-03-04T07:30:10.632315+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 20,
+      "match_count": 14,
       "titles": [
         {
-          "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3766477",
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2300479",
+          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
+          "url": "https://www.cls.cn/detail/2301893",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "近十年第二次涨停！百亿资金“扫货”中石油，油气ETF全线溢价，这些份额近期陡升",
-          "url": "https://www.cls.cn/detail/2300014",
+          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
+          "url": "https://www.cls.cn/detail/2301372",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "中国石油、中国石化、中国海油三桶油历史首次集体收盘涨停，油气板块后续走势如何？",
-          "url": "https://www.zhihu.com/question/2011826557338019467",
-          "source": "知乎",
+          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2301690",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "【每日收评】市场再现二八分化，两市成交额重回3万亿，“三桶油”历史首次集体涨停",
-          "url": "https://www.cls.cn/detail/2299874",
-          "source": "财联社热门",
+          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
+          "url": "https://wallstreetcn.com/articles/3766588",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "高盛：美股往上走的唯一途径就是先向下走",
-          "url": "https://flash.jin10.com/detail/20260303063803425800",
-          "source": "金十数据",
+          "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
+          "url": "https://www.cls.cn/detail/2301354",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "沪指低开高走涨近0.5%，“三桶油”历史首次收盘集体涨停，能源化工商品掀涨停潮，恒科指大跌近3%",
-          "url": "https://wallstreetcn.com/articles/3766489",
-          "source": "华尔街见闻",
+          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
+          "url": "https://www.cls.cn/detail/2301724",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "国内商品期货迎涨停潮，三大期货交易所齐发风险提示",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32685253",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "【数据看盘】化工ETF上周份额大减，晓程科技龙虎榜现机构与北向资金博弈",
-          "url": "https://www.cls.cn/detail/2299988",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
-          "url": "https://wallstreetcn.com/livenews/3062170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "印度GDP没超过日本",
-          "url": "https://www.douyin.com/hot/2415868",
+          "title": "现货黄金大跌",
+          "url": "https://www.douyin.com/hot/2417992",
           "source": "抖音",
           "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2300294",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "周一（3月2日），存储芯片与硬件供应链指数跌1.99%，报109.53点。 信息科技指数涨0.58%，报273.65点。 人工智能（AI）赢家指数涨0.65%，AI软件先驱指数涨1.19%。",
-          "url": "https://wallstreetcn.com/livenews/3062169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
-          "url": "https://www.cls.cn/detail/2300191",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（3月2日），美国科技股七巨头（Magnificent 7）指数涨0.66%，报194.61点。 “超大”市值科技股指数涨0.33%，报367.84点。",
-          "url": "https://wallstreetcn.com/livenews/3062168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "油气主题基金集体涨停，黄金ETF同步飙升，下一步怎么走？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683211",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌0.24%，报469.27点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨0.25%，报3307.75点，勉强再创收盘历史新高。 在美股时段交易的原材料指数收涨0.64%，金属与矿业指数收涨1.56%。",
-          "url": "https://wallstreetcn.com/livenews/3062167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "澳大利亚三年期国债收益率涨11个基点，澳洲联储主席Bullock谈及CPI和中东局势。",
-          "url": "https://wallstreetcn.com/livenews/3062165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "市场消息：AMD的MI325芯片将被纳入美国AI加速器出口限制范围。",
-          "url": "https://flash.jin10.com/detail/20260303055516565800",
-          "source": "金十数据",
+          "title": "大妈攒金34年戴百克黄金逛珠宝城",
+          "url": "https://www.toutiao.com/trending/7611817402918862891/",
+          "source": "今日头条",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "航空业ETF收跌超2.6%，领跌美股行业ETF，标普能源板块涨超1.9%再创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3062150",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达财报超预期的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
           "ranks": [
             27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        },
+        {
+          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3063031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时30分"
+        },
+        {
+          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
+          "url": "https://wallstreetcn.com/livenews/3063029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3063025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     },
@@ -234,114 +168,114 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "华为首次在海外展出全液冷AI超节点",
-          "url": "https://wallstreetcn.com/livenews/3062183",
-          "source": "华尔街见闻-快讯",
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.toutiao.com/trending/7612983983969668662/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
-          "url": "https://www.cls.cn/detail/2300009",
+          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
+          "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
-          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
+          "url": "https://wallstreetcn.com/livenews/3063046",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时30分"
         },
         {
-          "title": "马上评｜如何看待学生作业中的“AI味儿”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
-          "source": "澎湃新闻",
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
+          "source": "百度热搜",
           "ranks": [
-            11
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
-          "url": "https://www.zhihu.com/question/2011927999839172012",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
-          "url": "https://www.zhihu.com/question/2010702851366674730",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "如何评价 AI 顶会 ICLR 提出 「 经济学的神经网络 」 Behavior Learning ?",
-          "url": "https://www.zhihu.com/question/2010290944583410156",
-          "source": "知乎",
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
+          "source": "澎湃新闻",
           "ranks": [
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
         {
-          "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
-          "source": "澎湃新闻",
+          "title": "OpenAI正开发GitHub的替代品。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063042",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时30分"
         },
         {
-          "title": "AI战甲披身秒变飒爽英姿",
-          "url": "https://www.douyin.com/hot/2416531",
-          "source": "抖音",
+          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
+          "url": "https://flash.jin10.com/detail/20260304064514298800",
+          "source": "金十数据",
           "ranks": [
-            30
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "07时30分"
+        },
+        {
+          "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
+          "url": "https://flash.jin10.com/detail/20260304060002434800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
+          "url": "https://flash.jin10.com/detail/20260304060002223800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     }
