@@ -1,281 +1,314 @@
 {
-  "generated_at": "2026-03-04T07:30:10.632315+08:00",
+  "generated_at": "2026-03-05T07:31:24.069764+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
+          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
+          "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
-          "url": "https://www.cls.cn/detail/2301893",
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
+          "url": "https://www.cls.cn/detail/2303150",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "【数据看盘】五家机构激烈博弈通源石油，北向资金逆势加仓晓程科技",
-          "url": "https://www.cls.cn/detail/2301372",
+          "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
+          "url": "https://wallstreetcn.com/livenews/3063902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2302992",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2301690",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "沪指跌超1%，“三桶油”再度集体涨停，半导体产业链大跌，恒科指跌超2%，大模型股MINIMAX逆势涨超9%",
-          "url": "https://wallstreetcn.com/articles/3766588",
-          "source": "华尔街见闻",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "918元！又一股剑指千元大关，复盘A股历只千元股，这些特点或值得关注",
-          "url": "https://www.cls.cn/detail/2301354",
+          "title": "【数据看盘】北向资金联手机构扫货通鼎互联，游资与机构激烈博弈航天彩虹",
+          "url": "https://www.cls.cn/detail/2302683",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
-          "url": "https://www.cls.cn/detail/2301724",
-          "source": "财联社热门",
+          "title": "沪指跌1%失守4100点，中石油成A股流通市值冠军，电网设备逆势大涨，恒指跌超2%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3766678",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "现货黄金大跌",
-          "url": "https://www.douyin.com/hot/2417992",
+          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3063889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "“智能”二字集体活跃！涨停股中占比一成，融资余额持续回流，资金聚焦哪些方向？",
+          "url": "https://www.cls.cn/detail/2302709",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
+          "url": "https://wallstreetcn.com/livenews/3063886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "博通：预计二季度AI芯片收入107亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3063879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "老人攒金34年戴百克黄金逛珠宝城",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "现货黄金涨超0.8%，白银涨超1.4%，纽约铜涨1.2%，铂金涨超3.3%",
+          "url": "https://wallstreetcn.com/livenews/3063875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3063872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "周三（3月4日），降息赢家指数涨0.32%，报95.52点。",
+          "url": "https://wallstreetcn.com/livenews/3063871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "年少的出发比黄金珍贵",
+          "url": "https://www.douyin.com/hot/2418170",
           "source": "抖音",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
-          "url": "https://www.cls.cn/detail/2301803",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "大妈攒金34年戴百克黄金逛珠宝城",
-          "url": "https://www.toutiao.com/trending/7611817402918862891/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "英伟达财报超预期的背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3063031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
-          "url": "https://wallstreetcn.com/livenews/3063029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3063025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "07时31分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 10,
+      "match_count": 8,
       "titles": [
         {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.toutiao.com/trending/7612983983969668662/",
+          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
+          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "代表：AI不是来抢饭碗的",
+          "url": "https://www.toutiao.com/trending/7613364759950131236/",
           "source": "今日头条",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
-          "url": "https://www.cls.cn/detail/2301441",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
-          "url": "https://wallstreetcn.com/livenews/3063046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "07时31分"
         },
         {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
+          "title": "AI真人微短剧爆火 演员会被替代吗",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
+          "url": "https://www.zhihu.com/question/1922608207504867947",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
+          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
+          "url": "https://flash.jin10.com/detail/20260305053239942800",
+          "source": "金十数据",
           "ranks": [
-            17
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "OpenAI正开发GitHub的替代品。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
-          "url": "https://flash.jin10.com/detail/20260304064514298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
-          "url": "https://flash.jin10.com/detail/20260304060002434800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
-          "url": "https://flash.jin10.com/detail/20260304060002223800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时30分"
+          "time_info": "07时31分"
         }
       ]
     }
