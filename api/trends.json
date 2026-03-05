@@ -1,314 +1,283 @@
 {
-  "generated_at": "2026-03-05T07:31:24.069764+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-06T07:52:10.378329+08:00",
+  "total_titles_processed": 324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 19,
+      "match_count": 18,
       "titles": [
         {
-          "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
-          "url": "https://wallstreetcn.com/articles/3766668",
+          "title": "非农前夜，油价飙升引发通胀担忧，芯片股领跌美股，美债四连跌，美元走强",
+          "url": "https://wallstreetcn.com/articles/3766762",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "26位“首席”做客澎湃把脉2026：对中国经济有信心，战略看多A股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692329",
-          "source": "澎湃新闻",
+          "title": "【早报】经济主题记者会今日将举行；央行将开展8000亿元买断式逆回购操作",
+          "url": "https://www.cls.cn/detail/2304488",
+          "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
-          "url": "https://www.cls.cn/detail/2303150",
-          "source": "财联社热门",
+          "title": "韩国2月CPI月率 0.3%，预期0.40%，前值0.40%。",
+          "url": "https://flash.jin10.com/detail/20260306070002547801",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
         },
         {
-          "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
-          "url": "https://wallstreetcn.com/livenews/3063902",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国2月CPI年率 2%，预期2.10%，前值2.00%。",
+          "url": "https://flash.jin10.com/detail/20260306070002547800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
         },
         {
-          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2302992",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "【数据看盘】北向资金联手机构扫货通鼎互联，游资与机构激烈博弈航天彩虹",
-          "url": "https://www.cls.cn/detail/2302683",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "沪指跌1%失守4100点，中石油成A股流通市值冠军，电网设备逆势大涨，恒指跌超2%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3766678",
+          "title": "现货黄金短线下挫70美元，报道：波兰拟售黄金储备为国防融资",
+          "url": "https://wallstreetcn.com/articles/3766831",
           "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "央行明日开展8000亿元买断式逆回购操作 3月流动性将保持充裕",
+          "url": "https://www.cls.cn/detail/2304309",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "央行：6日开展8000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A6%E6%97%A5%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
+          "url": "https://www.cls.cn/detail/2304328",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "Meta计划研发自研芯片，来训练自家的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3063889",
-          "source": "华尔街见闻-快讯",
+          "title": "李扬：A股生态正质变，百姓的“压舱石”出现了",
+          "url": "https://finance.ifeng.com/loc/cbslt2026",
+          "source": "凤凰网",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "“智能”二字集体活跃！涨停股中占比一成，融资余额持续回流，资金聚焦哪些方向？",
-          "url": "https://www.cls.cn/detail/2302709",
-          "source": "财联社热门",
+          "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "博通：预计Anthropic将在2027（财务）年度带来3 GW算力需求。 预计OpenAI将在2027年批量部署芯片。 Meta的定制芯片路线图“正在推进之中，进展不错”。",
-          "url": "https://wallstreetcn.com/livenews/3063886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "博通：预计二季度AI芯片收入107亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收涨0.47%，报433.38点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.22%，报3046.92点。 在美股时段交易的原材料指数收跌0.06%，金属与矿业指数收涨0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3063879",
-          "source": "华尔街见闻-快讯",
+          "title": "保底4.5%,GDP目标留余地",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351399&amp;topic_name=%E4%BF%9D%E5%BA%954.5%25%2CGDP%E7%9B%AE%E6%A0%87%E7%95%99%E4%BD%99%E5%9C%B0",
+          "source": "贴吧",
           "ranks": [
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "老人攒金34年戴百克黄金逛珠宝城",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "现货黄金涨超0.8%，白银涨超1.4%，纽约铜涨1.2%，铂金涨超3.3%",
-          "url": "https://wallstreetcn.com/livenews/3063875",
+          "title": "央行减量续作3个月期买断式逆回购，业内人士：并不意味着货币政策转向",
+          "url": "https://wallstreetcn.com/livenews/3064685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
         },
         {
-          "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3063872",
+          "title": "美国拟将AI芯片出口管制扩展至全球 英伟达、AMD等公司出口需获许可",
+          "url": "https://wallstreetcn.com/livenews/3064683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
         },
         {
-          "title": "周三（3月4日），降息赢家指数涨0.32%，报95.52点。",
-          "url": "https://wallstreetcn.com/livenews/3063871",
+          "title": "道指跌近800点，小盘股指下挫2%，领跌美股基准股指",
+          "url": "https://wallstreetcn.com/livenews/3064666",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
         },
         {
-          "title": "年少的出发比黄金珍贵",
-          "url": "https://www.douyin.com/hot/2418170",
-          "source": "抖音",
+          "title": "美股七巨头收盘播报｜英伟达收盘转涨0.16%",
+          "url": "https://wallstreetcn.com/livenews/3064665",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
-          "url": "https://www.zhihu.com/question/2012192001999726052",
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "政府工作报告提出培育发展未来能源、量子科技、具身智能、脑机接口、 6G 等未来产业，行业将迎来哪些利好？",
+          "url": "https://www.zhihu.com/question/2011177014359513086",
           "source": "知乎",
           "ranks": [
-            3
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "代表：AI不是来抢饭碗的",
-          "url": "https://www.toutiao.com/trending/7613364759950131236/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "AI真人微短剧爆火 演员会被替代吗",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9C%9F%E4%BA%BA%E5%BE%AE%E7%9F%AD%E5%89%A7%E7%88%86%E7%81%AB+%E6%BC%94%E5%91%98%E4%BC%9A%E8%A2%AB%E6%9B%BF%E4%BB%A3%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "OpenAI与Trade Desk Inc.（TTD）围绕广告销售启动初步的磋商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3063894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
-          "url": "https://www.cls.cn/detail/2302628",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "国内目前使用的 AI 智能问答软件，豆包、通义千问、元宝、 kimi 、 deepseek，哪个好用？",
-          "url": "https://www.zhihu.com/question/1922608207504867947",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "AI猫咪的复工vlog",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "博通营收预测令部分投资者失望，凸显AI担忧",
-          "url": "https://flash.jin10.com/detail/20260305053239942800",
-          "source": "金十数据",
+          "title": "食堂引入2台6万元的智能炒菜机器人",
+          "url": "https://www.toutiao.com/trending/7612586869767815177/",
+          "source": "今日头条",
           "ranks": [
-            26
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "Together AI正洽谈以75亿美元的估值进行融资。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3064681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "07时52分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）结束对加密货币亿万富翁孙宇晨的诉讼。SEC表示，Rainberry公司将在孙宇晨案中支付1000万美元罚款。",
+          "url": "https://wallstreetcn.com/livenews/3064679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         }
       ]
     }
