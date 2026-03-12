@@ -1,303 +1,215 @@
 {
-  "generated_at": "2026-03-12T07:27:20.501628+08:00",
+  "generated_at": "2026-03-13T07:28:50.044404+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 18,
+      "match_count": 14,
       "titles": [
         {
-          "title": "“护航”乌龙消息搅动市场，原油“过山车”，美股冲高回落，新兴市场外汇大涨",
-          "url": "https://wallstreetcn.com/articles/3767097",
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌300点，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
-          "url": "https://www.cls.cn/detail/2309924",
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
           "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
-          "url": "https://www.cls.cn/detail/2310241",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "深度解读苹果新芯片",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB%E8%8B%B9%E6%9E%9C%E6%96%B0%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "“黑色黄金”重大突破",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
           "url": "https://wallstreetcn.com/articles/3767236",
           "source": "华尔街见闻",
           "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "日本最大的氦气供应商岩谷产业（Iwatani）表示，到目前为止，它对包括半导体制造商在内的客户保持了稳定供应，部分原因是其货源也来自美国，并在美日两地均有库存。",
+          "url": "https://wallstreetcn.com/livenews/3069196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "详解华莱士为何会走向退市",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E5%8D%8E%E8%8E%B1%E5%A3%AB%E4%B8%BA%E4%BD%95%E4%BC%9A%E8%B5%B0%E5%90%91%E9%80%80%E5%B8%82",
-          "source": "bilibili 热搜",
+          "title": "盈科律所创始人梅向荣被指融资担保“暴雷”，回应：系其家人开办公司产生的问题，已辞去一切职务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32749354",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "现货黄金向下触及5140美元/盎司，日内跌0.72%。",
-          "url": "https://flash.jin10.com/detail/20260312065631991800",
-          "source": "金十数据",
+          "title": "寒武纪年报出炉！拟10派15元转增4.9股，章建平连续两个季度增持",
+          "url": "https://www.cls.cn/detail/2311258",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "报道：供应链开始出现波动韩国芯片巨头急查氦气库存",
+          "url": "https://wallstreetcn.com/livenews/3069192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
+          "title": "睡眠有个“黄金4小时”",
+          "url": "https://www.toutiao.com/trending/7616177643201462335/",
+          "source": "今日头条",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "通胀继续降温！美国2月CPI同比上涨2.4%，核心CPI同比2.5%，为近五年来最小增幅",
-          "url": "https://wallstreetcn.com/articles/3767258",
+          "title": "寒武纪2025年营收暴增超450%，净利润20.6亿元强势扭亏，章建平增持40.8万股 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3767362",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "华莱士正式宣布退市，曾经的「洋快餐之王」到底输在了哪里？退市之后，华莱士还有哪些破局之路？",
-          "url": "https://www.zhihu.com/question/2015029318942680887",
-          "source": "知乎",
+          "title": "香港证监会、廉政公署：2家券商涉嫌受贿超400万、助对冲基金获利3.15亿，8人被捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32753914",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "历史新高仅差5%！“宁王”盘中重返400元，新能源赛道热度持续，融资客加仓这些股",
-          "url": "https://www.cls.cn/detail/2309752",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "周四亚太盘初，美国股指期货跌0.3%，摩根士丹利限制私人信用基金的赎回。 摩根士丹利美股盘后跌0.55%。",
-          "url": "https://wallstreetcn.com/livenews/3068371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "华莱士认栽,退市告别资本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351687&amp;topic_name=%E5%8D%8E%E8%8E%B1%E5%A3%AB%E8%AE%A4%E6%A0%BD%2C%E9%80%80%E5%B8%82%E5%91%8A%E5%88%AB%E8%B5%84%E6%9C%AC",
-          "source": "贴吧",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.429吨，当前持仓量为1075.852吨。",
+          "url": "https://flash.jin10.com/detail/20260313062447354800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "华莱士正式宣布退市",
-          "url": "https://www.toutiao.com/trending/7615167213103972390/",
-          "source": "今日头条",
+          "title": "追觅手机6800元起售 黄金版超10万元",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E6%89%8B%E6%9C%BA6800%E5%85%83%E8%B5%B7%E5%94%AE+%E9%BB%84%E9%87%91%E7%89%88%E8%B6%8510%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加3.716吨，当前持仓量为1077.281吨。",
-          "url": "https://flash.jin10.com/detail/20260312061723295800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "格罗方德半导体（格芯）将回购大约3亿美元股票。 股东Mubadala将出售2000万股持股。 格芯（GFS）美股盘后跌超5.46%。",
-          "url": "https://wallstreetcn.com/livenews/3068357",
+          "title": "博通全球首款102.4 Tbps交换芯片实现量产出货",
+          "url": "https://wallstreetcn.com/livenews/3069138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "Atlassian Corp.裁员计划将影响到大约1600名雇员，占比大约10%。 Atlassian Corp.（TEAM）美股盘后涨6.03%。",
-          "url": "https://wallstreetcn.com/livenews/3068356",
+          "title": "美股小盘股指期货周四跌超1.9%",
+          "url": "https://wallstreetcn.com/livenews/3069164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
-          "url": "https://wallstreetcn.com/articles/3767211",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "Salesforce 250亿美元发债需求疲软，折射AI焦虑",
-          "url": "https://wallstreetcn.com/livenews/3068362",
+          "title": "Coherent增强面向AI网络的多轨传输平台",
+          "url": "https://wallstreetcn.com/livenews/3069181",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
-          "title": "AI龙虾安全风险真的那么可怕吗",
-          "url": "https://www.douyin.com/hot/2426974",
-          "source": "抖音",
+          "title": "Meta与Luxottica因AI智能眼镜视频共享问题再次面临诉讼",
+          "url": "https://wallstreetcn.com/livenews/3069178",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         },
         {
           "title": "沉迷AI的领导belike",
           "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "AI背锅,内存降价遥遥无期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时28分"
         }
       ]
     }
