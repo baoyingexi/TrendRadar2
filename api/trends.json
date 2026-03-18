@@ -1,292 +1,380 @@
 {
-  "generated_at": "2026-03-18T07:33:34.005606+08:00",
+  "generated_at": "2026-03-19T07:31:40.408567+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
-          "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
-          "url": "https://wallstreetcn.com/articles/3767701",
-          "source": "华尔街见闻",
+          "title": "“投资者保护”首次写入十五五，证监会火速部署：坚决清除“拦路虎”与“绊脚石”",
+          "url": "https://www.cls.cn/detail/2317111",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "证监会：严肃查处破坏资本市场秩序、侵害中小投资者利益的人和事 坚决清除影响资本市场改革发展的“拦路虎”“绊脚石”",
+          "url": "https://www.cls.cn/detail/2316785",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "美国SEC主席提议根据公司规模调整财报披露频率",
-          "url": "https://wallstreetcn.com/livenews/3071950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
-          "url": "https://wallstreetcn.com/livenews/3071946",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：七巨头齐挫三大指数跌超1% 闪迪、美光逆市收新高",
+          "url": "https://www.cls.cn/detail/2317455",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "美股收盘：存储股走强美光创新高 三大指数连涨两日",
-          "url": "https://www.cls.cn/detail/2316130",
-          "source": "财联社热门",
+          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3072726",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "【数据看盘】机构、量化资金的活跃度大幅降低，北向资金联手一线游资抢筹太空光伏人气股",
-          "url": "https://www.cls.cn/detail/2315651",
-          "source": "财联社热门",
+          "title": "腾讯Q4营收同比增长13%，调整后净利增17%，云业务全年实现规模化盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3767831",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "港股上市公司回购活跃度持续",
-          "url": "https://wallstreetcn.com/livenews/3071944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "北证50创10个月新低！三大方向回撤明显，这些股遭融资客减持",
-          "url": "https://www.cls.cn/detail/2315664",
+          "title": "五连降！A股成交额缩至2万亿关口，这些方向仍局部活跃",
+          "url": "https://www.cls.cn/detail/2316947",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "世界黄金协会：黄金供应不太可能枯竭",
-          "url": "https://www.toutiao.com/trending/7617063311962734642/",
-          "source": "今日头条",
+          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
+          "url": "https://flash.jin10.com/detail/20260319065232382800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2315898",
+          "title": "鲍威尔：美经济前景“极不确定” 联储内部倾向减少降息次数",
+          "url": "https://www.cls.cn/detail/2317441",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "《求是》杂志发表了特约评论员文章明确，房地产带有「显著的金融资产属性」，您怎么看？",
-          "url": "https://www.zhihu.com/question/2017023184143139256",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将达到423.7亿-435.2亿，预计将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
-          "url": "https://wallstreetcn.com/livenews/3071929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "新西兰至12月的一年经常帐赤字占GDP比重为3.7%。 四季度经常帐赤字59.84亿纽元，预期赤字48亿纽元。",
-          "url": "https://wallstreetcn.com/livenews/3071924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.144吨，当前持仓量为1069.564吨。",
-          "url": "https://flash.jin10.com/detail/20260318061911649800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "中通快递(02057.HK)：董事会已批准一项未来24个月内的股票回购计划，回购总额为15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260318060800520800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "新能源汽车行业开启涨价模式",
-          "url": "https://www.toutiao.com/trending/7617085385898852388/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
-          "url": "https://www.zhihu.com/question/2016992148197750088",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "斑马智能信息技术股份有限公司向港交所提交上市申请书。",
-          "url": "https://flash.jin10.com/detail/20260318065743986800",
-          "source": "金十数据",
-          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
-          "url": "https://www.cls.cn/detail/2315814",
+          "title": "【焦点复盘】科技股爆发引领情绪回暖，存储芯片股热度居高不下，化工等周期股逆势领跌",
+          "url": "https://www.cls.cn/detail/2316929",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
-          "url": "https://wallstreetcn.com/livenews/3071939",
-          "source": "华尔街见闻-快讯",
+          "title": "战火不断黄金不涨反跌",
+          "url": "https://www.baidu.com/s?wd=%E6%88%98%E7%81%AB%E4%B8%8D%E6%96%AD%E9%BB%84%E9%87%91%E4%B8%8D%E6%B6%A8%E5%8F%8D%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "于谦说怕AI偷看相册",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
-          "source": "bilibili 热搜",
+          "title": "美光科技(MU.O)美股盘后跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260319063817922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "黄金的牛市结束了吗",
+          "url": "https://www.toutiao.com/trending/7618552512085233179/",
+          "source": "今日头条",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
-          "url": "https://wallstreetcn.com/livenews/3071935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
-          "url": "https://www.zhihu.com/question/2016095792616744489",
-          "source": "知乎",
+          "title": "标普：由于石油生产和出口中断，预计科威特经常账户盈余将从2025年的约24%降至2026年的约16%。预计科威特今年实际GDP增速将放缓至略低于1%，而2025年约为2%。",
+          "url": "https://flash.jin10.com/detail/20260319062521469800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
-          "url": "https://www.zhihu.com/question/2016981407864414269",
-          "source": "知乎",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.571吨，当前持仓量为1066.993吨。",
+          "url": "https://flash.jin10.com/detail/20260319062256989800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)家居硬件负责人布赖恩·林奇离职，转投智能戒指制造商Oura。",
-          "url": "https://flash.jin10.com/detail/20260318060802784800",
-          "source": "金十数据",
+          "title": "纽元兑美元走低，新西兰四季度GDP数据逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3072710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "新西兰四季度GDP季环比 0.2%，预期 0.5%，前值 1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3072707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "新西兰四季度GDP同比 1.3%，预期 1.7%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3072706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "巴西央行宣布降息，在伊朗战争波及前景之际谨慎行动",
+          "url": "https://wallstreetcn.com/livenews/3072703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
+          "url": "https://www.cls.cn/detail/2316633",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "王兴兴谈具身智能的GPT时刻",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E7%9A%84GPT%E6%97%B6%E5%88%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
+          "url": "https://www.zhihu.com/question/2017627475413262735",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "网友抵制AI演员",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8A%B5%E5%88%B6AI%E6%BC%94%E5%91%98%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时31分"
         }
       ]
     }
