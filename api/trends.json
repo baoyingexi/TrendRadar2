@@ -1,66 +1,99 @@
 {
-  "generated_at": "2026-03-21T07:29:26.701332+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-03-22T07:26:05.176924+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 14,
+      "match_count": 13,
       "titles": [
         {
-          "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "黄金白银为何暴跌？",
-          "url": "https://wallstreetcn.com/articles/3767962",
+          "title": "黄金暴跌一周！“1983年大抛售”再现，中东“卖金筹资”？",
+          "url": "https://wallstreetcn.com/articles/3768045",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
+          "title": "“美联储加息”噩梦恐成真？美银：需先满足三大条件",
+          "url": "https://www.cls.cn/detail/2320248",
+          "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3768006",
-          "source": "华尔街见闻",
+          "title": "中小险企因偿付能力压力减仓？多位保险机构人士：个别正常调整影响小，不改增持趋势",
+          "url": "https://www.cls.cn/detail/2320288",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260321040633903800",
-          "source": "金十数据",
+          "title": "专家：睡眠有个“黄金4小时”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E7%9D%A1%E7%9C%A0%E6%9C%89%E4%B8%AA%E2%80%9C%E9%BB%84%E9%87%914%E5%B0%8F%E6%97%B6%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
+          "url": "https://wallstreetcn.com/articles/3768031",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "华为发布新一代算力芯片昇腾950PR",
+          "url": "https://wallstreetcn.com/livenews/3074466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "07时26分"
+        },
+        {
+          "title": "这一次不一样！股市反应迟钝，央行迟早QE，而黄金难以对冲",
+          "url": "https://wallstreetcn.com/articles/3768062",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -70,201 +103,146 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260321040547079800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2319906",
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2320337",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "美联储理事沃勒：有理由对高油价谨慎，但若就业疲软，今年晚些时候再主张降息",
-          "url": "https://wallstreetcn.com/articles/3768024",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3074368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美股三大指数收跌 超微电脑跌超30%",
-          "url": "https://flash.jin10.com/detail/20260321040036809800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "周五（3月20日），存储芯片与硬件供应链指数跌4.93%，报113.25点，本周累计上涨5.14%，整体呈现出M形走势。 北美科技软件股指数ETF收跌1.74%，报82.99美元，本周累跌1.43%，延续上周跌4.30%的表现。 信息科技指数跌3.42%，报269.03点，本周累涨0.24%。 人工智能（AI）赢家指数跌4.02%，报281.73点，本周累跌0.09%。 AI软件先驱指数跌2.18%，报98.04点，本周累跌1.37%。",
-          "url": "https://wallstreetcn.com/livenews/3074352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "腾讯财报实锤,鸣潮闷声收割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352047&amp;topic_name=%E8%85%BE%E8%AE%AF%E8%B4%A2%E6%8A%A5%E5%AE%9E%E9%94%A4%2C%E9%B8%A3%E6%BD%AE%E9%97%B7%E5%A3%B0%E6%94%B6%E5%89%B2",
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            25
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "在美股时段交易的费城金银指数收跌3.82%，报328.28点，本周累计下跌14.50%，3月18-20日持续走低。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌3.17%，报2319.72点，本周累跌13.87%。 在美股时段交易的原材料指数收跌2.72%，报229.09点，本周累跌6.46%。 在美股时段交易的金属与矿业指数收跌3.29%，报220.05点，本周累跌5.70%。",
-          "url": "https://wallstreetcn.com/livenews/3074347",
-          "source": "华尔街见闻-快讯",
+          "title": "退市近两年的进口抗菌药涨至千元背后：谁在炒高？为何不需要囤积？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795459",
+          "source": "澎湃新闻",
           "ranks": [
-            27
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
         {
-          "title": "宇树科技招股书公开 冲刺科创板具身智能第一股",
-          "url": "https://www.cls.cn/detail/2319719",
-          "source": "财联社热门",
+          "title": "光轮智能完成10亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3074467",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "07时26分"
         },
         {
-          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
-          "url": "https://www.cls.cn/detail/2319626",
-          "source": "财联社热门",
+          "title": "最新！Karpathy万字深度长访：我焦虑到AI成瘾，所有可验证的领域，终将属于机器",
+          "url": "https://wallstreetcn.com/articles/3768061",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "季冠霖发文抵制AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%A3%E5%86%A0%E9%9C%96%E5%8F%91%E6%96%87%E6%8A%B5%E5%88%B6AI&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
+        },
+        {
+          "title": "浙江一社区食堂引入智能炒菜机器人，油盐配比精准到克，你会去尝试吗？机器人炒的菜会有「锅气」吗？",
+          "url": "https://www.zhihu.com/question/2013207584849486050",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
           "source": "贴吧",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "程序员利用 ChatGPT 设计癌症疫苗拯救爱犬，「肿瘤真的缩小了」，这一事件有哪些意义或影响？",
-          "url": "https://www.zhihu.com/question/2016876183153768141",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "普通人如何防范AI投毒",
-          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
-          "source": "bilibili 热搜",
-          "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "博主用AI手搓应用1个多月赚近九千",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E6%89%8B%E6%90%93%E5%BA%94%E7%94%A81%E4%B8%AA%E5%A4%9A%E6%9C%88%E8%B5%9A%E8%BF%91%E4%B9%9D%E5%8D%83",
-          "source": "百度热搜",
+          "title": "OpenAI计划在2026年底前将员工人数增至8,000人，以缩小与竞争对手Anthropic的差距。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3074453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "库克说AI是对人能力的放大而非取代 不要惧怕要拥抱AI",
+          "url": "https://wallstreetcn.com/livenews/3074449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "马斯克：xAI的“Grok Computer”应用即将推出。",
+          "url": "https://wallstreetcn.com/livenews/3074461",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时29分"
+          "time_info": "07时26分"
         }
       ]
     }
