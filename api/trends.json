@@ -1,325 +1,221 @@
 {
-  "generated_at": "2026-03-25T07:33:40.006403+08:00",
+  "generated_at": "2026-03-26T07:35:54.158489+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 15,
+      "match_count": 12,
       "titles": [
         {
-          "title": "地缘信号反复切换，美股收跌、但盘后大涨，原油盘后抹平日内涨幅，美软件ETF日内跌超4%",
-          "url": "https://wallstreetcn.com/articles/3768212",
+          "title": "美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌",
+          "url": "https://wallstreetcn.com/articles/3768319",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "现货黄金盘中站上4500美元/盎司，日内涨幅0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3076253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
-          "url": "https://www.cls.cn/detail/2323617",
+          "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
+          "url": "https://www.cls.cn/detail/2324998",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "心源性猝死黄金抢救时间仅4分钟",
-          "url": "https://www.baidu.com/s?wd=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E9%BB%84%E9%87%91%E6%8A%A2%E6%95%91%E6%97%B6%E9%97%B4%E4%BB%854%E5%88%86%E9%92%9F",
-          "source": "百度热搜",
+          "title": "专家说黄金正重演08年剧本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E9%BB%84%E9%87%91%E6%AD%A3%E9%87%8D%E6%BC%9408%E5%B9%B4%E5%89%A7%E6%9C%AC%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "年内外资机构调研A股公司超900次，聚焦高端制造与科技创新两大核心赛道",
-          "url": "https://wallstreetcn.com/livenews/3076248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "A股深V三大股指收涨：超5100股飘红，两市成交2万亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819962",
-          "source": "澎湃新闻",
+          "title": "美伊谈判消息提振市场 美股期指大涨 油价重挫 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2324750",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2323371",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "存储芯片超级景气周期延续，涨价潮席卷消费电子全产业链",
-          "url": "https://wallstreetcn.com/livenews/3076244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "电力股成“香饽饽”！板块成交额历史新高，时隔2月再现7连板，这些股也曾频涨停",
-          "url": "https://www.cls.cn/detail/2323118",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：降息前必须看到通胀降温。 能源价格上涨正推高通胀。 可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。 我们应该感到些许欣慰，我们正走在回归2%通胀率的道路上。",
-          "url": "https://wallstreetcn.com/livenews/3076243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "李大霄解读美股反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "现货黄金",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "美联储古尔斯比：不知是否还能降息，这取决于战争持续时间。",
-          "url": "https://flash.jin10.com/detail/20260325064706830800",
+          "title": "机构：通胀虽趋缓 料难阻澳洲联储5月加息25个基点",
+          "url": "https://flash.jin10.com/detail/20260326070251858800",
           "source": "金十数据",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "A股市场反弹，抄底资金增持宽基ETF",
-          "url": "https://wallstreetcn.com/livenews/3076238",
+          "title": "券商密集发声：支撑A股中长期向好的核心根基未发生动摇",
+          "url": "https://wallstreetcn.com/livenews/3076947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "美联储理事巴尔：降息前需看到通胀回落的证据。",
-          "url": "https://flash.jin10.com/detail/20260325063114808800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "卡塔尔液化天然气田受损后，Airgas化工产品公司限制氦气订单。",
-          "url": "https://flash.jin10.com/detail/20260325071304352800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "CPU王炸登场！阿里新一代旗舰处理器玄铁C950刷新全球纪录，为AI Agent时代量身定制",
-          "url": "https://wallstreetcn.com/articles/3768225",
+          "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
+          "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "小米电话会：未来三年AI领域投入600亿，内存涨价“尽力消化不排除传导”，汽车出海时间表不变",
-          "url": "https://wallstreetcn.com/articles/3768269",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "AI骗老美,虚拟女兵狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352239&amp;topic_name=AI%E9%AA%97%E8%80%81%E7%BE%8E%2C%E8%99%9A%E6%8B%9F%E5%A5%B3%E5%85%B5%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "报告称AI将全面取代这六大岗位",
-          "url": "https://www.toutiao.com/trending/7620795844911959606/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "马上评｜“去人化”的AI影视，你还会看吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819970",
+          "title": "加完油才发现是“中园石化”，涉事加油站已被立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32826482",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "知名编剧打假:AI是庞氏骗局",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352262&amp;topic_name=%E7%9F%A5%E5%90%8D%E7%BC%96%E5%89%A7%E6%89%93%E5%81%87%3AAI%E6%98%AF%E5%BA%9E%E6%B0%8F%E9%AA%97%E5%B1%80",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "Anduril、Palantir向美国总统特朗普提倡的“金穹”反导系统提供软件支持。 这两家公司是“金穹”软件团体的一部分。 谷歌公司参与投资的Aalyria Tech和Scale AI也对此有贡献。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3076237",
+          "title": "黑石集团房地产部门联席主席Ken Caplan：私人信用市场的违约水平偏低。",
+          "url": "https://wallstreetcn.com/livenews/3076940",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "OpenAI首席财务官：本轮融资总额达1200亿美元",
-          "url": "https://flash.jin10.com/detail/20260325064051929800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.572吨，当前持仓量为1052.419吨。",
+          "url": "https://flash.jin10.com/detail/20260326061829632800",
           "source": "金十数据",
           "ranks": [
-            20
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "如何看待 Ai 音乐创作这个趋势？",
-          "url": "https://www.zhihu.com/question/1937236067859306429",
-          "source": "知乎",
+          "title": "黄金正重演“2008年剧本”吗",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E6%AD%A3%E9%87%8D%E6%BC%94%E2%80%9C2008%E5%B9%B4%E5%89%A7%E6%9C%AC%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
         },
         {
-          "title": "OpenAI首席财务官弗里尔：我们必须打造一家为上市做好准备的公司，此轮融资是为了降低相关风险。",
-          "url": "https://flash.jin10.com/detail/20260325063733355800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "给AI龙虾装上双手打游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
+          "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
+          "url": "https://wallstreetcn.com/livenews/3076931",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如何看待 sora 即将停止服务，seedance 还能坚持多久？",
+          "url": "https://www.zhihu.com/question/2020124278553625840",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "短剧演员成AI技术第一批“牺牲品”",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E6%88%90AI%E6%8A%80%E6%9C%AF%E7%AC%AC%E4%B8%80%E6%89%B9%E2%80%9C%E7%89%BA%E7%89%B2%E5%93%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "Sora关停背后",
+          "url": "https://www.douyin.com/hot/2442643",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内蒙古地震",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E8%92%99%E5%8F%A4%E5%9C%B0%E9%9C%87&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         }
       ]
     }
