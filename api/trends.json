@@ -1,193 +1,259 @@
 {
-  "generated_at": "2026-03-27T07:36:28.532129+08:00",
+  "generated_at": "2026-03-28T07:33:20.642781+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
         {
-          "title": "谈判僵局重燃市场恐慌，全球债市大跌，油价重新走强，芯片股拖累美股，美元冲高回落",
-          "url": "https://wallstreetcn.com/articles/3768430",
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时33分"
         },
         {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
+          "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
+          "url": "https://www.cls.cn/detail/2327695",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "中国芯片出口金额增速超七成，这对国产芯片产业发展意味着什么？在全球市场处于什么水平？",
+          "url": "https://www.zhihu.com/question/2020648289683424883",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "中国人工智能走在世界前列",
+          "url": "https://www.toutiao.com/trending/7621371545780715574/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3768430",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "证监会：2026年将加快重点领域立法修法，提高制度包容性、适应性和竞争力、吸引力",
+          "url": "https://www.cls.cn/detail/2327407",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时33分"
         },
         {
-          "title": "五涨停背后 大胜达9.88亿交易盲盒待拆",
-          "url": "https://www.cls.cn/detail/2326126",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "巨盈变巨亏！美团2025年调整后净亏损186亿元，核心本地商业经营亏损69亿元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3768460",
+          "title": "市场已准备最坏情况？交易员开始对冲美联储两周内“紧急加息”！",
+          "url": "https://wallstreetcn.com/articles/3768526",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "跌破2万亿大关！A股成交额创年内新低，两大板块热度速降，这些方向也缩量明显",
-          "url": "https://www.cls.cn/detail/2325757",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2326015",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "美联储理事米兰：缩减资产负债表（缩表）“可能要耗时好几年”。 如果美联储选择减持美债，可能需要缓慢地推进。 如果美联储的确缩表，可能需要降息。 缩表的好处是显而易见的。",
-          "url": "https://wallstreetcn.com/livenews/3077722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "纽约联储系统公开市场账户经理Perli：常备回购操作是美联储工具箱的重要组成部分。",
-          "url": "https://flash.jin10.com/detail/20260327070127232800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "纽约联储系统公开市场账户经理Perli ：企业在具有经济合理性时应使用回购便利工具。",
-          "url": "https://flash.jin10.com/detail/20260327070018522800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3077736",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "AI短剧冲击横店 第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
-          "url": "https://wallstreetcn.com/articles/3768419",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "【数据看盘】一线游资、量化资金涌入西部材料 超12亿元资金砸盘明阳智能",
-          "url": "https://www.cls.cn/detail/2325760",
-          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时33分"
         },
         {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股遇开战以来最惨一日后，特朗普立刻宣布打伊朗“再推迟10天”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32842497",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "1吨旧手机约能提炼200克黄金",
+          "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E7%BA%A6%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
+          "url": "https://wallstreetcn.com/livenews/3078490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "现货黄金价格深夜再度跳水，一度跌逾3%！金价为何“上蹿下跳”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32841691",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "周五（3月27日）纽约尾盘，现货黄金涨2.91%，报4502.93美元/盎司，本周累涨0.10%。 COMEX黄金期货涨2.88%，报4535.80美元/盎司，本周累跌1.50%，整体呈现出W形走势。 本周，现货白银累涨2.64%，报69.7470美元/盎司。 COMEX白银期货累涨0.60%，报70.080美元/盎司。 COMEX铜期货累涨3.08%，报5.4710美元/磅。 现货铂金累跌3.27%，报1865.44美元/盎司；现货钯金累跌2.17%，报1383.94美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3078485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "黄金持续快速拉升",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%8C%81%E7%BB%AD%E5%BF%AB%E9%80%9F%E6%8B%89%E5%8D%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
+          "url": "https://wallstreetcn.com/livenews/3078476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "中国AI模型调用量爆发式增长",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "市场消息：Meta公司计划在下周推出两款专为戴眼镜人士设计的新型防光智能眼镜。",
+          "url": "https://flash.jin10.com/detail/20260328064409348800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "假赛挨重拳,naiyou终身禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352430&amp;topic_name=%E5%81%87%E8%B5%9B%E6%8C%A8%E9%87%8D%E6%8B%B3%2Cnaiyou%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "LPL宣布naiyou假赛被终身禁赛",
+          "url": "https://search.bilibili.com/all?keyword=LPL%E5%AE%A3%E5%B8%83naiyou%E5%81%87%E8%B5%9B%E8%A2%AB%E7%BB%88%E8%BA%AB%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "网传 DeepSeekV4 要来了，这次是真的吗？目前有哪些信息？",
-          "url": "https://www.zhihu.com/question/2015379461017659100",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时33分"
         }
       ]
     }
