@@ -1,303 +1,248 @@
 {
-  "generated_at": "2026-03-31T07:35:56.189569+08:00",
+  "generated_at": "2026-04-01T07:34:55.933724+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 15,
       "titles": [
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
+          "title": "美伊均释放结束中东冲突意愿，美股大涨、纳指飙升近4%，原油重挫，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "日本3月东京核心CPI年率 1.7%，预期1.80%，前值1.80%。",
-          "url": "https://flash.jin10.com/detail/20260331073003461800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "日本3月东京CPI(除生鲜食品)同比 1.7%，预期 1.8%，前值 1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3079633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
-          "url": "https://www.cls.cn/detail/2329769",
+          "title": "美股收盘：美伊均释放冲突缓和言论 道指飙升逾1100点 纳指涨3.8%",
+          "url": "https://www.cls.cn/detail/2331315",
           "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "日本3月东京CPI年率 1.4%，预期1.60%，前值由1.60%修正为1.50%。",
-          "url": "https://flash.jin10.com/detail/20260331073003453800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "日本3月东京CPI同比 1.4%，预期 1.6%，前值 1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3079632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "日本3月东京CPI(除生鲜食品及能源)同比 2.3%，预期 2.3%，前值 2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3079631",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
+          "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
+          "url": "https://wallstreetcn.com/articles/3768902",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
+          "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32863128",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
+          "url": "https://www.cls.cn/detail/2331350",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
+          "url": "https://www.cls.cn/detail/2331277",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "WTI原油期货价格延续涨势，涨破106美元/桶，日内涨超3%，之前科威特油轮被袭击。 美股期货走低，标普500指数期货现跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3079624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "五大金融机构首席经济学家热议经济趋势：一季度中国GDP增速有望达到5%左右",
-          "url": "https://wallstreetcn.com/livenews/3079620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "中际旭创2025年营收大增60%，净利润翻一倍，拟每10股派10元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3768766",
+          "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
+          "url": "https://wallstreetcn.com/articles/3768856",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "现货黄金跌破4500美元/盎司，日内跌0.24%。",
-          "url": "https://flash.jin10.com/detail/20260331070408921800",
+          "title": "近130只标的入围券商“金股”组合，机构称4月A股有望迎震荡筑底",
+          "url": "https://wallstreetcn.com/livenews/3080426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上个交易日增加1.143吨，当前持仓量为1047.276吨。",
+          "url": "https://flash.jin10.com/detail/20260401062021564800",
           "source": "金十数据",
           "ranks": [
-            13
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "市场监管总局：着力防治平台经济、新能源汽车等重点行业领域内卷式竞争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32861369",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "中东冲突震动全球半导体供应链，氦气现货暴涨超 50%，为什么会这样？氦气涨价，会影响什么？",
-          "url": "https://www.zhihu.com/question/2021584407622940446",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "监管部门密集发文剑指“内卷式”竞争，规范新能源车行业秩序",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32862487",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "锚定新能源和算力两大赛道，50亿元级项目屡见不鲜",
-          "url": "https://wallstreetcn.com/livenews/3079608",
+          "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
+          "url": "https://wallstreetcn.com/livenews/3080416",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "涨价周期开启，半导体产业迎量价齐升新阶段",
-          "url": "https://wallstreetcn.com/livenews/3079605",
-          "source": "华尔街见闻-快讯",
+          "title": "零跑汽车(09863.HK)：近期公司CEO朱江明及股东傅利泉于市场内合共购入5,080,200股本公司H股，平均价格为每股股份约45.10港币，合共增持金额约2.3亿元港币。",
+          "url": "https://flash.jin10.com/detail/20260401061400837800",
+          "source": "金十数据",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "长线资金最新重仓股曝光，机构认为A股市场调整就是机会",
-          "url": "https://wallstreetcn.com/livenews/3079602",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金又突然暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E7%AA%81%E7%84%B6%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         },
         {
-          "title": "A股再融资春潮涌动，“扶优、扶科”激活上市公司创新动能",
-          "url": "https://wallstreetcn.com/livenews/3079600",
+          "title": "机构、个人投资者“不约而同”，股票型基金获显著增持",
+          "url": "https://wallstreetcn.com/livenews/3080409",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
+          "url": "https://flash.jin10.com/detail/20260401070445981800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
-          "title": "央企引领A股公司逾7000亿元派现，“硬科技”板块高分红亮眼",
-          "url": "https://wallstreetcn.com/livenews/3079599",
+          "title": "国家知识产权局：使用OpenClaw等智能体撰写专利申请文件，可能诱发多重风险",
+          "url": "https://wallstreetcn.com/livenews/3080430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "77部作品看到AI创作可能性",
+          "url": "https://search.bilibili.com/all?keyword=77%E9%83%A8%E4%BD%9C%E5%93%81%E7%9C%8B%E5%88%B0AI%E5%88%9B%E4%BD%9C%E5%8F%AF%E8%83%BD%E6%80%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
+          "url": "https://wallstreetcn.com/livenews/3080408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "具身智能领域首份行业标准发布",
-          "url": "https://www.toutiao.com/trending/7622863629935558675/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "复旦教授解析AI冲击职场真相",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%A7%A3%E6%9E%90AI%E5%86%B2%E5%87%BB%E8%81%8C%E5%9C%BA%E7%9C%9F%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "DeepSeek崩溃10多小时为何是“好事”",
-          "url": "https://www.toutiao.com/trending/7622965821714730505/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时34分"
         }
       ]
     }
