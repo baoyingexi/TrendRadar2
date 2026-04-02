@@ -1,237 +1,171 @@
 {
-  "generated_at": "2026-04-02T07:36:47.504997+08:00",
+  "generated_at": "2026-04-03T07:35:40.304409+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 14,
+      "match_count": 11,
       "titles": [
         {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2332707",
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "据韩媒报道，SK海力士考虑在美上市后回购注销股份。",
-          "url": "https://wallstreetcn.com/livenews/3081157",
+          "title": "年内外资机构调研A股热情持续高涨",
+          "url": "https://wallstreetcn.com/livenews/3081840",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "韩国3月CPI年率 2.2%，预期2.4%，前值2.00%。",
-          "url": "https://flash.jin10.com/detail/20260402070002334800",
-          "source": "金十数据",
+          "title": "股价入围A股前20！光纤龙头连日创新高，年内高涨热股扫描，这些特点或可关注",
+          "url": "https://www.cls.cn/detail/2333561",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "GlobalStar美股盘后涨24%，报道称亚马逊洽谈按90亿美元收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3081151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "170家A股公司收“罚单”20家被立案 一季度监管紧盯蹭热点炒概念",
-          "url": "https://www.cls.cn/detail/2332482",
+          "title": "3月A股新开460万户，同环比各创高增，谁正进场逆势布局？",
+          "url": "https://www.cls.cn/detail/2333694",
           "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "韩国3月CPI月率 0.3%，预期0.6%，前值0.30%。",
-          "url": "https://flash.jin10.com/detail/20260402070002321800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
-          "url": "https://www.cls.cn/detail/2332176",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
-          "url": "https://flash.jin10.com/detail/20260402064514420800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "全球星(GSAT.O)美股盘后涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260402064156553800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "逾八成消费电子及家电A股公司2025年实现盈利",
-          "url": "https://wallstreetcn.com/livenews/3081141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "韩国总统李在明：人工智能、核能、氢能技术是创新与韧性的关键，呼吁与法国就此展开合作。",
-          "url": "https://flash.jin10.com/detail/20260402064015575800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "5亿元逆回购创10年新低，分析称4月流动性料维持偏松",
-          "url": "https://wallstreetcn.com/livenews/3081134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "黄金年内回撤达26%",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%B9%B4%E5%86%85%E5%9B%9E%E6%92%A4%E8%BE%BE26%25",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
-          "url": "https://www.zhihu.com/question/2020209448975607009",
-          "source": "知乎",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "AI缺电逻辑持续演绎，燃气轮机需求激增",
-          "url": "https://wallstreetcn.com/livenews/3081142",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260403062237385800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
+          "url": "https://wallstreetcn.com/articles/3769043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "半导体掀涨价潮，相关主题产品持续吸金",
+          "url": "https://wallstreetcn.com/livenews/3081829",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
+          "title": "黄金不再是必选项，FOF多元配置走上求变之路",
+          "url": "https://wallstreetcn.com/livenews/3081825",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
-          "url": "https://www.zhihu.com/question/2011753780459300532",
-          "source": "知乎",
+          "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32878014",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         },
         {
-          "title": "被AI短剧盗脸成丑角 女模特发声",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%ABAI%E7%9F%AD%E5%89%A7%E7%9B%97%E8%84%B8%E6%88%90%E4%B8%91%E8%A7%92+%E5%A5%B3%E6%A8%A1%E7%89%B9%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
+          "url": "https://wallstreetcn.com/livenews/3081838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "07时35分"
         }
       ]
     }
