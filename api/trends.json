@@ -1,130 +1,86 @@
 {
-  "generated_at": "2026-04-03T07:35:40.304409+08:00",
+  "generated_at": "2026-04-04T07:35:01.592492+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 11,
+      "match_count": 7,
       "titles": [
         {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
+          "title": "就在今晚！中东战火下首份非农出炉：美联储会倒向降息还是加息？",
+          "url": "https://www.cls.cn/detail/2334455",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "年内外资机构调研A股热情持续高涨",
-          "url": "https://wallstreetcn.com/livenews/3081840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "股价入围A股前20！光纤龙头连日创新高，年内高涨热股扫描，这些特点或可关注",
-          "url": "https://www.cls.cn/detail/2333561",
+          "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
+          "url": "https://www.cls.cn/detail/2334952",
           "source": "财联社热门",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
+          "title": "两周卖金118吨，价值200亿美元！土耳其上周抛售近70吨黄金，创2013年以来最高纪录",
+          "url": "https://wallstreetcn.com/articles/3769182",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "3月A股新开460万户，同环比各创高增，谁正进场逆势布局？",
-          "url": "https://www.cls.cn/detail/2333694",
-          "source": "财联社热门",
+          "title": "央行将开展8000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
           "ranks": [
-            9
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "IMF呼吁日本央行继续加息",
+          "url": "https://wallstreetcn.com/livenews/3082334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时35分"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓为1050.99吨，较前一个交易日维持不变。",
-          "url": "https://flash.jin10.com/detail/20260403062237385800",
+          "title": "美国商品期货交易委员会（CFTC）：3月31日当周，投机者所持COMEX黄金净多头头寸增加1,097手合约，至93,872手合约。 所持COMEX白银净多头头寸降低至10,816手合约。 所持COMEX铜净多头头寸增加至39,292手合约。 所持NYMEX铂金净多头头寸增加至12,304手合约，创最近15周新高。 所持NYMEX钯金净空头头寸增加至2,000手合约，创大约六个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3082322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，COMEX黄金投机者净多头头寸增加1,098手，至93,872手。COMEX白银投机者将净多头持仓减少99手至10,816手。",
+          "url": "https://flash.jin10.com/detail/20260404033203530800",
           "source": "金十数据",
           "ranks": [
-            9
+            26
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "特朗普即将发表讲话，美股首度“两连涨”，黄金已“四连涨”，华尔街FOMO了",
-          "url": "https://wallstreetcn.com/articles/3769043",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "半导体掀涨价潮，相关主题产品持续吸金",
-          "url": "https://wallstreetcn.com/livenews/3081829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "黄金不再是必选项，FOF多元配置走上求变之路",
-          "url": "https://wallstreetcn.com/livenews/3081825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "杭州市场监管部门对“优思益”幕后推手立案调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32878014",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
@@ -132,38 +88,60 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
-          "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
-          "url": "https://wallstreetcn.com/livenews/3081838",
-          "source": "华尔街见闻-快讯",
+          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
+          "url": "https://www.zhihu.com/question/2022610310935115479",
+          "source": "知乎",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
+          "title": "Claude源码能否让全球AI工具大升级",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "40岁男子AI成瘾无法接受版本更新",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "Meta Platforms Inc.超级智能实验室正在组建硬件团队。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3082317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时35分"
         }
