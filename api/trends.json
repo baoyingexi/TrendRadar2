@@ -1,88 +1,66 @@
 {
-  "generated_at": "2026-04-04T07:35:01.592492+08:00",
+  "generated_at": "2026-04-05T07:31:57.900382+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "就在今晚！中东战火下首份非农出炉：美联储会倒向降息还是加息？",
-          "url": "https://www.cls.cn/detail/2334455",
+          "title": "【早报】消费领域，多个利好来袭；多家A股公司被证监会立案",
+          "url": "https://www.cls.cn/detail/2335221",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "因涉嫌信披违法违规，*ST观典、电科数字被证监会立案",
-          "url": "https://www.cls.cn/detail/2334952",
+          "title": "土耳其两周狂抛近120吨黄金",
+          "url": "https://www.cls.cn/detail/2335361",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
-          "title": "两周卖金118吨，价值200亿美元！土耳其上周抛售近70吨黄金，创2013年以来最高纪录",
-          "url": "https://wallstreetcn.com/articles/3769182",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
-          "title": "央行将开展8000亿元买断式逆回购",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%958000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
-          "title": "IMF呼吁日本央行继续加息",
-          "url": "https://wallstreetcn.com/livenews/3082334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时31分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：3月31日当周，投机者所持COMEX黄金净多头头寸增加1,097手合约，至93,872手合约。 所持COMEX白银净多头头寸降低至10,816手合约。 所持COMEX铜净多头头寸增加至39,292手合约。 所持NYMEX铂金净多头头寸增加至12,304手合约，创最近15周新高。 所持NYMEX钯金净空头头寸增加至2,000手合约，创大约六个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3082322",
-          "source": "华尔街见闻-快讯",
+          "title": "盘中创历史新高A股名单一览：长飞光纤、亨通光电等多只光纤概念股在列",
+          "url": "https://www.cls.cn/detail/2335367",
+          "source": "财联社热门",
           "ranks": [
-            24
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时31分"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至3月31日当周，COMEX黄金投机者净多头头寸增加1,098手，至93,872手。COMEX白银投机者将净多头持仓减少99手至10,816手。",
-          "url": "https://flash.jin10.com/detail/20260404033203530800",
+          "title": "欧洲央行管委：欧洲央行将围绕加息和维持利率不变进行讨论",
+          "url": "https://flash.jin10.com/detail/20260405024739351800",
           "source": "金十数据",
           "ranks": [
-            26
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "欧洲央行管委斯莱普恩：欧洲央行接下来的讨论将围绕加息还是维持利率不变展开。",
+          "url": "https://flash.jin10.com/detail/20260405015140734800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -91,59 +69,59 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "新版软著申请表要求不得使用 AI 编写代码或文档，违者纳入征信记录，对行业有哪些影响？",
-          "url": "https://www.zhihu.com/question/2022610310935115479",
+          "title": "据科威特国家通讯社：无人机袭击后，舒韦赫（Shuwaikh）石油工业区发生火灾，暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260405062637079800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "「同事.skill」爆火，工作经验、业务方法论会被 AI 轻易「窃取」吗？如因此被解雇会受到法律保护吗？",
+          "url": "https://www.zhihu.com/question/2023363667584927528",
           "source": "知乎",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "Claude源码能否让全球AI工具大升级",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%BA%90%E7%A0%81%E8%83%BD%E5%90%A6%E8%AE%A9%E5%85%A8%E7%90%83AI%E5%B7%A5%E5%85%B7%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "title": "Space X并购xAI目的何在",
+          "url": "https://search.bilibili.com/all?keyword=Space%20X%E5%B9%B6%E8%B4%ADxAI%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "40岁男子AI成瘾无法接受版本更新",
-          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E7%94%B7%E5%AD%90AI%E6%88%90%E7%98%BE%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
+          "title": "UP主结合自身经历做清明AI短片",
+          "url": "https://search.bilibili.com/all?keyword=UP%E7%BB%93%E5%90%88%E8%87%AA%E8%BA%AB%E7%BB%8F%E5%8E%86%E5%81%9A%E6%B8%85%E6%98%8EAI%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
+          "appearance_count": 1,
+          "time_info": "07时31分"
         },
         {
-          "title": "AI冲击+侵权,配音演员联合抵制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
-          "title": "Meta Platforms Inc.超级智能实验室正在组建硬件团队。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3082317",
+          "title": "据伊拉克安全及能源部门消息，两架无人机袭击伊拉克鲁迈拉北部油田（Rumaila North Oilfield），造成三名伊拉克工人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3082430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "07时31分"
         }
       ]
     }
