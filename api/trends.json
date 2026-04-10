@@ -1,287 +1,237 @@
 {
-  "generated_at": "2026-04-10T07:38:15.884938+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T07:36:05.259481+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
-          "title": "以黎会谈计划提振停火预期，标普七连涨，半导体指数再新高，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3769555",
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
           "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连升七天 半导体股持续走强 闪迪涨超9%",
-          "url": "https://www.cls.cn/detail/2339795",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "业绩行情持续发酵！千亿龙头连获涨停，季报预告逐步开启，绩优高增个股盘点",
-          "url": "https://www.cls.cn/detail/2339308",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "A股存储厂商2025业绩盘点：模组厂一个季度赚足一年利润 产业链围绕下一轮周期密集落子",
-          "url": "https://www.cls.cn/detail/2339696",
-          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "消息称Anthropic考虑自主研发AI芯片",
-          "url": "https://flash.jin10.com/detail/20260410070524223800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "报道称Anthropic正在考虑自研芯片",
-          "url": "https://wallstreetcn.com/livenews/3085379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "复盘 70 年代滞胀期，千金难买“黄金坑”",
-          "url": "https://wallstreetcn.com/articles/3769541",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "美伊停火持续性存疑 油价反弹美股震荡走弱 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2339594",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "A股如何在油市动荡中保持韧性",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%A6%82%E4%BD%95%E5%9C%A8%E6%B2%B9%E5%B8%82%E5%8A%A8%E8%8D%A1%E4%B8%AD%E4%BF%9D%E6%8C%81%E9%9F%A7%E6%80%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "知情人士称，Anthropic正在考虑自研芯片。",
-          "url": "https://flash.jin10.com/detail/20260410070050096800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "AI超级周期推动需求激增，多家存储芯片企业一季度业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3085370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "燃油成本敏感地区需求提升，新能源汽车出海迎来新增量",
-          "url": "https://wallstreetcn.com/livenews/3085367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.571吨，当前持仓量为1052.419吨。",
-          "url": "https://flash.jin10.com/detail/20260410062543675800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "回购增持“重质提效”，龙头公司“大手笔”传递价值信号",
-          "url": "https://wallstreetcn.com/livenews/3085363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "现货金银、WTI原油周五小幅高开，美股三大股指期货微跌。",
-          "url": "https://flash.jin10.com/detail/20260410060121700800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
           "source": "澎湃新闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "xAI就科罗拉多州新AI法案提起诉讼",
-          "url": "https://flash.jin10.com/detail/20260410070147196800",
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "美国3月CPI同比上涨3.3%低于预期，环比0.9%为近四年最大涨幅，汽油创1967年以来最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3769702",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041025716800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260411041023502800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时36分"
         },
         {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
+          "title": "【数据看盘】多路资金联手抢筹英唐智控 机构与北向资金激烈博弈德明利",
+          "url": "https://www.cls.cn/detail/2340605",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
+          "title": "美伊谈判前夕，标普终结七连阳，半导体撑纳指逆市收涨，原油微跌",
+          "url": "https://wallstreetcn.com/articles/3769671",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "证监会发布创业板改革意见，增设第四套上市标准",
+          "url": "https://wallstreetcn.com/articles/3769674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "A股交易规则为何要进行重大调整",
+          "url": "https://www.toutiao.com/trending/7627093467767770670/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "美国3月核心CPI涨幅低于预期 油价冲击推高通胀但未形成全面扩散",
+          "url": "https://www.cls.cn/detail/2340968",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "3月份CPI同比上涨1.0%",
+          "url": "https://www.douyin.com/hot/2461404",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "中国AI芯片格局反转",
+          "url": "https://www.toutiao.com/trending/7627057914037289014/",
+          "source": "今日头条",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
+          "title": "专家谈“1吨旧手机能提炼200克黄金”",
+          "url": "https://www.toutiao.com/trending/7625953721730121766/",
+          "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时35分 ~ 07时36分]"
         },
         {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
-          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
+          "url": "https://flash.jin10.com/detail/20260411040442253800",
           "source": "金十数据",
           "ranks": [
-            23
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "07时36分"
         }
       ]
     },
     {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 1,
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 4,
       "titles": [
         {
-          "title": "中国自贸试验区扩围至23个，新增内蒙古",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934199",
-          "source": "澎湃新闻",
+          "title": "夫妻称用AI写公众号年赚200万被封号",
+          "url": "https://www.toutiao.com/trending/7626953352832040996/",
+          "source": "今日头条",
           "ranks": [
-            18
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 07时38分]"
+          "time_info": "[07时35分 ~ 07时36分]"
+        },
+        {
+          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
+          "url": "https://flash.jin10.com/detail/20260411041419863800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时35分 ~ 07时36分]"
         }
       ]
     }
