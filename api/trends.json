@@ -1,226 +1,358 @@
 {
-  "generated_at": "2026-04-20T07:37:16.761573+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-21T07:42:58.557412+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 11,
+      "match_count": 20,
       "titles": [
         {
-          "title": "【早报】伊方已恢复对霍尔木兹海峡的控制；半导体行业又迎涨价函",
-          "url": "https://www.cls.cn/detail/2348376",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
-          "url": "https://wallstreetcn.com/articles/3770345",
+          "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3770361",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "光模块设备龙头5天3板 耦合、封装测试设备领域A股名单一览",
-          "url": "https://www.cls.cn/detail/2347686",
-          "source": "财联社热门",
+          "title": "黄仁勋批评美国芯片管制：禁止出口是典型的“失败者心态”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011024",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "应声涨停！A股一季报行情如火如荼 11家上市公司净利最高同比预增超10倍",
-          "url": "https://www.cls.cn/detail/2348319",
+          "title": "乌克兰进入破产倒计时",
+          "url": "https://www.toutiao.com/trending/7629869082791329828/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收跌 市场聚焦美伊紧张局势",
+          "url": "https://www.cls.cn/detail/2350040",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "SK海力士：开始生产专为英伟达Vera Rubin芯片设计的SOCAMM2芯片。",
-          "url": "https://flash.jin10.com/detail/20260420073102653800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "07时42分"
         },
         {
-          "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3770342",
+          "title": "高盛交易员：美股已经做好本周回调的准备",
+          "url": "https://wallstreetcn.com/articles/3770364",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "沪指涨近0.8%，商业航天、光纤集体爆发，立讯精密涨停，恒科指涨0.5%，AI应用大涨、群核科技飙涨100%",
+          "url": "https://wallstreetcn.com/articles/3770370",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "新西兰第一季度CPI年率 3.1%，预期2.9%，前值3.10%。",
+          "url": "https://flash.jin10.com/detail/20260421064502905800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "新西兰第一季度CPI季率 0.9%，预期0.8%，前值0.60%。",
+          "url": "https://flash.jin10.com/detail/20260421064502890800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "年报季透视A股：逾1700家上市公司拟分红",
+          "url": "https://wallstreetcn.com/livenews/3091373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "纽元兑美元短线走高，整体涨幅扩大至0.34%，报0.5909。 最新数据显示，新西兰一季度CPI同比升幅维持在3.1%不变，分析师预期放缓至2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3091371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "新西兰一季度可贸易通胀（Tradeable CPI）季环比上升0.7%，预期上升0.6%，前值上升0.7%。 一季度可贸易通胀同比上升1.1%，预期上升0.9%，前值上升0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3091370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "新西兰一季度CPI季环比 0.9%，预期 0.8%，前值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3091369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "新西兰一季度CPI同比 3.1%，预期 2.9%，前值 3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3091368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "做多半导体成“最拥挤交易”，全球机构跳出“抱团”寻觅细分方向",
+          "url": "https://wallstreetcn.com/livenews/3091364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.857吨，当前持仓量为1059.762吨。",
+          "url": "https://flash.jin10.com/detail/20260421061750678800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "是谁在疯狂买中国芯片",
+          "url": "https://www.toutiao.com/trending/7630689294415302198/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "A股突现重大资产重组新模式",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AA%81%E7%8E%B0%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "芯片不卖中国,黄仁勋急了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            9
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "环球下周看点：美伊临时停火即将到期 特斯拉等题材牛股发布财报",
-          "url": "https://www.cls.cn/detail/2348368",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "A股新股王诞生了",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%96%B0%E8%82%A1%E7%8E%8B%E8%AF%9E%E7%94%9F%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "金十图示：2026年04月20日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260420064626717800",
+          "title": "现货黄金周二小幅高开0.2%。",
+          "url": "https://flash.jin10.com/detail/20260421060151181800",
           "source": "金十数据",
           "ranks": [
-            16
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "国际油价大幅高开，美股期货跌近1%",
-          "url": "https://wallstreetcn.com/livenews/3090667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "07时42分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
-          "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
-          "url": "https://www.zhihu.com/question/2028817450829976782",
-          "source": "知乎",
+          "title": "七嘴八舌 | 爱奇艺的“先斩后奏”，才是这场“AI艺人库”风波的雷点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011101",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
-          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "title": "污染数据、操控榜单 你信任的AI可能已被“投毒”",
+          "url": "https://flash.jin10.com/detail/20260421065051985800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "AI围剿影视圈,演员签卖身契",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "华为首款鸿蒙AI眼镜亮相，Pura 90系列定价持平上代，余承东：单机成本涨1500元，扛不住可能涨价！",
+          "url": "https://wallstreetcn.com/articles/3770390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "钉钉 CEO 称严禁员工写文档、做会议纪要，沟通仅用白板，全靠 AI 自动整理，这种办公理念怎么样？",
+          "url": "https://www.zhihu.com/question/2029565174948914400",
           "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "title": "马上评｜“AI艺人库”来了，爱奇艺到底在打什么算盘",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011850",
           "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "up主转战AI动画遭手绘党声讨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
-          "source": "贴吧",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "刺猬猫AI文霸榜,作者魔法对轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353412&amp;topic_name=%E5%88%BA%E7%8C%AC%E7%8C%ABAI%E6%96%87%E9%9C%B8%E6%A6%9C%2C%E4%BD%9C%E8%80%85%E9%AD%94%E6%B3%95%E5%AF%B9%E8%BD%B0",
-          "source": "贴吧",
+          "title": "曝王楚然早就融了AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%97%A9%E5%B0%B1%E8%9E%8D%E4%BA%86AI%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "title": "爱奇艺称AI艺人库仅是合作意愿",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%A7%B0AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%BB%85%E6%98%AF%E5%90%88%E4%BD%9C%E6%84%8F%E6%84%BF%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "女子酒窝超大被网友怀疑是AI",
+          "url": "https://www.toutiao.com/trending/7630464363427069993/",
           "source": "今日头条",
           "ranks": [
-            29
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "北斗时空智能装备助力人形机器人“自主奔跑”",
-          "url": "https://wallstreetcn.com/livenews/3090675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时37分"
+          "time_info": "07时42分"
+        },
+        {
+          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
+          "url": "https://flash.jin10.com/detail/20260421060257230800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "华为发布首款鸿蒙AI眼镜 2499元起售",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E7%9C%BC%E9%95%9C+2499%E5%85%83%E8%B5%B7%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         }
       ]
     }
