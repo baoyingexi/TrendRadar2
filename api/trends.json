@@ -1,259 +1,226 @@
 {
-  "generated_at": "2026-05-04T07:45:07.508077+08:00",
+  "generated_at": "2026-05-05T07:55:02.714520+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "下周重磅日程：美国非农、中国进出口、AMD及光模块巨头财报",
-          "url": "https://wallstreetcn.com/articles/3771488",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "伯克希尔一季度净利润增长120%，现金储备创纪录达3970亿美元，连续14个季度净抛售股票｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771492",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "张雪机车WSBK再夺冠 A股“朋友圈”不断刷新：谁将分享胜利？",
-          "url": "https://www.cls.cn/detail/2362321",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "社保基金最新持仓动向揭秘！Q1新进282只个股前十大流通股东榜，圣农发展获增持家数最多",
-          "url": "https://www.cls.cn/detail/2360769",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "湃用场丨消费者投诉后被指因“不良体验”账户被顺丰拉黑，律师称封禁涉嫌违约",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33093336",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260504065651320800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "周一亚太盘初，布伦特原油期货跌2.4%，WTI原油期货跌1.6%，美国打算引导船只通过霍尔木兹海峡。 白银跌0.9%，黄金跌0.5%。 美国三大股指期货涨0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3098321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260504060507166800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "周一开盘，现货黄金高开10美元，报4624.39美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260504060229322800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "美国财长贝森特：特朗普应该因英特尔投资获利而受到表扬。 人们应该担心人工智能可能对银行进行黑客攻击。",
-          "url": "https://wallstreetcn.com/livenews/3098298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        }
-      ]
-    },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
       "match_count": 10,
       "titles": [
         {
-          "title": "“AI铲子”统治市场，下一个赢家是谁？高盛和SemiAnalysis激辩“核心分歧”",
-          "url": "https://wallstreetcn.com/articles/3771504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "湖南经视启用 AI 主播播新闻，这会成为一种趋势吗？你觉得 AI 主播怎么样？",
-          "url": "https://www.zhihu.com/question/2034308747380482937",
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
           "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "高盛合伙人：“AI叙事”统治市场，但别忘记“云大厂已将100%现金流用于资本开支”",
-          "url": "https://wallstreetcn.com/articles/3771503",
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "两年前质疑“AI花太多、赚太少”，高盛研究主管承认“看错了”，但“铲子已被充分定价，现在看多云”",
-          "url": "https://wallstreetcn.com/articles/3771505",
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "云南的水果像极了AI生成的",
-          "url": "https://www.douyin.com/hot/2486796",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
-        },
-        {
-          "title": "央视披露公司用AI替岗35岁主管详情",
-          "url": "https://www.toutiao.com/trending/7635183364001234963/",
-          "source": "今日头条",
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "湖南广电 AI播新闻",
-          "url": "https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%B9%BF%E7%94%B5%20AI%E6%92%AD%E6%96%B0%E9%97%BB&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "AI主播上电视,虚拟人抢饭碗?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353984&amp;topic_name=AI%E4%B8%BB%E6%92%AD%E4%B8%8A%E7%94%B5%E8%A7%86%2C%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%8A%A2%E9%A5%AD%E7%A2%97%3F",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
           "url": "https://www.cls.cn/detail/2362279",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
+          "title": "马上评｜AI替岗，还是“科技向善”吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33096788",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中东局势再吃紧，标普盘中转跌，道指跌超1%，存储芯片股逆市走高，布油一度涨超6%",
+          "url": "https://wallstreetcn.com/articles/3771519",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "赛道挤爆,AI短剧收益不够电费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
-          "source": "贴吧",
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时44分 ~ 07时45分]"
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "张雪机车WSBK再夺冠 A股“朋友圈”不断刷新：谁将分享胜利？",
+          "url": "https://www.cls.cn/detail/2362321",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "社保基金最新持仓动向揭秘！Q1新进282只个股前十大流通股东榜，圣农发展获增持家数最多",
+          "url": "https://www.cls.cn/detail/2360769",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "牛散集体换仓：科技稀土黄金成新猎物",
+          "url": "https://www.toutiao.com/trending/7636037468252278318/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1035.768吨。",
+          "url": "https://flash.jin10.com/detail/20260505062642307800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "古根海姆CIO Anne Walsh：预计美联储将在2026年降息一次。",
+          "url": "https://wallstreetcn.com/livenews/3098645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "美股行业ETF多数收跌，航空业ETF、银行业ETF至少跌1.2%，能源ETF涨超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3098672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     }
