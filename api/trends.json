@@ -1,237 +1,270 @@
 {
-  "generated_at": "2026-05-08T07:53:35.329949+08:00",
+  "generated_at": "2026-05-09T07:56:43.129031+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
+          "title": "证监会查处2起上市公司财务造假案件",
+          "url": "https://www.cls.cn/detail/2366406",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "全球芯片巨头集体上涨，三星电子股价涨超 14%，SK 海力士股价涨近 11%，这次半导体景气周期能持续多久？",
-          "url": "https://www.zhihu.com/question/2035641160987664939",
-          "source": "知乎",
+          "title": "非农缓解“滞胀”担忧，芯片股力撑美股新高，英特尔暴涨14%，伊朗局势不明，油价承压横盘",
+          "url": "https://wallstreetcn.com/articles/3771825",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "“人工智能+”走向智能经济新形态",
-          "url": "https://www.toutiao.com/trending/7636674300020015155/",
-          "source": "今日头条",
+          "title": "“台湾病例与邮轮事件无关联” A股“汉坦病毒”概念躁动背后有几分真实需求？",
+          "url": "https://www.cls.cn/detail/2366511",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
+          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
+          "url": "https://wallstreetcn.com/livenews/3100961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
+          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100960",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "英伟达“亲儿子”CoreWeave今夜迎财报大考！暴涨245%后，市场开始担心三件事",
-          "url": "https://wallstreetcn.com/articles/3771762",
+          "title": "高盛：超配中国，A股优于H股，将沪深300目标位设于5300点",
+          "url": "https://wallstreetcn.com/articles/3771813",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "A股总市值突破120万亿大关，创业板刷新逾10年新高，算力硬件再爆发，恒科指大涨3%，离岸人民币升破6.8",
-          "url": "https://wallstreetcn.com/articles/3771709",
+          "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
+          "url": "https://www.cls.cn/detail/2366633",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
+          "url": "https://www.cls.cn/detail/2366454",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美股信息科技指数收涨约4.2%",
+          "url": "https://wallstreetcn.com/livenews/3100957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "“滞胀交易”席卷市场，今晚非农要多差，才能重启降息预期？",
+          "url": "https://wallstreetcn.com/articles/3771837",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
-          "url": "https://wallstreetcn.com/articles/3771769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "分析人士：美伊和平协议若落地 黄金白银“超级牛市”有望重启",
-          "url": "https://www.cls.cn/detail/2365388",
+          "title": "【焦点复盘】沪指录得周线5连阳，市场连续3日现百股涨停，算力硬件股不改强势",
+          "url": "https://www.cls.cn/detail/2366195",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "上证报调查：近七成投资者看涨二季度，A股配置意愿保持稳定",
-          "url": "https://wallstreetcn.com/livenews/3100244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "黄金关键信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%85%B3%E9%94%AE%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.286吨，当前持仓量为1033.483吨。",
-          "url": "https://flash.jin10.com/detail/20260508062054764800",
+          "title": "标普：军事局势缓和将缓解供给侧压力，推动以色列2027年实际GDP增速接近6%。",
+          "url": "https://flash.jin10.com/detail/20260509040836632800",
           "source": "金十数据",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "为确保芯片供应，科技巨头们抛出空前橄榄枝：对SK海力士“围追堵截”",
-          "url": "https://wallstreetcn.com/livenews/3100232",
+          "title": "嗨不动,网红自嗨锅宣布破产",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354096&amp;topic_name=%E5%97%A8%E4%B8%8D%E5%8A%A8%2C%E7%BD%91%E7%BA%A2%E8%87%AA%E5%97%A8%E9%94%85%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "周五（5月8日），美股存储芯片与硬件供应链指数收涨8.05%，报188.37点，创收盘历史新高，本周累计上涨18.60%。 成分股悉数走高，Sandisk收涨16.60%，美光科技涨15.49%，应用材料、西部数据、拉姆研究、希捷科技、Rambus、泰瑞达TER涨6.04%-1.60%。",
+          "url": "https://wallstreetcn.com/livenews/3100945",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105217",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "OpenAI推出新模型，以供网络安全团队使用",
-          "url": "https://flash.jin10.com/detail/20260508065544953800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
-          "url": "https://wallstreetcn.com/livenews/3100252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "一张打印照片秒开智能门锁",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BC%A0%E6%89%93%E5%8D%B0%E7%85%A7%E7%89%87%E7%A7%92%E5%BC%80%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81",
-          "source": "百度热搜",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "加码科技金融，中小银行盼AIC试点扩容",
-          "url": "https://wallstreetcn.com/livenews/3100243",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年05月08日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040608974800",
+          "source": "金十数据",
           "ranks": [
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
         },
         {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "title": "华谊兄弟的破产溃败史",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E7%9A%84%E7%A0%B4%E4%BA%A7%E6%BA%83%E8%B4%A5%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时56分"
+        },
+        {
+          "title": "金十图示：2026年05月08日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260509040559474800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美股收盘：存储、CPU四大牛股均涨超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E3%80%81CPU%E5%9B%9B%E5%A4%A7%E7%89%9B%E8%82%A1%E5%9D%87%E6%B6%A8%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美联储报告：地缘政治风险、石油冲击、人工智能、私人信贷以及持续通胀/货币紧缩是威胁美国金融稳定的五大主要风险。",
+          "url": "https://flash.jin10.com/detail/20260509040340876800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美联储调查显示，在2026年春季调查中，受访者将地缘政治风险列为首要风险，较2025年秋季调查上升一位； 人工智能从第5位升至第3位；私营信贷从第9位升至第4位；通胀/货币紧缩从第3位降至第5位。",
+          "url": "https://flash.jin10.com/detail/20260509040303732800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "三部门联合印发《智能体规范应用与创新发展实施意见》",
+          "url": "https://www.cls.cn/detail/2366263",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
+          "url": "https://wallstreetcn.com/livenews/3100934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "私募和AI合体意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
