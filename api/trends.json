@@ -1,314 +1,281 @@
 {
-  "generated_at": "2026-05-10T07:50:31.002994+08:00",
+  "generated_at": "2026-05-11T07:53:11.995619+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 16,
+      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
+      "match_count": 17,
       "titles": [
         {
-          "title": "报道：字节跳动计划将AI基础设施支出增加25%",
-          "url": "https://wallstreetcn.com/articles/3771900",
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
-          "source": "澎湃新闻",
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "一季度智能消费设备制造表现亮眼",
-          "url": "https://www.douyin.com/hot/2493758",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
-          "url": "https://wallstreetcn.com/articles/3771878",
+          "title": "芯片股狂潮，还在加速",
+          "url": "https://wallstreetcn.com/articles/3771924",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
-          "url": "https://wallstreetcn.com/articles/3771893",
+          "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
+          "url": "https://wallstreetcn.com/articles/3771915",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
-          "url": "https://www.cls.cn/detail/2366815",
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "AI修复美国公布UFO照片",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
-          "source": "bilibili 热搜",
+          "title": "A股900亿红包来了！工行、农行下周同日派息",
+          "url": "https://www.cls.cn/detail/2367236",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
-          "url": "https://www.cls.cn/detail/2366733",
+          "title": "中韩半导体ETF华泰柏瑞、全球芯片LOF明日停牌一小时",
+          "url": "https://www.cls.cn/detail/2367295",
           "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
+          "url": "https://www.cls.cn/detail/2367192",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "苹果被曝支付巨额溢价以确保 A18 Pro 芯片的供应，反映了哪些问题？成本会转嫁给用户吗？",
+          "url": "https://www.zhihu.com/question/2035848170890948934",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "高溢价之忧！上交所因何重点监控全球芯片LOF，还有哪些高溢价品种要提防风险？",
+          "url": "https://www.cls.cn/detail/2367249",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "新能源车被“锁电”了怎么办",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E8%A2%AB%E2%80%9C%E9%94%81%E7%94%B5%E2%80%9D%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "金十图示：2026年05月11日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260511065605577800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "07时53分"
         },
         {
-          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
-          "url": "https://www.cls.cn/detail/2367033",
-          "source": "财联社热门",
+          "title": "券商：A股“红五月”格局有望延续，聚焦科技、资源两大景气方向",
+          "url": "https://wallstreetcn.com/livenews/3101188",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "07时53分"
         },
         {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
+          "title": "周一亚太盘初，标普、道指期货跌超0.2%，纳指期货跌0.1%。 COMEX黄金期货跌超0.5%，报4705美元；现货黄金跌0.3%，报4698美元。 白银跌1.2%，报79.91美元。",
+          "url": "https://wallstreetcn.com/livenews/3101183",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时50分"
+          "time_info": "07时53分"
         },
         {
-          "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
-          "url": "https://www.zhihu.com/question/2036152296388523178",
+          "title": "美伊未达成一致：原油走高3% 黄金跌破4700",
+          "url": "https://flash.jin10.com/detail/20260511061124258800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "现货黄金周一低开近20美元，现报4699.3美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511060153180800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
           "source": "知乎",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
           "url": "https://www.cls.cn/detail/2367077",
           "source": "财联社热门",
           "ranks": [
-            12
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "Deepseek和阿里谈崩了？市场人士回应",
-          "url": "https://www.baidu.com/s?wd=Deepseek%E5%92%8C%E9%98%BF%E9%87%8C%E8%B0%88%E5%B4%A9%E4%BA%86%EF%BC%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3101062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "国安部：某手机芯片厂漏洞被不法分子利用",
-          "url": "https://www.toutiao.com/trending/7637696506077875758/",
+          "title": "AI正在污染我们的判断力",
+          "url": "https://www.toutiao.com/trending/7638257796718267946/",
           "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33144435",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "编造芯片订单虚假信息，获利不足300元，2人被罚45万",
-          "url": "https://www.cls.cn/detail/2366813",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
-          "url": "https://www.cls.cn/detail/2366780",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美联储降息理由日益枯竭，沃什接棒面临棘手局面",
-          "url": "https://wallstreetcn.com/articles/3771899",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "美国破产城市底特律吃什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A0%B4%E4%BA%A7%E5%9F%8E%E5%B8%82%E5%BA%95%E7%89%B9%E5%BE%8B%E5%90%83%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
-          "url": "https://wallstreetcn.com/livenews/3101079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-          "url": "https://wallstreetcn.com/livenews/3101076",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "A股新主线终于浮出水面",
-          "url": "https://www.toutiao.com/trending/7637893630325165622/",
-          "source": "今日头条",
+          "title": "GAI新歌太费口红",
+          "url": "https://www.douyin.com/hot/2494398",
+          "source": "抖音",
           "ranks": [
-            16
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "直播间工作人员偷走近600件黄金饰品",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E6%92%AD%E9%97%B4%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%B7%E8%B5%B0%E8%BF%91600%E4%BB%B6%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81",
-          "source": "百度热搜",
+          "title": "AI时代如何评价各专业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         },
         {
-          "title": "新债王：若黄金跌到3500美元会买入",
-          "url": "https://www.toutiao.com/trending/7636742093431636022/",
-          "source": "今日头条",
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 07时53分]"
         }
       ]
     }
