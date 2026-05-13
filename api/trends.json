@@ -1,70 +1,15 @@
 {
-  "generated_at": "2026-05-13T07:59:49.413894+08:00",
+  "generated_at": "2026-05-14T07:59:20.437192+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 22,
+      "match_count": 15,
       "titles": [
         {
-          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
-          "url": "https://www.zhihu.com/question/2037578815958947124",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "CPO龙头强势晋级！A股首次5只千元股同框，这些板块涌现最多",
-          "url": "https://www.cls.cn/detail/2369188",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "多地加大存量房收购力度 努力稳定房地产市场",
-          "url": "https://wallstreetcn.com/livenews/3102579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "通胀烫得发红！美国4月CPI同比3.8%创近三年新高，核心CPI涨幅扩大至2.8%",
-          "url": "https://wallstreetcn.com/articles/3772095",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2369590",
+          "title": "美股收盘：纳指、标普指数再创新高 中概股与芯片股强势反弹",
+          "url": "https://www.cls.cn/detail/2370687",
           "source": "财联社热门",
           "ranks": [
             3
@@ -74,20 +19,9 @@
           "time_info": "07时59分"
         },
         {
-          "title": "新能源车零售渗透率达到 61.4%，首次突破 60% 大关，如何看待这一数据？燃油车还有未来吗？",
-          "url": "https://www.zhihu.com/question/2037167038641198584",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美国4月CPI超预期升温 通胀近3年来首次完全吞噬工资增长",
-          "url": "https://www.cls.cn/detail/2369439",
-          "source": "财联社热门",
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
@@ -96,41 +30,8 @@
           "time_info": "07时59分"
         },
         {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
-          "url": "https://wallstreetcn.com/articles/3772081",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量调整跌0.25%，全市场超4000股飘绿，半导体设备股强者恒强",
-          "url": "https://www.cls.cn/detail/2369163",
+          "title": "美股首只纯存储ETF，刷新华尔街史上最快规模增长纪录",
+          "url": "https://www.cls.cn/detail/2370478",
           "source": "财联社热门",
           "ranks": [
             7
@@ -140,9 +41,9 @@
           "time_info": "07时59分"
         },
         {
-          "title": "美国4月CPI同比升3.8% 三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2369380",
-          "source": "财联社热门",
+          "title": "美国4月PPI飙升至2022年来最高，能源成本单月暴涨7.8%，加息押注升温",
+          "url": "https://wallstreetcn.com/articles/3772201",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
@@ -151,9 +52,42 @@
           "time_info": "07时59分"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "思科美股盘后大涨20%，此前发布财报。",
+          "url": "https://wallstreetcn.com/livenews/3103271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "阿里巴巴公布第四季度财报",
+          "url": "https://www.douyin.com/hot/2497914",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "AI转型加速，腾讯Q1营收同比增9%，净利润大增21%，资本开支达370亿元｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772181",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "思科(CSCO.O)美股盘后大涨20%，其业绩指引超预期。",
+          "url": "https://flash.jin10.com/detail/20260514074304593800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
@@ -162,9 +96,9 @@
           "time_info": "07时59分"
         },
         {
-          "title": "周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。 成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多跌3.61%，应用材料、拉姆研究、泰瑞达TER至少跌2.23%。",
-          "url": "https://wallstreetcn.com/livenews/3102555",
-          "source": "华尔街见闻-快讯",
+          "title": "不少车主反映停车位「缩水」，而新能源车身普遍变宽停车越来越难，停车位真的缩水了吗？宽度标准该调整了吗？",
+          "url": "https://www.zhihu.com/question/2037631560241739641",
+          "source": "知乎",
           "ranks": [
             15
           ],
@@ -173,9 +107,31 @@
           "time_info": "07时59分"
         },
         {
-          "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
-          "url": "https://wallstreetcn.com/livenews/3102552",
+          "title": "国产芯片光刻胶获重大突破",
+          "url": "https://www.toutiao.com/trending/7638898193062035466/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "首季实质违约主体“零”新增背后：城投债和地产债券风险缓释持续推进",
+          "url": "https://wallstreetcn.com/livenews/3103258",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "美联储高官放鹰：柯林斯称“可能需要加息”",
+          "url": "https://flash.jin10.com/detail/20260514072413004800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
@@ -184,9 +140,9 @@
           "time_info": "07时59分"
         },
         {
-          "title": "美国4月CPI调整意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4%E6%9C%88CPI%E8%B0%83%E6%95%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
+          "title": "需求稳步复苏，A股小金属板块公司业绩向好",
+          "url": "https://wallstreetcn.com/livenews/3103254",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
@@ -195,53 +151,20 @@
           "time_info": "07时59分"
         },
         {
-          "title": "境外收入逾12万亿元，A股上市公司出海迈入提质增效新阶段",
-          "url": "https://wallstreetcn.com/livenews/3102546",
-          "source": "华尔街见闻-快讯",
+          "title": "RICS市场研究与分析主管塔兰特·帕森斯：英国房地产市场正受到中东冲突带来的宏观不利因素的影响。英国央行近期发出警告，称可能需要提高利率以应对由油价高企和供应链中断引发的新一轮通胀，这凸显了买家面临的严峻环境。",
+          "url": "https://flash.jin10.com/detail/20260514070421455800",
+          "source": "金十数据",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
         {
-          "title": "分析人士：当前我国暂无全面持续的通胀压力，货币政策不会转向收紧，降准降息落地时点可能延后",
-          "url": "https://wallstreetcn.com/livenews/3102543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "存储芯片股重挫",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E8%82%A1%E9%87%8D%E6%8C%AB%23&t=31&band_rank=27&Refer=top",
+          "title": "美股芯片股遭抛售潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE%E6%BD%AE%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌",
-          "url": "https://www.toutiao.com/trending/7638500151543250971/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "周二（5月12日），美股人工智能（AI）赢家指数跌2.35%，报391.38点，整体呈现出平坦的V形走势、北京时间00:54刷新日低至391.38点。成分股Fluence Energy收跌15.66%，闪迪跌6.17%，CoreWeave跌6.06%，Lumentum Holdings跌5.77%，核电股Oklo跌5.76%，西部数据跌5.25%，康宁公司跌4.41%跌幅第七大，英伟达涨0.61%表现第六，Meta涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3102557",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
@@ -253,23 +176,45 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
+          "title": "阿里电话会：AI ARR年底超过300亿元，服务器“没有一张卡是闲置的” ，资本支出将超过3800亿元",
+          "url": "https://wallstreetcn.com/articles/3772197",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
         {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
+          "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
+          "url": "https://wallstreetcn.com/articles/3772184",
           "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "马化腾回应AI掉队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
             9
           ],
@@ -278,9 +223,9 @@
           "time_info": "07时59分"
         },
         {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
+          "title": "富国银行：AI就是泡沫，但在破裂前投资者应顺势而为",
+          "url": "https://www.cls.cn/detail/2370586",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
@@ -289,8 +234,8 @@
           "time_info": "07时59分"
         },
         {
-          "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
-          "url": "https://www.cls.cn/detail/2369195",
+          "title": "AI订单大爆发 思科全年业绩指引超预期 股价盘后暴涨17%",
+          "url": "https://www.cls.cn/detail/2370695",
           "source": "财联社热门",
           "ranks": [
             12
@@ -300,22 +245,11 @@
           "time_info": "07时59分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
