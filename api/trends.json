@@ -1,221 +1,270 @@
 {
-  "generated_at": "2026-05-17T07:53:45.051552+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-18T07:57:47.546838+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2373180",
+          "title": "周末要闻汇总：中美经贸磋商初步成果公布；巨力索具涉嫌信息披露误导性陈述违法违规被证监会立案",
+          "url": "https://www.cls.cn/detail/2373372",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
-          "url": "https://www.cls.cn/detail/2373077",
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
+          "url": "https://www.cls.cn/detail/2373269",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2373180",
           "source": "财联社热门",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
-          "url": "https://www.zhihu.com/question/2038931746901710643",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "阿斯麦与塔塔电子达成合作，推进印度芯片计划",
-          "url": "https://wallstreetcn.com/livenews/3104816",
-          "source": "华尔街见闻-快讯",
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "“新债王”冈拉克：“4字头”通胀要来，美联储降息没戏",
+          "url": "https://flash.jin10.com/detail/20260518072345232800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "全球最大对冲基金调仓大动作：大举加仓芯片 全面清仓软件股",
+          "url": "https://www.cls.cn/detail/2373077",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
           "url": "https://www.cls.cn/detail/2373172",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "荷兰首相：阿斯麦(ASML.O)和塔塔电子也共同签署了一份声明，这是在半导体领域更紧密合作的重要一步。",
-          "url": "https://flash.jin10.com/detail/20260517035356823800",
+          "title": "本周重要事件与数据预告：LPR、国内成品油调价、英伟达财报",
+          "url": "https://flash.jin10.com/detail/20260518065746416800",
           "source": "金十数据",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "巨力索具被立案调查背后",
-          "url": "https://www.toutiao.com/trending/7640440252875689522/",
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "金十图示：2026年05月18日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260518064403252800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "别错过孩子身高黄金干预期",
+          "url": "https://www.toutiao.com/trending/7640737791575556147/",
           "source": "今日头条",
           "ranks": [
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "下周A股将有53家公司有限售股份解禁，总解禁市值达591.05亿元",
-          "url": "https://wallstreetcn.com/livenews/3104790",
-          "source": "华尔街见闻-快讯",
+          "title": "现货黄金站上4550美元/盎司，日内涨0.26%。",
+          "url": "https://flash.jin10.com/detail/20260518060522768800",
+          "source": "金十数据",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
+        },
+        {
+          "title": "现货黄金开跌0.2%，现货白银开盘快速跌1%。",
+          "url": "https://flash.jin10.com/detail/20260518060131657800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "A股科创板整体暴涨",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E7%A7%91%E5%88%9B%E6%9D%BF%E6%95%B4%E4%BD%93%E6%9A%B4%E6%B6%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "全球通胀加剧债市风暴，动摇AI牛市，“现在一切取决于石油”",
-          "url": "https://wallstreetcn.com/articles/3772409",
-          "source": "华尔街见闻",
+          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
+          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
+          "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "万字拆解AI瓶颈：磷化铟紧缺已是“灾难”，下一个爆发点在“电网保卫战”",
-          "url": "https://wallstreetcn.com/articles/3772419",
-          "source": "华尔街见闻",
+          "title": "Token工厂落地无锡 依托华为昇腾384集群 算力进入“智能单元计费”时代",
+          "url": "https://www.cls.cn/detail/2373394",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "这一次，真的不一样！野村：拥抱AI新常态，三星、海力士估值应参考台积电",
-          "url": "https://wallstreetcn.com/articles/3772426",
-          "source": "华尔街见闻",
+          "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
+          "url": "https://wallstreetcn.com/livenews/3104924",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
-          "title": "桥头断裂人群四散奔逃？男子用AI恶意造谣“张家界玻璃桥坍塌”被刑拘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33183822",
-          "source": "澎湃新闻",
+          "title": "AI预测世界杯西班牙夺冠",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
-          "url": "https://www.zhihu.com/question/2038402853274915914",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         },
         {
           "title": "AI全员娘化,豆包变呆瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内蒙古交通集团有限公司原党委副书记、总经理、董事刘学武严重违纪违法被开除党籍。（中央纪委国家监委网站）",
-          "url": "https://wallstreetcn.com/livenews/3104793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "07时57分"
         }
       ]
     }
