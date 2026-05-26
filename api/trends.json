@@ -1,270 +1,226 @@
 {
-  "generated_at": "2026-05-25T08:00:35.125854+08:00",
+  "generated_at": "2026-05-26T08:06:06.135550+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 16,
+      "match_count": 15,
       "titles": [
         {
-          "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
-          "url": "https://wallstreetcn.com/articles/3772885",
-          "source": "华尔街见闻",
+          "title": "宇树科技6月1日上会迎考 冲击A股“人形机器人第一股”",
+          "url": "https://www.cls.cn/detail/2381067",
+          "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "7只半导体热门股拟套现近127亿",
-          "url": "https://s.weibo.com/weibo?q=%237%E5%8F%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%83%AD%E9%97%A8%E8%82%A1%E6%8B%9F%E5%A5%97%E7%8E%B0%E8%BF%91127%E4%BA%BF%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "华为正式发表“韬（τ）定律”！今秋面世的麒麟手机芯片性能将大幅提升",
+          "url": "https://wallstreetcn.com/articles/3773020",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "华为τ缩放：芯片竞争从“节点”转向“时间”",
+          "url": "https://wallstreetcn.com/articles/3773040",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "现货黄金日内涨幅扩大至1.5%，现货白银涨幅扩大至4%。",
-          "url": "https://wallstreetcn.com/livenews/3108567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "年内已有22家港股公司退市",
-          "url": "https://wallstreetcn.com/livenews/3108566",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "A股市场波动有所放大 科技主线韧性仍存 机构：建议聚焦盈利兑现和高景气方向",
-          "url": "https://flash.jin10.com/detail/20260525072259845800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
-          "url": "https://wallstreetcn.com/articles/3772987",
-          "source": "华尔街见闻",
+          "title": "板块成交额突破万亿！电子股持续“吸金”，涨停股中占比两成，哪些标的为“常客”？",
+          "url": "https://www.cls.cn/detail/2380804",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "龙头20CM三连板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2380086",
+          "title": "【焦点复盘】创业板指涨逾2%收复4000点，全市场连续2日超百股涨停，科创芯片股批量创历史新高",
+          "url": "https://www.cls.cn/detail/2380774",
           "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "7只半导体热门股拟套现127亿",
-          "url": "https://www.douyin.com/hot/2510898",
-          "source": "抖音",
+          "title": "创业板涨超2%，科创50狂飙近6%，芯片半导体大爆发，中芯国际涨停、寒武纪创历史新高，“双焦”强势涨停",
+          "url": "https://wallstreetcn.com/articles/3773021",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "A股出现三大异象",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%87%BA%E7%8E%B0%E4%B8%89%E5%A4%A7%E5%BC%82%E8%B1%A1%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "新能源车维保为何只能去4S店",
+          "url": "https://www.toutiao.com/trending/7642712773907349545/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "黄金三个月跌了近20% 后市如何",
+          "url": "https://www.toutiao.com/trending/7643815607711829513/",
+          "source": "今日头条",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "四家沪市ST公司同日“谢幕”，A股退市常态化持续深化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33221413",
-          "source": "澎湃新闻",
+          "title": "芯片半导体暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8A%AF%E7%89%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "A股市场波动有所放大，科技主线韧性仍存，机构：建议聚焦盈利兑现和高景气方向",
-          "url": "https://wallstreetcn.com/livenews/3108558",
+          "title": "现货黄金亚盘小幅承压 美军在伊朗南部实施自卫打击",
+          "url": "https://flash.jin10.com/detail/20260526075044100800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "多家半导体上市公司，披露重要股东减持计划",
+          "url": "https://wallstreetcn.com/livenews/3109057",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "08时06分"
         },
         {
-          "title": "金十整理：本周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
-          "url": "https://flash.jin10.com/detail/20260525065625777800",
+          "title": "现货黄金短线走低逾10美元，现报4568.77美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260526073015112800",
           "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "08时06分"
         },
         {
-          "title": "现货黄金突破4560美元/盎司，日内涨1.17%。",
-          "url": "https://flash.jin10.com/detail/20260525063236258800",
+          "title": "美股三大股指期货涨幅收窄，纳斯达克100指数期货现涨1%，道指期货、标普500指数期货涨约0.7%。",
+          "url": "https://flash.jin10.com/detail/20260526072611689800",
           "source": "金十数据",
           "ranks": [
-            18
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "08时06分"
         },
         {
-          "title": "美股三大股指期货走高，标普500期货、道指期货涨约0.5%，纳斯达克100期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260525060644652800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
+          "title": "智利政府预计2026年预算赤字对GDP占比为2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3109034",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260525060643592800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "现货黄金日内涨幅达1.00%，现报4552.92美元/盎司。纽约期银日内涨幅扩大至2.00%，现报77.77美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260525060458075800",
-          "source": "金十数据",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时00分"
+          "time_info": "08时06分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
-          "source": "华尔街见闻",
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2379922",
-          "source": "财联社热门",
+          "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
+          "url": "https://wallstreetcn.com/articles/3773014",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
-          "source": "澎湃新闻",
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
+          "title": "腾讯、红杉中国押注 估值31.5亿元的硅基智能冲刺港股数字人第一股",
+          "url": "https://www.cls.cn/detail/2380847",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         }
       ]
     }
