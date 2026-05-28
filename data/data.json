@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-05-27 00:03:32",
+  "update_time": "2026-05-28 00:00:18",
   "oil": {
-    "updateDate": "2026年05月27日",
+    "updateDate": "2026年05月28日",
     "prices": {
       "p92": "8.84",
       "p95": "9.41",
@@ -17,7 +17,7 @@
   },
   "weather": {
     "city": "赤峰",
-    "temp": "18.7",
-    "condition": "多云"
+    "temp": "16.6",
+    "condition": "晴"
   }
 }
