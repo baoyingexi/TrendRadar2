@@ -1,248 +1,402 @@
 {
-  "generated_at": "2026-06-01T08:06:40.587933+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-02T08:14:00.225197+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 13,
+      "match_count": 26,
       "titles": [
         {
-          "title": "如何评价华为徐直军「感谢」美国制裁，称压力反而促成了中国半导体产业的成长？",
-          "url": "https://www.zhihu.com/question/2044415469747007658",
-          "source": "知乎",
+          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
-          "url": "https://www.cls.cn/detail/2386314",
+          "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
+          "url": "https://www.cls.cn/detail/2387242",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "下周重磅日程：美非农、ComputeX大会、宇树IPO上会、美团博通财报",
-          "url": "https://wallstreetcn.com/articles/3773422",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
-          "url": "https://www.cls.cn/detail/2386240",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://wallstreetcn.com/livenews/3111994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
-          "url": "https://www.zhihu.com/question/2043989303341142831",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "金十图示：2026年06月01日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260601065526588800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "6月基金经理调研：A股仍是最受青睐的方向之一",
-          "url": "https://wallstreetcn.com/livenews/3111988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
-          "url": "https://www.cls.cn/detail/2386206",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "现货黄金日内转涨，站上4540美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260601064838238800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "券商：A股6月将延续高位震荡，科技主线或内部聚焦",
-          "url": "https://wallstreetcn.com/livenews/3111987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://flash.jin10.com/detail/20260601062043762800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "现货黄金周一低开0.35%，现报4521美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260601060141654800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代AI PC入口",
-          "url": "https://wallstreetcn.com/articles/3773517",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
-          "url": "https://wallstreetcn.com/articles/3773499",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
-        },
-        {
-          "title": "全国首个绿色算力全栈AI平台上线",
-          "url": "https://www.cls.cn/detail/2386167",
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
+          "title": "大力推进人工智能+能源融合发展",
+          "url": "https://www.douyin.com/hot/2520343",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "油价跌了黄金也没涨，市场开始担心一个新问题",
+          "url": "https://wallstreetcn.com/articles/3773535",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
-          "url": "https://www.zhihu.com/question/2044397085965955829",
-          "source": "知乎",
+          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
+          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "【社论】如何看待“新能源车养路费”讨论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33281986",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
-          "url": "https://wallstreetcn.com/articles/3773512",
-          "source": "华尔街见闻",
+          "title": "韩国央行：预计CPI将在一段时间内维持在3%的水平。 6月通胀率预计与5月份类似。",
+          "url": "https://wallstreetcn.com/livenews/3112702",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "险资私募调仓最新路线：鸿鹄系基金减持陕西煤业，新进贵州茅台、五粮液等，太保致远持仓扩至9股",
+          "url": "https://www.cls.cn/detail/2387498",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "媒体：莫让AI加剧医患“沟通危机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
-          "source": "澎湃新闻",
+          "title": "两大芯片巨头互攻",
+          "url": "https://www.toutiao.com/trending/7646324933521313323/",
+          "source": "今日头条",
           "ranks": [
-            13
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时06分"
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
-          "url": "https://www.zhihu.com/question/2043802300246915002",
-          "source": "知乎",
+          "title": "4家A股公司，撤销风险警示",
+          "url": "https://www.cls.cn/detail/2387556",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "美股纳指首次收于27000点上方",
+          "url": "https://www.toutiao.com/trending/7646569391693237811/",
+          "source": "今日头条",
           "ranks": [
             14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "马光远：黄金牛市结束了",
+          "url": "https://www.toutiao.com/trending/7646218613866630697/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "A股成交“45%预警线”靠谱吗",
+          "url": "https://www.toutiao.com/trending/7645984189933928490/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "美股收盘：芯片股多涨 英伟达涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "网红狗被偷走以180元卖掉后遭宰杀，狗主人：警方已立案调查，绝不和解",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33279991",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "中金：当下A股市场“稳”好于“快”",
+          "url": "https://flash.jin10.com/detail/20260602074710288800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时06分"
+          "time_info": "08时14分"
+        },
+        {
+          "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
+          "url": "https://wallstreetcn.com/livenews/3112690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
+          "url": "https://wallstreetcn.com/livenews/3112689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "美股存储芯片指数收涨约3.5%，成分股美光涨超6.6%",
+          "url": "https://wallstreetcn.com/livenews/3112686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "韩国5月CPI环比上升0.5%，分析师预期上升0.2%。 5月CPI同比上升3.1%，创2024年3月份以来最大升幅，分析师预期上升2.9%。 5月核心CPI同比上升2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3112681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "韩国5月CPI月率 0.5%，预期0.30%，前值0.50%。",
+          "url": "https://flash.jin10.com/detail/20260602070002186800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "韩国5月CPI年率 3.1%，预期3.00%，前值2.60%。",
+          "url": "https://flash.jin10.com/detail/20260602070002182800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "端侧AI驱动下一轮增长，国产存储芯片迎新机遇",
+          "url": "https://wallstreetcn.com/livenews/3112670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
+          "url": "https://wallstreetcn.com/articles/3773561",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "AI软件指数涨超8.7%，MongoDB涨超20.3%，HubSpot涨超18.8%",
+          "url": "https://wallstreetcn.com/livenews/3112692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "阿里发布Qwen3.7-Plus多模态智能体模型",
+          "url": "https://wallstreetcn.com/livenews/3112683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "3家港股AI企业正在“回A”辅导，“A+H”持续扩容",
+          "url": "https://wallstreetcn.com/livenews/3112679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "阿里发布Qwen3.7-Plus多模态智能体模型",
+          "url": "https://flash.jin10.com/detail/20260602070707308800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时14分"
         }
       ]
     }
