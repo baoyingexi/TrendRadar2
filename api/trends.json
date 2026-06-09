@@ -1,306 +1,240 @@
 {
-  "generated_at": "2026-06-08T08:07:43.730001+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2026-06-09T08:07:02.094117+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 27,
+      "match_count": 21,
       "titles": [
         {
-          "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
-          "url": "https://wallstreetcn.com/articles/3774030",
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "周末要闻汇总：全球首个“预制算力中心底座”正式投用；交易员预计美联储将到明年1月底前加息25个基点",
-          "url": "https://www.cls.cn/detail/2392816",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "日本一季度净出口对环比GDP贡献为正0.3个百分点，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3115692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
-          "url": "https://www.zhihu.com/question/2046639064917586455",
-          "source": "知乎",
+          "title": "15万买新能源车还没开回家就出问题",
+          "url": "https://www.toutiao.com/trending/7648583608257069099/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
+          "url": "https://www.cls.cn/detail/2394225",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
+          "url": "https://www.cls.cn/detail/2394207",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "连获2个30cm涨停！机器人热股逼近新高，大号连板股年内盘点，这些板块占比领先",
+          "url": "https://www.cls.cn/detail/2393742",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "日本第一季度GDP平减指数年率终值 3.2%，预期3.40%，前值3.40%。",
-          "url": "https://flash.jin10.com/detail/20260608075132503800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
+          "title": "【焦点复盘】科创50指数重挫4.3%，半导体产业链持续退潮，煤炭、银行等红利股获逆势抱团",
+          "url": "https://www.cls.cn/detail/2393675",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "日本第一季度名义GDP季率终值 0.6%，前值0.80%。",
-          "url": "https://flash.jin10.com/detail/20260608075127449800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "日本一季度实际GDP平减指数同比终值 3.2%，预期 3.4%，初值 3.4%。",
-          "url": "https://wallstreetcn.com/livenews/3115685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "张忆东：警惕6月10-18日变盘点！6-8月“夏日寒风”，活着最重要、勿加杠杆；快则8月慢则9月，恒科恒指有望随A股迎主升浪",
-          "url": "https://wallstreetcn.com/articles/3774033",
+          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
+          "url": "https://wallstreetcn.com/articles/3774051",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "龙头五连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2392448",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "日本一季度名义GDP季环比终值 0.6%，预期 0.6%，初值 0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3115683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "美联储“喉舌”：从“三次降息”到“重启加息” 沃什首次议息会议便遭遇空前考验",
-          "url": "https://www.cls.cn/detail/2392722",
+          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
+          "url": "https://www.cls.cn/detail/2393777",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "日本一季度实际GDP季环比终值 0.5%，预期 0.3%，初值 0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3115682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "日本第一季度GDP私人消费季率终值 0.3%，预期0.30%，前值0.30%。",
-          "url": "https://flash.jin10.com/detail/20260608075016950800",
-          "source": "金十数据",
+          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
+          "source": "澎湃新闻",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "日本一季度实际GDP年化季环比终值 1.8%，预期 1.3%，初值 2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3115681",
-          "source": "华尔街见闻-快讯",
+          "title": "接连跌停，市值蒸发400亿！算力明星股利通电子回应“小作文”传言",
+          "url": "https://www.cls.cn/detail/2394138",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "一年增加66家，千亿市值A股公司跃升至201家，大市值公司版图正改写",
-          "url": "https://www.cls.cn/detail/2392822",
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "日本第一季度GDP企业支出季率终值 -0.7%，预期-0.9%，前值0.30%。",
-          "url": "https://flash.jin10.com/detail/20260608075013217800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
-          "url": "https://www.cls.cn/detail/2393027",
+          "title": "外围股市拖累A股大跌，公募一线解读：急跌如何应对？",
+          "url": "https://www.cls.cn/detail/2393946",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "日本第一季度实际GDP季率终值 0.5%，预期0.30%，前值0.50%。",
-          "url": "https://flash.jin10.com/detail/20260608075009438800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "日本第一季度实际GDP年化季率终值 1.8%，预期1.30%，前值2.10%。",
-          "url": "https://flash.jin10.com/detail/20260608075006061800",
-          "source": "金十数据",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "SK海力士：正与英伟达联合开发面向全球AI工厂的下一代内存/显存。 考虑到先进内存较长的开发周期，这一长期合作伙伴关系将有助于保障稳定供应。 通过这次合作，公司将进入个人AI和具身AI等AI领域的新市场。 将继续供应满足英伟达基础设施路线图以及全球AI基础设施需求的内存/显存。 将利用英伟达的数字孪生技术，在虚拟世界中重现芯片工厂。",
-          "url": "https://wallstreetcn.com/livenews/3115668",
+          "title": "新能源二手车越来越“香”了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%8C%E6%89%8B%E8%BD%A6%E8%B6%8A%E6%9D%A5%E8%B6%8A%E2%80%9C%E9%A6%99%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "美股三大指数涨跌不一 芯片股反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E6%B6%A8%E8%B7%8C%E4%B8%8D%E4%B8%80+%E8%8A%AF%E7%89%87%E8%82%A1%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "韩国一季度GDP同比初值 3.8%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3116386",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
         {
-          "title": "中产家族的破产七件套",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E4%BA%A7%E5%AE%B6%E6%97%8F%E7%9A%84%E7%A0%B4%E4%BA%A7%E4%B8%83%E4%BB%B6%E5%A5%97&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "英伟达和SK海力士将把AI应用于半导体芯片设计。",
-          "url": "https://wallstreetcn.com/livenews/3115665",
+          "title": "韩国一季度GDP环比初值 1.8%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3116385",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
         {
-          "title": "A股市场震荡回调，机构称科技成长仍是下半年核心主线",
-          "url": "https://wallstreetcn.com/livenews/3115658",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国第一季度GDP季率终值 1.8%，预期1.7%，前值1.7%。",
+          "url": "https://flash.jin10.com/detail/20260609070017410800",
+          "source": "金十数据",
           "ranks": [
-            30
+            16
           ],
-          "is_new": false,
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "韩国第一季度GDP年率终值 3.8%，预期3.60%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260609065243677800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
@@ -308,82 +242,159 @@
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
+          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
+          "url": "https://www.cls.cn/detail/2393919",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
+          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
+          "url": "https://www.zhihu.com/question/2043797160312010091",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
+          "source": "澎湃新闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
-          "source": "华尔街见闻",
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E6%9A%82%E4%B8%8D%E6%8F%90%E4%BE%9B%E6%9C%80%E6%96%B0Siri+AI",
+          "source": "百度热搜",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
-          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "当我把今年高考语文作文题喂给AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "网友调侃 Gemini 为北美大豆包，称其为最蠢 AI，为什么会被诟病难用？你的使用感受如何？",
+          "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
         },
         {
-          "title": "Doosan与英伟达将在AI工厂领域展开合作，其将与英伟达全面扩大在能源、电子材料及机器人业务领域的合作。（韩国News1）",
-          "url": "https://wallstreetcn.com/livenews/3115671",
+          "title": "库克最后一场WWDC：AI Siri登场",
+          "url": "https://www.baidu.com/s?wd=%E5%BA%93%E5%85%8B%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BAWWDC%EF%BC%9AAI+Siri%E7%99%BB%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "日韩股市突然暴跌 AI泡沫要破了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
+          "url": "https://wallstreetcn.com/livenews/3116394",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
         {
-          "title": "SK电讯：计划利用英伟达技术在韩国打造吉瓦（GW）级的AI云，首座AI工厂计划于2027年上线投入运营。 将使用英伟达Blackwell GPU进行AI训练和推理。 在英伟达Vera Rubin平台预计于2026年下半年上市后，将采用该平台。",
-          "url": "https://wallstreetcn.com/livenews/3115669",
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://wallstreetcn.com/livenews/3116381",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://flash.jin10.com/detail/20260609064804765800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
         {
-          "title": "AI如何写全国I卷高考作文",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "OpenAI计划在首次公开募股（IPO）之前启动员工/股东股票要约收购案（Tender Sale）。 据知情人士透露，该公司将在未来几周内正式举行该股票要约收购（Tender）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116363",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时07分"
         }
