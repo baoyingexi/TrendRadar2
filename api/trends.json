@@ -1,248 +1,281 @@
 {
-  "generated_at": "2026-06-10T08:14:24.689314+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-11T08:15:14.841745+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
-          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
-          "url": "https://www.cls.cn/detail/2395384",
+          "title": "美国5月CPI同比4.2%创三年新高，核心CPI同比加速至2.9%，但环比涨幅低于预期",
+          "url": "https://wallstreetcn.com/articles/3774348",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "美国 5 月 CPI 首次突破 4 字头，创 3 年多新高，意味着什么？可能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2048145950158185634",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "美国5月CPI重返4%时代！能源价格飙升推高通胀 市场押注美联储继续观望",
+          "url": "https://www.cls.cn/detail/2396409",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "跨境荐股！\"白毛股神\"连续三天\"搅动A股风云\"",
-          "url": "https://wallstreetcn.com/articles/3774218",
+          "title": "今夜美国CPI“喜忧参半”？整体通胀或破4创三年新高，核心通胀或显著低于预期！",
+          "url": "https://wallstreetcn.com/articles/3774281",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "A股市场掀增持回购“小高潮”，药明康德、江淮汽车等宣布回购股份",
-          "url": "https://www.cls.cn/detail/2395125",
+          "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
+          "url": "https://www.cls.cn/detail/2396599",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
+          "title": "5月新能源汽车产销量同比增长",
+          "url": "https://www.douyin.com/hot/2530030",
+          "source": "抖音",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "【早报】美伊又打起来了；黄金、白银、原油集体下跌",
-          "url": "https://www.cls.cn/detail/2395413",
+          "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "中信建投：短期内美联储加息概率仍低",
-          "url": "https://flash.jin10.com/detail/20260610074921608800",
-          "source": "金十数据",
+          "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
+          "url": "https://www.cls.cn/detail/2396017",
+          "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "中信建投：短期内美联储加息概率仍低",
-          "url": "https://wallstreetcn.com/livenews/3117088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "现货黄金失守4220美元/盎司，日内跌幅近1%。",
-          "url": "https://flash.jin10.com/detail/20260610074411794800",
-          "source": "金十数据",
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "如何交易SpaceX上市？记住两个关键时间点：“7月7日入纳指”和“7月财报会两天后的解禁”",
+          "url": "https://wallstreetcn.com/articles/3774302",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "美国5月CPI同比上涨4.2%",
+          "url": "https://www.douyin.com/hot/2530093",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "A股牛市轮涨要来了吗",
+          "url": "https://www.toutiao.com/trending/7649774117205331499/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "黄金还有上涨动力吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%BF%98%E6%9C%89%E4%B8%8A%E6%B6%A8%E5%8A%A8%E5%8A%9B%E5%90%97%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "新能源车不能再“胖”了",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%B8%8D%E8%83%BD%E5%86%8D%E2%80%9C%E8%83%96%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
           "title": "跌跌不休!印度抛黄金救卢比",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
           "source": "贴吧",
           "ranks": [
-            13
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "现货黄金跌破4230美元/盎司，日内跌0.73%。",
-          "url": "https://flash.jin10.com/detail/20260610071801893800",
+          "title": "中金：能源冲击延续，美联储不降息、不加息",
+          "url": "https://flash.jin10.com/detail/20260611075938610800",
           "source": "金十数据",
           "ranks": [
-            14
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "08时15分"
         },
         {
-          "title": "银行下调结构性存款预期利率，理财机构减持黄金ETF",
-          "url": "https://wallstreetcn.com/livenews/3117073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
-          "url": "https://www.zhihu.com/question/2045653689407477325",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "经纬度：三峡水运新通道开工，中国“黄金水道”再扩容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33341489",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "金饰消费持续承压，倒逼黄金珠宝企业提升品牌力",
-          "url": "https://wallstreetcn.com/livenews/3117061",
+          "title": "现货黄金日内跌超1%，报4028.52美元/盎司。 现货白银跌3%至61.76美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3117760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "08时15分"
         },
         {
-          "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
-          "url": "https://wallstreetcn.com/livenews/3117058",
+          "title": "A股宽基指数样本即将大调整，近9000亿元规模指数基金同步调仓",
+          "url": "https://wallstreetcn.com/livenews/3117756",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "08时15分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
+          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
           "ranks": [
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
-          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
-          "url": "https://www.zhihu.com/question/2047616042067834810",
+          "title": "于娜看到已故丈夫AI形象崩溃大哭",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
           "source": "知乎",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "知情人士：SpaceX轨道AI计算测试计划将提前至2027年",
-          "url": "https://flash.jin10.com/detail/20260610063641524800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         }
       ]
     }
