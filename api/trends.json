@@ -1,259 +1,204 @@
 {
-  "generated_at": "2026-06-15T08:08:40.465913+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-16T09:42:37.262348+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 14,
+      "match_count": 12,
       "titles": [
         {
-          "title": "本周“超级央行周”：美联储利率决议沃什首秀、日本央行或加息、中国5月经济数据",
-          "url": "https://wallstreetcn.com/articles/3774492",
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "本周中国央行公开市场7190亿元逆回购到期",
-          "url": "https://wallstreetcn.com/livenews/3119320",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
-          "url": "https://www.cls.cn/detail/2399448",
+          "title": "117万元撬动这只ETF到涨停，乌龙指还是炒作？明天紧急停牌",
+          "url": "https://www.cls.cn/detail/2400436",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "北交所公司调研热度攀升 新能源与医药赛道受关注",
-          "url": "https://wallstreetcn.com/livenews/3119316",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
+          "url": "https://www.cls.cn/detail/2400615",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "7家A股公司，下周“摘帽”",
-          "url": "https://www.cls.cn/detail/2399262",
+          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
+          "url": "https://www.cls.cn/detail/2400342",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "女子考编第一被低分者顶替，维权后岗位取消，相关部门立案调查，为何会出现这一情况？招聘公平性如何保障？",
-          "url": "https://www.zhihu.com/question/2049225127036990849",
-          "source": "知乎",
+          "title": "中国央行逆回购今日净投放2,965亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3119950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-06-16）",
+          "url": "https://flash.jin10.com/detail/20260616090817246800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "龙头20CM涨停！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2399350",
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "本周重要事件预告：“超级央行周”来袭，沃什首秀、日本或加息",
-          "url": "https://flash.jin10.com/detail/20260615073459562800",
+          "title": "上海黄金交易所黄金T+D 6月16日（周二）早盘盘初上涨0.85%报939.34元/克；<br/>上海黄金交易所白银T+D 6月16日（周二）早盘盘初上涨0.04%报16743.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260616090044850800",
           "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "据华尔街日报：Anthropic本周末已与特朗普政府官员会面，并派遣顶尖技术团队前往华盛顿，寻求达成协议，以解除对其最强大的人工智能模型的出口限制。",
-          "url": "https://flash.jin10.com/detail/20260615070714614800",
-          "source": "金十数据",
+          "title": "报道：三星晶圆代工首获马斯克Neuralink芯片制造订单",
+          "url": "https://wallstreetcn.com/livenews/3119932",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "金十图示：2026年06月15日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260615065822968800",
+          "title": "SpaceX(SPCX.O)美股夜盘涨10%，若维持此涨幅至美股周二开盘，其市值将超越亚马逊(AMZN.O)。",
+          "url": "https://flash.jin10.com/detail/20260616085053074800",
           "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "央行狂买黄金金价却暴跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E7%8B%82%E4%B9%B0%E9%BB%84%E9%87%91%E9%87%91%E4%BB%B7%E5%8D%B4%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "美国10年期国债期货上涨10个跳动点，联邦基金利率期货走高，市场下调美联储加息风险。",
-          "url": "https://wallstreetcn.com/livenews/3119294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "现货黄金重返4300美元/盎司，日内涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3119289",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "国际油价大幅低开，纳指期货、黄金涨逾1%，报道称美伊达成协议",
-          "url": "https://wallstreetcn.com/livenews/3119287",
+          "title": "日本经济财政大臣城内实：将出席今天的日本央行会议。 对日本央行今天将加息的市场主流观点不予置评。 强烈希望日本央行与政府密切沟通，共同努力确保可持续、稳定地实现2%的通胀目标。",
+          "url": "https://wallstreetcn.com/livenews/3119915",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
         {
-          "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
-          "url": "https://www.cls.cn/detail/2399163",
-          "source": "财联社热门",
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "“告诉他他就是个XXX”！直播会议现场失控，Meta内部爆发\"AI叛乱\"",
-          "url": "https://wallstreetcn.com/articles/3774601",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
-          "url": "https://wallstreetcn.com/articles/3774621",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
-          "url": "https://wallstreetcn.com/articles/3774608",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
         },
         {
-          "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
-          "url": "https://wallstreetcn.com/livenews/3119301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "AI热潮来袭，别被“错失恐惧症”裹挟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33376684",
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "09时42分"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     }
