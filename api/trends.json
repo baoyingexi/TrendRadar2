@@ -1,292 +1,303 @@
 {
-  "generated_at": "2026-06-17T08:16:36.452641+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-18T08:15:57.725820+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
+          "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
+          "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "沃什上任首秀：不降息、不加息，但准备“少说话”？",
-          "url": "https://wallstreetcn.com/articles/3774809",
+          "title": "美联储按兵不动但释放鹰派信号 年内利率变化预期由降息变加息",
+          "url": "https://www.cls.cn/detail/2402931",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "美联储继续按兵不动但暗示鹰派倾向，强调通胀承诺，半数决策者料年内加息",
+          "url": "https://wallstreetcn.com/articles/3774938",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
+          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
+          "url": "https://www.cls.cn/detail/2403010",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3120568",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
+          "url": "https://www.cls.cn/detail/2403003",
+          "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "“黑黄金”撬动百亿级大市场",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E9%BB%84%E9%87%91%E2%80%9D%E6%92%AC%E5%8A%A8%E7%99%BE%E4%BA%BF%E7%BA%A7%E5%A4%A7%E5%B8%82%E5%9C%BA",
-          "source": "百度热搜",
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "日本央行加息至1%，为1995年以来最高水平，2027年起暂停缩债",
-          "url": "https://wallstreetcn.com/articles/3774766",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
-          "url": "https://www.cls.cn/detail/2401236",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "沃什首秀在即 调查预计美联储2027年前不降息 沟通机制改革获支持",
-          "url": "https://www.cls.cn/detail/2401612",
-          "source": "财联社热门",
+          "title": "美股三大指数尾盘跳水",
+          "url": "https://www.toutiao.com/trending/7652506164214631979/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2401513",
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
+          "url": "https://www.cls.cn/detail/2402510",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
-          "url": "https://www.cls.cn/detail/2401228",
+          "title": "金字火腿异动 公告回应光芯片概念：持股中晟微仅9.09% 标的尚未盈利|速读公告",
+          "url": "https://www.cls.cn/detail/2402755",
           "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
-          "url": "https://wallstreetcn.com/articles/3774752",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
-          "url": "https://www.cls.cn/detail/2401317",
+          "title": "沃什“美联储首秀”来袭 SpaceX延续涨势 英特尔带动芯片股反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2402766",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "证券行业佣金率下行势头仍在延续，沪上A股平均佣金率低至1.73‱",
-          "url": "https://wallstreetcn.com/livenews/3120557",
+          "title": "那些新能源汽车车主又换回了燃油车，是怎么想的？",
+          "url": "https://www.zhihu.com/question/1918235574843729760",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "纽元兑美元走高，新西兰一季度GDP同比增幅超预期。",
+          "url": "https://wallstreetcn.com/livenews/3121293",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
+          "title": "中国正加紧筹建世界人工智能合作组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "黄金又有重要信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E6%9C%89%E9%87%8D%E8%A6%81%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "价值蓝筹暗流涌动，私募激辩A股风格轮动",
-          "url": "https://wallstreetcn.com/livenews/3120534",
+          "title": "新西兰一季度GDP季环比 0.8%，预期 0.8%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3121292",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
-          "url": "https://www.zhihu.com/question/2050239948306092201",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
-          "url": "https://wallstreetcn.com/articles/3774806",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
-          "url": "https://wallstreetcn.com/livenews/3120560",
+          "title": "新西兰一季度GDP同比 1.5%，预期 1%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3121291",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
         },
         {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
-          "url": "https://flash.jin10.com/detail/20260617072915805800",
+          "title": "联想集团(00992.HK)：拟发行于2033年到期的20亿美元美元零息可换股债券；拟同步购回于2029年到期的6.75亿美元2.50%可换股债券；拟根据股份回购授权于市场上进行股份回购。",
+          "url": "https://flash.jin10.com/detail/20260618071453653800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "08时15分"
+        },
+        {
+          "title": "美联储暗示可能加息，拉美资产普遍下滑",
+          "url": "https://wallstreetcn.com/livenews/3121286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "美联储加息预期降温",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E9%99%8D%E6%B8%A9&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "巴西央行连续三次降息，委员会Copom一致决定将基准Selic利率下调25个基点至14.25%，创2025年5月份以来新低。",
+          "url": "https://wallstreetcn.com/livenews/3121280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "72家A股公司提示风险",
+          "url": "https://s.weibo.com/weibo?q=%2372%E5%AE%B6A%E8%82%A1%E5%85%AC%E5%8F%B8%E6%8F%90%E7%A4%BA%E9%A3%8E%E9%99%A9%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "HR 吐槽面试遇到豆包味很浓的应届生，全程依赖豆包 AI 作答，如何看待这一现象？暴露出哪些问题？",
+          "url": "https://www.zhihu.com/question/2050618204980863708",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "为什么 AI 写的代码没人说有 AI 味儿，但是 AI 写的文章就一眼看出 AI 味儿？",
+          "url": "https://www.zhihu.com/question/14853864339",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "下半年投资亮点纷呈，公募策略会看好AI投资范式生变",
+          "url": "https://wallstreetcn.com/livenews/3121289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "SpaceX 上市第三天市值逼近 3 万亿美元，豪掷 600 亿收购 Cursor 加码 AI，这笔天价收购划算吗？",
+          "url": "https://www.zhihu.com/question/2050515273640423854",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     }
