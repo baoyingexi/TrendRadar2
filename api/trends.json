@@ -1,457 +1,193 @@
 {
-  "generated_at": "2026-06-19T08:26:45.116617+08:00",
+  "generated_at": "2026-06-20T08:10:07.096835+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 32,
+      "match_count": 11,
       "titles": [
         {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
-          "url": "https://www.cls.cn/detail/2404108",
+          "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2404440",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
           "url": "https://www.cls.cn/detail/2404187",
           "source": "财联社热门",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "日本央行副行长冰见野良三：考虑加息的步伐和时机的同时将评估中东冲突的影响。",
-          "url": "https://flash.jin10.com/detail/20260619081716067800",
-          "source": "金十数据",
+          "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
+          "url": "https://www.cls.cn/detail/2404404",
+          "source": "财联社热门",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
+          "url": "https://www.cls.cn/detail/2404108",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
           "url": "https://www.cls.cn/detail/2404196",
           "source": "财联社热门",
           "ranks": [
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "日本央行副行长冰见野良三：将继续进一步加息。",
-          "url": "https://flash.jin10.com/detail/20260619081700877800",
-          "source": "金十数据",
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行4月27-28日货币政策会议纪要：委员们称，将继续加息，以应对经济和物价进展。 委员们称，密切关注中东局势的影响，权衡利率调整步伐。 一位委员表示，日本央行应维持宽松的货币政策，如果日本面临严重的供应链中断，应避免加息。 一位委员表示，日本央行在货币政策中不以汇率为目标，汇率应由市场决定。 内阁办公室代表表示，日本央行必须引导适当的货币政策，以确保日本经济强劲增长，物价稳定，希望日本央行按照与政府的联合声明指导政策。",
-          "url": "https://wallstreetcn.com/livenews/3121937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本5月CPI(除生鲜食品及能源)同比 1.8%，预期 1.8%，前值 1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3121936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "为什么《泰坦尼克号》里要强行给男二卡尔安排个大萧条期间破产自杀的结局？",
-          "url": "https://www.zhihu.com/question/2050940396734361925",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
           "url": "https://www.cls.cn/detail/2404026",
           "source": "财联社热门",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "日本5月CPI(除生鲜食品)同比 1.4%，预期 1.4%，前值 1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3121935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
+          "title": "利率期货成交“四倍异动”！交易员押注美联储下月就加息？",
+          "url": "https://www.cls.cn/detail/2404221",
           "source": "财联社热门",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "日本5月CPI同比 1.5%，预期 1.5%，前值 1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3121934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "A股资金疯狂逃离老登股",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B5%84%E9%87%91%E7%96%AF%E7%8B%82%E9%80%83%E7%A6%BB%E8%80%81%E7%99%BB%E8%82%A1%23&t=31&band_rank=6&Refer=top",
+          "title": "存储芯片涨价失控",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
-          "url": "https://www.cls.cn/detail/2403645",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "高盛Kaplan：美联储或在秋季“连环加息”",
-          "url": "https://wallstreetcn.com/articles/3774984",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
-          "url": "https://www.cls.cn/detail/2403606",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "2026新能源汽车下乡车型目录公布",
-          "url": "https://www.douyin.com/hot/2539912",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "我国将启动 2026 年新能源汽车下乡，将为农村市场带来哪些机遇和挑战？",
-          "url": "https://www.zhihu.com/question/2050926495074357961",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，日本央行应维持宽松货币政策，避免在日本面临严重供应链中断时加息。",
-          "url": "https://flash.jin10.com/detail/20260619075802799800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，日本央行不应犹豫加快加息步伐，例如每几个月一次。",
-          "url": "https://flash.jin10.com/detail/20260619075753306800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：部分成员表示，如果中东冲突持续，日本央行应更快加息，以避免潜在通胀过高。",
-          "url": "https://flash.jin10.com/detail/20260619075658211800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，下一次会议及之后的加息取决于经济和价格面临的风险的大小。",
-          "url": "https://flash.jin10.com/detail/20260619075617037800",
-          "source": "金十数据",
+          "title": "韩国世界杯转播商破产了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E5%95%86%E7%A0%B4%E4%BA%A7%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "美联储加息担忧引发拉美货币下跌",
-          "url": "https://wallstreetcn.com/livenews/3121919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "五部门开展新能源汽车下乡活动",
-          "url": "https://www.douyin.com/hot/2539139",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：成员们一致认为，未来加息的时机和步伐将取决于日本央行基准预测实现的可能性以及经济增长和价格的风险。",
-          "url": "https://flash.jin10.com/detail/20260619075450168800",
+          "title": "金十图示：2026年06月20日（周六）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260620075215999800",
           "source": "金十数据",
           "ranks": [
-            22
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：部分成员表示，如果通胀风险远超经济增长的下行风险，日本央行可能会讨论加息的利弊。",
-          "url": "https://flash.jin10.com/detail/20260619075353546800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：成员一致认为，针对经济、价格和金融形势的发展，继续加息是合适的。",
-          "url": "https://flash.jin10.com/detail/20260619075336967800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3121914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "日本央行会议纪要：一名成员表示，当前形势并不紧迫，不需要急于加息。",
-          "url": "https://flash.jin10.com/detail/20260619075235693800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
-          "url": "https://wallstreetcn.com/livenews/3121912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "08时10分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "让AI走进千家万户",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
-        },
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时26分"
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
         },
         {
-          "title": "DeepSeek能火只靠便宜吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%83%BD%E7%81%AB%E5%8F%AA%E9%9D%A0%E4%BE%BF%E5%AE%9C%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
+          "url": "https://wallstreetcn.com/articles/3775063",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "为什么机器人领域都在弄具身智能了，感觉中间跳了一大步?",
+          "url": "https://www.zhihu.com/question/13457479779",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 08时10分]"
+        },
+        {
+          "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时26分"
+          "time_info": "08时10分"
         }
       ]
     }
