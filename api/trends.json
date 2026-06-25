@@ -1,435 +1,380 @@
 {
-  "generated_at": "2026-06-24T07:57:22.004775+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-25T08:14:19.596930+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 24,
+      "match_count": 21,
       "titles": [
         {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
+          "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "小作文带崩韩股？韩媒：国会议员讨论将股票、房地产未实现收益纳入综合征税",
-          "url": "https://wallstreetcn.com/articles/3775281",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
-          "url": "https://www.cls.cn/detail/2407361",
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
-          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
           "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
-          "url": "https://www.cls.cn/detail/2407391",
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
+          "url": "https://www.cls.cn/detail/2408510",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "股价挺进A股前20！“光纤一哥”924以来暴涨24倍，谁在重仓这些高倍股？",
-          "url": "https://www.cls.cn/detail/2406940",
+          "title": "美光公布“王炸”财报：业绩、指引全面开花 盘后大涨13%",
+          "url": "https://www.cls.cn/detail/2408523",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
+          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
+          "url": "https://wallstreetcn.com/articles/3775350",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "美银“大幅转鹰”：预期美联储年内加息3次，此前是0次！",
-          "url": "https://wallstreetcn.com/articles/3775241",
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "高盛复盘韩股暴跌：养老金撤退、散户杠杆爆仓引发芯片股雪崩",
-          "url": "https://wallstreetcn.com/articles/3775310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "A股年内已有31天成交破3万亿，券商日子过得如何？几个指标结合看",
-          "url": "https://www.cls.cn/detail/2407102",
+          "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
+          "url": "https://www.cls.cn/detail/2408371",
           "source": "财联社热门",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "美联储压力测试32家银行全过关，合计扛住7080亿美元损失，华尔街派息回购潮来了",
+          "url": "https://flash.jin10.com/detail/20260625075604700800",
+          "source": "金十数据",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
-          "url": "https://wallstreetcn.com/articles/3775294",
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
-          "url": "https://www.zhihu.com/question/2052707670289806571",
+          "title": "花旗集团将季度股息提高12%，至每股0.67美元。 花旗将继续推进300亿美元的股票回购计划。",
+          "url": "https://wallstreetcn.com/livenews/3124292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
+          "url": "https://www.zhihu.com/question/2050234299232641923",
           "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "芯片股抛售潮席卷全球市场 德国全境铁路暂停运营 | 环球市场",
-          "url": "https://www.cls.cn/detail/2407384",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "花落半导体设备公司！荷兰硬科技融资纪录刷新 富达、淡马锡投了",
-          "url": "https://www.cls.cn/detail/2406826",
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "A股定增结构性活跃，新兴产业获资本青睐",
-          "url": "https://wallstreetcn.com/livenews/3123687",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
+          "url": "https://www.zhihu.com/question/2052784601471493284",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "美股芯片股全线重挫",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E9%87%8D%E6%8C%AB",
+          "title": "黄金白银原油集体暴跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8E%9F%E6%B2%B9%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "周二（6月23日），美股AI软件先驱指数跌0.20%，报103.52点，成分股中，甲骨文收跌5.66%，铿腾电子跌2.57%，Palantir跌2.34%跌幅第三大，Salesforce、ServiceNOW、GitLab涨2.20%-4.53%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123684",
+          "title": "美光公布“王炸”财报 盘后大涨13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E5%85%AC%E5%B8%83%E2%80%9C%E7%8E%8B%E7%82%B8%E2%80%9D%E8%B4%A2%E6%8A%A5+%E7%9B%98%E5%90%8E%E5%A4%A7%E6%B6%A813%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
+          "url": "https://wallstreetcn.com/livenews/3124274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
-          "url": "https://wallstreetcn.com/livenews/3123683",
+          "title": "美光科技财报",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "中金：未来高端AI服务器有望采用“金刚石热沉+全液冷”复合散热方案",
+          "url": "https://flash.jin10.com/detail/20260625075729784800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
+          "url": "https://www.cls.cn/detail/2408477",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "用AI制作一部玄幻短片",
+          "url": "https://www.douyin.com/hot/2545425",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "黄仁勋股东大会放言：本轮AI基建周期长达数十年",
+          "url": "https://wallstreetcn.com/livenews/3124282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "现货黄金回落至4100美元/盎司下方，日内跌0.24%。",
-          "url": "https://flash.jin10.com/detail/20260624063432942800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "周二（6月23日），美股信息科技指数跌6.14%，报444.11点，跳空低开后持续低位窄幅震荡，成分股闪迪、美光、安森美半导体、高意公司Coherent、Credo跌13.64%-10.09%领跌，IBM涨5%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3123682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "周二（6月23日），美股存储芯片与硬件供应链指数跌10.07%，报247.26点，跳空低开之后低位窄幅震荡。 成分股全线溃败，闪迪收跌13.6%，美光科技跌13.2%，拉姆研究跌9.3%，Rambus、应用材料、西部数据、泰瑞达至多跌8.6%，希捷科技跌5.1%。",
-          "url": "https://wallstreetcn.com/livenews/3123679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.567吨，当前持仓量为1017.637吨。",
-          "url": "https://flash.jin10.com/detail/20260624062022488800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（6月23日），美国科技股七巨头（Magnificent 7）指数跌1.44%，报205.68点，特斯拉收跌5.79%。 “超大”市值科技股指数跌2.53%，报423.41点。",
-          "url": "https://wallstreetcn.com/livenews/3123677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
-          "url": "https://flash.jin10.com/detail/20260624054534370800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
-          "url": "https://wallstreetcn.com/articles/3775302",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2407151",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
-          "url": "https://www.cls.cn/detail/2406973",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "AI 写了 60% 的代码，为什么企业研发效率还是没飞起来？",
-          "url": "https://www.zhihu.com/question/2051696278954946774",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
-          "url": "https://www.cls.cn/detail/2406846",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "孙正义反驳马斯克：太空数据中心“没意义”，AI竞赛将在地球决胜",
-          "url": "https://wallstreetcn.com/articles/3775297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "AI时代计算机专业还能学吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E8%83%BD%E5%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
           "title": "用AI小卡应援世界杯",
           "url": "https://www.douyin.com/hot/2544441",
           "source": "抖音",
           "ranks": [
-            22
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
         },
         {
-          "title": "从“找竹竿”到“挖短板”，基金经理直面AI“缩圈”",
-          "url": "https://wallstreetcn.com/livenews/3123676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "AI算力需求传导，“纤维之王”对位芳纶步入高景气周期",
-          "url": "https://wallstreetcn.com/livenews/3123674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：支持政府推动美国在强大且安全的前沿AI领域的领导地位的目标。",
-          "url": "https://flash.jin10.com/detail/20260624054508672800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "医生会被AI轻易取代吗",
-          "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E7%94%9F%E4%BC%9A%E8%A2%ABAI%E8%BD%BB%E6%98%93%E5%8F%96%E4%BB%A3%E5%90%97&t=31&band_rank=30&Refer=top",
+          "title": "AI协助报志愿靠谱吗",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8D%8F%E5%8A%A9%E6%8A%A5%E5%BF%97%E6%84%BF%E9%9D%A0%E8%B0%B1%E5%90%97%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "08时14分"
+        },
+        {
+          "title": "黄仁勋：本轮AI基建周期长达数十年",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "黄仁勋：本轮AI基建周期长达数十年",
+          "url": "https://flash.jin10.com/detail/20260625071208706800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
         }
       ]
     }
