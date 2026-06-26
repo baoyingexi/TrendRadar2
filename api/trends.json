@@ -1,380 +1,424 @@
 {
-  "generated_at": "2026-06-25T08:14:19.596930+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-26T08:09:14.358243+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
-          "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
+          "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
+          "url": "https://wallstreetcn.com/articles/3775470",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
+          "title": "财报炸裂！美光让空头闭嘴",
+          "url": "https://wallstreetcn.com/articles/3775453",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
-          "url": "https://www.cls.cn/detail/2408510",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美光公布“王炸”财报：业绩、指引全面开花 盘后大涨13%",
-          "url": "https://www.cls.cn/detail/2408523",
-          "source": "财联社热门",
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
-          "url": "https://wallstreetcn.com/articles/3775350",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
+          "title": "日本6月东京CPI(除生鲜食品及能源)同比 1.9%，预期 1.8%，前值 1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3124898",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "08时09分"
         },
         {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
+          "title": "日本6月东京CPI同比 1.7%，预期 1.6%，前值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "日本6月东京CPI(除生鲜食品)同比 1.6%，预期 1.6%，前值 1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3124896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
+          "url": "https://wallstreetcn.com/articles/3775516",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
-          "url": "https://www.cls.cn/detail/2408371",
+          "title": "IBM开创“亚1纳米”芯片时代：指甲盖大小塞进千亿晶体管",
+          "url": "https://www.cls.cn/detail/2409405",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "美联储压力测试32家银行全过关，合计扛住7080亿美元损失，华尔街派息回购潮来了",
-          "url": "https://flash.jin10.com/detail/20260625075604700800",
-          "source": "金十数据",
+          "title": "加息会杀死黄金吗？机构：当前更像1978年——黄金新一轮大涨前夜",
+          "url": "https://wallstreetcn.com/articles/3775510",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
+          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
+          "url": "https://www.cls.cn/detail/2409229",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "高通承认：受制于美国，要为中国定制芯片",
+          "url": "https://news.ifeng.com/c/8uFFpyMCBmU",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3775489",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "花旗集团将季度股息提高12%，至每股0.67美元。 花旗将继续推进300亿美元的股票回购计划。",
-          "url": "https://wallstreetcn.com/livenews/3124292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "新能源车让很多精妙的机械结构退出了历史舞台，其中哪些技术值得被记住？",
-          "url": "https://www.zhihu.com/question/2050234299232641923",
-          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
-          "url": "https://www.zhihu.com/question/2052784601471493284",
-          "source": "知乎",
+          "title": "黄金跌到不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E5%88%B0%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "黄金白银原油集体暴跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8E%9F%E6%B2%B9%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美光公布“王炸”财报 盘后大涨13%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E5%85%AC%E5%B8%83%E2%80%9C%E7%8E%8B%E7%82%B8%E2%80%9D%E8%B4%A2%E6%8A%A5+%E7%9B%98%E5%90%8E%E5%A4%A7%E6%B6%A813%25",
-          "source": "百度热搜",
+          "title": "存储芯片供不应求",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%BE%9B%E4%B8%8D%E5%BA%94%E6%B1%82&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "A股公司年度“红包”派发进行时，“双创”板块成现金分红硬核力量",
-          "url": "https://wallstreetcn.com/livenews/3124274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "美光科技财报",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B4%A2%E6%8A%A5%23&t=31&band_rank=26&Refer=top",
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=26&Refer=top",
           "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "日本6月东京未季调CPI月率 0%，前值0.3%。",
+          "url": "https://flash.jin10.com/detail/20260626073317099800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "08时09分"
+        },
+        {
+          "title": "日本6月东京CPI年率 1.7%，预期1.60%，前值1.40%。",
+          "url": "https://flash.jin10.com/detail/20260626073036995800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "日本6月东京核心CPI年率 1.6%，预期1.60%，前值1.30%。",
+          "url": "https://flash.jin10.com/detail/20260626073029445800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "极兔速递：拟以不超过20亿港元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260626073009732800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "隔夜逆回购月底“首秀”，短端利率调控再添新工具",
+          "url": "https://wallstreetcn.com/livenews/3124874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260626065012470800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。 目前（美股盘后），美光科技下跌2.7%，闪迪跌1.9%，英特尔、希捷科技至少跌约1.2%，西部数据跌超0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3124872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3124866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 12,
+      "match_count": 11,
       "titles": [
         {
-          "title": "中金：未来高端AI服务器有望采用“金刚石热沉+全液冷”复合散热方案",
-          "url": "https://flash.jin10.com/detail/20260625075729784800",
-          "source": "金十数据",
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "英伟达股东会摘要：黄仁勋豪言AI投资回报率的问题“已有答案”",
-          "url": "https://www.cls.cn/detail/2408477",
-          "source": "财联社热门",
+          "title": "UP主手搓AI实时生成游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
+          "title": "主流AI Coding开发鹅腿识别",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BB%E6%B5%81AICoding%E5%BC%80%E5%8F%91%E9%B9%85%E8%85%BF%E8%AF%86%E5%88%AB",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
           "title": "霓虹AI超美?实则组队打工仔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
           "source": "贴吧",
           "ranks": [
-            10
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
-          "title": "用AI制作一部玄幻短片",
-          "url": "https://www.douyin.com/hot/2545425",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "黄仁勋股东大会放言：本轮AI基建周期长达数十年",
-          "url": "https://wallstreetcn.com/livenews/3124282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "用AI小卡应援世界杯",
-          "url": "https://www.douyin.com/hot/2544441",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "AI协助报志愿靠谱吗",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8D%8F%E5%8A%A9%E6%8A%A5%E5%BF%97%E6%84%BF%E9%9D%A0%E8%B0%B1%E5%90%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "黄仁勋：本轮AI基建周期长达数十年",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
+          "title": "DeepSeek大规模招聘：至少扩大一倍",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
           "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "黄仁勋：本轮AI基建周期长达数十年",
-          "url": "https://flash.jin10.com/detail/20260625071208706800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
           "ranks": [
             29
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "我国具身智能市场规模将突破万亿元",
+          "url": "https://wallstreetcn.com/livenews/3124889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时14分"
+          "time_info": "08时09分"
+        },
+        {
+          "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
+          "url": "https://wallstreetcn.com/livenews/3124869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     }
