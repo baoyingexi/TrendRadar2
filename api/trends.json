@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T08:07:20.794327+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-28T08:03:09.033819+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
@@ -15,41 +15,63 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "中金：黄金牛市结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3775561",
+          "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
+          "url": "https://www.cls.cn/detail/2410926",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
-          "url": "https://wallstreetcn.com/livenews/3125495",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "股价涨到股东“惜售”？7倍电子布牛股：股东计划减少股份减持数量",
-          "url": "https://www.cls.cn/detail/2410496",
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
+          "url": "https://wallstreetcn.com/articles/3775675",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -59,234 +81,190 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "跌破4000，黄金正在经历一场\"信仰瓦解\"",
-          "url": "https://wallstreetcn.com/articles/3775600",
-          "source": "华尔街见闻",
+          "title": "欧洲央行执委Schnabel：能源冲击可能传导至更广泛的通胀动态。 能源价格上涨具有连锁效应。 食品、商品和服务通胀面临上行风险。 生产商将部分输入品成本上涨转嫁出去。 消费者通胀预期上升。 目前尚无工资压力的迹象。 预计欧洲央行将进一步加息。 资产估值面临的金融稳定风险上升。",
+          "url": "https://wallstreetcn.com/livenews/3125608",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
+          "url": "https://www.cls.cn/detail/2410063",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
-          "url": "https://www.cls.cn/detail/2410338",
+          "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
+          "url": "https://www.zhihu.com/question/2054233145457874875",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2410708",
           "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
+          "title": "存储芯片成本大涨，苹果美光打起“口水战”，到底谁为涨价买单？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33468093",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
+          "url": "https://flash.jin10.com/detail/20260628041744920800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "08时03分"
         },
         {
-          "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2410602",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "绿色幻象之下：谁在为万亿AI芯片繁荣买单？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33451501",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "标普500指数的11个板块中，医疗保健板块收涨3.16%，可选消费、房地产板块至多涨1.55%，能源板块则收跌0.41%，电信板块跌0.56%，信息技术/科技板块跌1.05%，工业板块跌1.53%。",
-          "url": "https://wallstreetcn.com/livenews/3125473",
+          "title": "下周A股解禁市值逾1000亿元",
+          "url": "https://wallstreetcn.com/livenews/3125593",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "房地产ETF收涨超1.5%，领涨美大类资产类ETF，纳指ETF则跌约1.4%，布油基金跌超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3125470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3125469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "黄金、白银周五涨超1%，本周现货黄金跌1.9%、白银跌约9.5%",
-          "url": "https://wallstreetcn.com/livenews/3125462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "time_info": "08时03分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 11,
+      "match_count": 8,
       "titles": [
         {
-          "title": "AI时代如何选专业",
-          "url": "https://www.douyin.com/hot/2548080",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
-          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
-          "url": "https://wallstreetcn.com/articles/3775599",
-          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
-          "url": "https://wallstreetcn.com/articles/3775640",
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
+          "url": "https://wallstreetcn.com/articles/3775674",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2410276",
-          "source": "财联社热门",
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
           "title": "纯中二?美官员把AI当英雄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
           "source": "贴吧",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         },
         {
-          "title": "Anthropic迈向与美国政府达成协议，解除对AI模型的限制。",
-          "url": "https://wallstreetcn.com/livenews/3125474",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "AI机器女友发布,仿真拉满",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
-          "source": "贴吧",
+          "title": "黄灿灿 AI你猜错了",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%20AI%E4%BD%A0%E7%8C%9C%E9%94%99%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
-          "title": "DeepSeek新晋独角兽第一",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%99%8B%E7%8B%AC%E8%A7%92%E5%85%BD%E7%AC%AC%E4%B8%80%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时07分"
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
         }
       ]
     }
