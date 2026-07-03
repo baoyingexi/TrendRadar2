@@ -1,242 +1,198 @@
 {
-  "generated_at": "2026-07-02T08:08:01.117536+08:00",
-  "total_titles_processed": 303,
+  "generated_at": "2026-07-03T08:05:37.842368+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 21,
+      "match_count": 17,
       "titles": [
         {
-          "title": "下周一正式施行，A股交易新规来了！一图看懂关键调整",
-          "url": "https://www.cls.cn/detail/2414140",
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "半导体涨价潮蔓延至先进封装 日月光CEO：正全力以赴扩大产能",
-          "url": "https://www.cls.cn/detail/2414349",
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
-          "url": "https://wallstreetcn.com/articles/3775950",
+          "title": "中信建投：全球半导体设备2028市场规模有望较2025翻倍",
+          "url": "https://wallstreetcn.com/livenews/3128285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "【早报】美联储放鹰；存储、半导体板块大跌，中概股逆势大涨；油价下跌，黄金收涨；英格兰、比利时晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2414804",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
-          "url": "https://www.cls.cn/detail/2414658",
+          "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
+          "url": "https://www.cls.cn/detail/2415792",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
-          "url": "https://www.cls.cn/detail/2414258",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "A股涨停数创20个月新高！TMT“参团率”降至15%，这一数据仍在历史高位",
-          "url": "https://www.cls.cn/detail/2414312",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2414541",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "人工智能冲击婚纱影楼",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%B2%E5%87%BB%E5%A9%9A%E7%BA%B1%E5%BD%B1%E6%A5%BC&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "A股交易规则下周一起重大调整",
-          "url": "https://www.toutiao.com/trending/7657522598550716422/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "韩国6月CPI环比上升0.1%，符合预期。 6月CPI同比上升3.2%，符合预期。 6月剔除食品与能源的CPI同比上升2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3127654",
-          "source": "华尔街见闻-快讯",
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         },
         {
-          "title": "据了解讨论人工智能（AI）标准的知情人士透露，美国最快将于下周宣布所谓的自愿AI制度。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3127652",
-          "source": "华尔街见闻-快讯",
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
+          "url": "https://www.cls.cn/detail/2415483",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         },
         {
-          "title": "超微电脑（SMCI）美股盘后涨幅迅速扩大至超过1.9%，该公司发布客户告知书。 7月1日，该公司股价收跌5.73%，报27.65美元。",
-          "url": "https://wallstreetcn.com/livenews/3127648",
-          "source": "华尔街见闻-快讯",
+          "title": "伊拉克女议员家中搜出黄金内衣",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%8B%89%E5%85%8B%E5%A5%B3%E8%AE%AE%E5%91%98%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%87%BA%E9%BB%84%E9%87%91%E5%86%85%E8%A1%A3",
+          "source": "百度热搜",
           "ranks": [
-            11
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         },
         {
-          "title": "英媒： 白宫正加快人工智能模型标准制定计划",
-          "url": "https://flash.jin10.com/detail/20260702071546206800",
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.996吨，当前持仓量为1001.366吨。",
+          "url": "https://flash.jin10.com/detail/20260703062308863800",
           "source": "金十数据",
           "ranks": [
-            17
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         },
         {
-          "title": "成本上涨与市场需求双轮驱动，半导体开启年内第二轮涨价",
-          "url": "https://wallstreetcn.com/livenews/3127639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "韩国6月CPI月率 0.1%，预期0.1%，前值0.50%。",
-          "url": "https://flash.jin10.com/detail/20260702070002197800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "韩国6月CPI年率 3.2%，预期3.20%，前值3.10%。",
-          "url": "https://flash.jin10.com/detail/20260702070002189800",
+          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
+          "url": "https://flash.jin10.com/detail/20260703060215958800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         },
         {
-          "title": "18家半导体公司IPO同日获受理，展现细分领域“芯”实力",
-          "url": "https://wallstreetcn.com/livenews/3127637",
-          "source": "华尔街见闻-快讯",
+          "title": "机票捡漏黄金期来了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E7%A5%A8%E6%8D%A1%E6%BC%8F%E9%BB%84%E9%87%91%E6%9C%9F%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            22
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         },
         {
-          "title": "A股IPO保荐半年盘点：三大券商领跑，中小投行借北交所突围",
-          "url": "https://wallstreetcn.com/livenews/3127635",
+          "title": "美股芯片光通信大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%85%89%E9%80%9A%E4%BF%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
+          "url": "https://wallstreetcn.com/livenews/3128255",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
+        },
+        {
+          "title": "周四（7月2日），美股降息赢家指数跌0.02%，报98.42点，在美国非农就业报告出炉后高开低走，整体呈现出W形走势，本周累计下跌1.58%。",
+          "url": "https://wallstreetcn.com/livenews/3128254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
@@ -245,114 +201,114 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
-          "url": "https://wallstreetcn.com/articles/3775982",
-          "source": "华尔街见闻",
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
+          "source": "知乎",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
+          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
+          "url": "https://www.cls.cn/detail/2415670",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块",
+          "url": "https://wallstreetcn.com/livenews/3128284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
+          "url": "https://wallstreetcn.com/articles/3776055",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
+          "url": "https://flash.jin10.com/detail/20260703061710084800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%85%AC%E5%8F%B8%E8%AF%81%E6%98%8EAI%E6%97%A0%E6%B3%95%E6%9B%BF%E4%BB%A3%E4%BA%BA%E5%B7%A5",
+          "title": "出现性能下降问题 DeepSeek回应",
+          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "越来越多公司证明AI无法替代人工",
-          "url": "https://www.toutiao.com/trending/7657394487626416137/",
-          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "Palantir首席执行官Alex Karp猛烈抨击Anthropic和 OpenAI使用的Token计费结构。 Palantir与英伟达的开源模型是那些希望拥有自己数据所有权的企业和政府寻求的解决方案。 AI Token 成本的飙升让各大企业的首席执行官（CEO）们感到沮丧，这促使他们纷纷转向封闭模型之外的其他选择。",
-          "url": "https://wallstreetcn.com/livenews/3127653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
-          "title": "在SpaceX获巨额回报，报道称马斯克盟友Gracias瞄准AI与能源领域投资",
-          "url": "https://wallstreetcn.com/livenews/3127640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
+          "time_info": "08时05分"
         }
       ]
     }
