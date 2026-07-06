@@ -1,226 +1,358 @@
 {
-  "generated_at": "2026-07-05T08:02:04.458379+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-06T08:06:15.166642+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 13,
+      "match_count": 24,
       "titles": [
         {
-          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
-          "url": "https://www.cls.cn/detail/2417150",
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
-          "url": "https://www.cls.cn/detail/2417029",
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "多家A股公司，业绩大增",
+          "url": "https://www.cls.cn/detail/2417346",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "黄金如今又看美联储的脸色了",
-          "url": "https://wallstreetcn.com/articles/3776189",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
-          "url": "https://www.cls.cn/detail/2416860",
+          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
+          "url": "https://www.cls.cn/detail/2417150",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "MiniMax高盛电话会：对今年10亿美元ARR充满信心，模型优势在“组织敏捷性”，与国产芯片高度集成",
-          "url": "https://wallstreetcn.com/articles/3776197",
-          "source": "华尔街见闻",
+          "title": "【早报】A股交易新规，今起正式施行；多家A股公司，业绩大幅预增；哈兰德双响，挪威2-1巴西",
+          "url": "https://www.cls.cn/detail/2417464",
+          "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "ON豪言走黄金路,实力遭质疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "贴吧",
+          "title": "40天加长三伏天 减脂黄金期来了",
+          "url": "https://www.toutiao.com/trending/7657941347903209513/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
-          "url": "https://wallstreetcn.com/articles/3776188",
+          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776221",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
-          "url": "https://www.cls.cn/detail/2416926",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "特斯拉、Meta到Anthropic，三星电子的芯片代工订单积压已达50万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776186",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2417129",
           "source": "财联社热门",
           "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "国内的房地产开发商为什么都不看重隔音？",
+          "url": "https://www.zhihu.com/question/2656149571",
+          "source": "知乎",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "iPadPro首发M7芯片",
-          "url": "https://s.weibo.com/weibo?q=%23iPadPro%E9%A6%96%E5%8F%91M7%E8%8A%AF%E7%89%87%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "ON豪言走黄金路,实力遭质疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355897&amp;topic_name=ON%E8%B1%AA%E8%A8%80%E8%B5%B0%E9%BB%84%E9%87%91%E8%B7%AF%2C%E5%AE%9E%E5%8A%9B%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "科技部部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
+          "url": "https://flash.jin10.com/detail/20260706075143937800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "注销式回购引关注，上市公司打出“组合拳”",
+          "url": "https://wallstreetcn.com/livenews/3129033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "澳新银行：尽管通胀风险消退，新西兰联储仍可能加息",
+          "url": "https://flash.jin10.com/detail/20260706074249145800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "A股交易新规今起施行，券商配套更新风险揭示书",
+          "url": "https://wallstreetcn.com/livenews/3129031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
+          "url": "https://wallstreetcn.com/livenews/3129027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "矿业公司Genesis报价56亿澳元竞购黄金矿商Vault",
+          "url": "https://flash.jin10.com/detail/20260706072920031800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "现货黄金站上4200美元",
+          "url": "https://flash.jin10.com/detail/20260706072831809800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
+          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "金十图示：2026年07月06日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260706065529374800",
+          "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "国旅联合：发行股份购买资产并募集配套资金获证监会注册批复",
+          "url": "https://wallstreetcn.com/livenews/3129013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "今起，A股交易规则重要调整",
+          "url": "https://flash.jin10.com/detail/20260706064257878800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "现货黄金站上4190美元/盎司，日内涨0.37%。",
+          "url": "https://flash.jin10.com/detail/20260706063735558800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
-          "title": "豆包、千问：将下线智能体功能",
-          "url": "https://wallstreetcn.com/articles/3776193",
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "【早报】华为发布V2版“韬定律”论文；豆包、千问：智能体功能将下线",
+          "url": "https://www.cls.cn/detail/2417200",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "08时06分"
         },
         {
-          "title": "智能体新变化！ 豆包、千问即将下线智能体功能！",
-          "url": "https://www.cls.cn/detail/2417079",
-          "source": "财联社热门",
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            26
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "经纬度：具身智能进入“从1到100”的爆发期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33511330",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     }
