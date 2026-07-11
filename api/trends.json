@@ -1,281 +1,232 @@
 {
-  "generated_at": "2026-07-11T07:58:02.735589+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-12T07:55:24.751718+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 20,
+      "match_count": 10,
       "titles": [
         {
-          "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
-          "url": "https://wallstreetcn.com/articles/3776623",
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
-          "url": "https://www.cls.cn/detail/2423179",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
-          "url": "https://www.cls.cn/detail/2423160",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "A股历史第四！存储“一哥”单日成交594亿，天量榜单还有谁？",
-          "url": "https://www.cls.cn/detail/2422969",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "惠誉：预计沙特阿拉伯2026年实际GDP增长将放缓至0.6%，并将在2027年反弹。",
-          "url": "https://flash.jin10.com/detail/20260711052637899800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
-          "url": "https://wallstreetcn.com/articles/3776629",
+          "title": "全球市场步入“动荡之夏”：警惕美联储变局、日元危机和财报季大考",
+          "url": "https://wallstreetcn.com/articles/3776706",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
+          "title": "头条世界杯｜西班牙绝杀送走黄金一代，36场不败静候法国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33564226",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
+          "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2423581",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
-          "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2422921",
-          "source": "财联社热门",
+          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
+          "url": "https://flash.jin10.com/detail/20260712034752790800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
-          "title": "比利时黄金一代余晖落幕",
-          "url": "https://www.toutiao.com/trending/7661015728031662090/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "比利时止步8强黄金一代落幕",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E6%AD%A2%E6%AD%A58%E5%BC%BA%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%90%BD%E5%B9%95",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "比利时黄金一代落幕",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E5%88%A9%E6%97%B6%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%90%BD%E5%B9%95&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
-        },
-        {
-          "title": "现货黄金本周跌1.5%，纽约铜涨1.9%",
-          "url": "https://wallstreetcn.com/livenews/3132253",
+          "title": "存储芯片股过去数周跌超20% 底层逻辑面临重估",
+          "url": "https://wallstreetcn.com/livenews/3132353",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3132248",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么西安 GDP 不高，却能拥有包括 SKP 、 M1 级万象城，以及即将竣工的太古里等诸多顶流商业项目？",
+          "url": "https://www.zhihu.com/question/2057216066271573493",
+          "source": "知乎",
           "ranks": [
-            15
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
-          "url": "https://wallstreetcn.com/livenews/3132246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "纳指科技股指数收涨将近0.7%，本周半导体指数涨2.7%",
-          "url": "https://wallstreetcn.com/livenews/3132238",
+          "title": "下周A股超40股限售解禁，7股解禁比例超10%",
+          "url": "https://wallstreetcn.com/livenews/3132343",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：7月7日当周，投机者所持COMEX黄金净多头头寸减少1,964手合约，至114,854手合约。 所持COMEX白银净多头头寸减少616手合约，至12,131手合约。 所持COMEX铜净多头头寸减少970手合约，至60,397手合约，创11周新低。 所持NYMEX铂金净多头头寸降低至7,476手合约，创17周新低。 所持NYMEX钯净空头头寸增至6,382手合约，创10个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3132231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
-          "title": "OpenAI回应苹果公司的诉讼：我们对其他公司的商业秘密没兴趣。 我们仍然侧重于打造创新科技。",
-          "url": "https://wallstreetcn.com/livenews/3132268",
-          "source": "华尔街见闻-快讯",
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
-          "url": "https://wallstreetcn.com/livenews/3132249",
-          "source": "华尔街见闻-快讯",
+          "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
+          "url": "https://www.cls.cn/detail/2422869",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "无人机吊起2人神图系AI合成",
+          "url": "https://www.toutiao.com/trending/7660829419656888339/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
+          "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "苹果起诉OpenAI涉嫌窃取商业机密",
-          "url": "https://flash.jin10.com/detail/20260711044802586800",
+          "title": "中国地震台网正式测定：07月12日05时09分在内蒙古呼伦贝尔市阿荣旗发生3.8级地震，震源深度10千米。",
+          "url": "https://flash.jin10.com/detail/20260712052001822800",
           "source": "金十数据",
           "ranks": [
-            18
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         },
         {
-          "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
-          "url": "https://flash.jin10.com/detail/20260711042558788800",
-          "source": "金十数据",
+          "title": "内蒙古启动防汛四级及暴雨Ⅳ级应急响应",
+          "url": "https://wallstreetcn.com/livenews/3132338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "07时55分"
         }
       ]
     }
