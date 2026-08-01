@@ -1,347 +1,276 @@
 {
-  "generated_at": "2026-08-01T08:02:39.153815+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-02T07:57:33.885165+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 23,
+      "match_count": 11,
       "titles": [
         {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
         },
         {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "AI公司批量抢购旧书",
-          "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E6%8A%A2%E8%B4%AD%E6%97%A7%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "DeepSeek V4 Flash正式版强在哪",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
-          "url": "https://flash.jin10.com/detail/20260801052517590800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
-          "url": "https://wallstreetcn.com/articles/3778421",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://flash.jin10.com/detail/20260801052034583800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
-          "url": "https://wallstreetcn.com/articles/3778378",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "AI生成的作品算艺术吗",
-          "url": "https://www.douyin.com/hot/2591797",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3143503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
-          "url": "https://wallstreetcn.com/livenews/3143502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "报道：OpenAI本周预览了AI模型Astra",
-          "url": "https://wallstreetcn.com/livenews/3143500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "华尔街AI股神高杠杆爆仓出局",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://wallstreetcn.com/livenews/3143487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "AI男主都能带货了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "DeepSeek拟在内蒙古建超算中心",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "消息人士：OpenAI调查人员发现更多AI智能体突破隔离的证据",
-          "url": "https://flash.jin10.com/detail/20260801042118367800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
-          "url": "https://flash.jin10.com/detail/20260801041603854800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "铠侠Q1营业利润1.27万亿日元不及预期，毛利率78%，2028年长协拟锁定50%产能 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778409",
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
         },
         {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
         },
         {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "这届AI进化到开始玩心眼了",
+          "url": "https://www.douyin.com/hot/2592773",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
+          "url": "https://wallstreetcn.com/articles/3778497",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "美两家AI巨头承认自家大模型“失控”",
+          "url": "https://www.toutiao.com/trending/7668948314036899378/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "马斯克关注DeepSeek账号",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
           "source": "财联社热门",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
         },
         {
-          "title": "亚马逊缓解市场对人工智能的担忧，美国主要股指收高",
-          "url": "https://flash.jin10.com/detail/20260801042925321800",
-          "source": "金十数据",
+          "title": "韩国还是黄金时代吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%98%AF%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
         },
         {
-          "title": "A股科技板块全线反攻，机构称调整或接近尾声",
-          "url": "https://wallstreetcn.com/livenews/3143477",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "2家券商被证监会立案",
+          "url": "https://www.douyin.com/hot/2592949",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
+          "url": "https://wallstreetcn.com/articles/3778486",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "证监会对7家券商开出罚单",
+          "url": "https://www.douyin.com/hot/2593881",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "人工智能助力直肠癌个性化化疗",
+          "url": "https://wallstreetcn.com/livenews/3143612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "07时57分"
+        },
+        {
+          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "存储芯片利好来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "内蒙古呼和浩特获授“世界乳都”称号",
+          "url": "https://wallstreetcn.com/livenews/3143628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "内蒙古的韭菜花又开了",
+          "url": "https://www.douyin.com/hot/2593277",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     }
