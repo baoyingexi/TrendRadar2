@@ -1,276 +1,380 @@
 {
-  "generated_at": "2026-08-02T07:57:33.885165+08:00",
+  "generated_at": "2026-08-03T07:59:02.472138+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 11,
+      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
+      "match_count": 23,
       "titles": [
         {
-          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
-          "url": "https://wallstreetcn.com/articles/3778475",
-          "source": "华尔街见闻",
+          "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2443573",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
-          "source": "华尔街见闻",
+          "title": "中国芯片从底层开始“围攻”",
+          "url": "https://www.toutiao.com/trending/7668504488562786358/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
-          "source": "澎湃新闻",
+          "title": "华泰证券：A股现阶段更接近“交易底初现”",
+          "url": "https://wallstreetcn.com/livenews/3143767",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "07时59分"
         },
         {
-          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
-          "url": "https://wallstreetcn.com/articles/3778474",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
+          "title": "本周重要事件与数据预告：美国非农，中国7月外储、CPI及贸易帐，SpaceX财报",
+          "url": "https://flash.jin10.com/detail/20260803072055580800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "07时59分"
         },
         {
-          "title": "这届AI进化到开始玩心眼了",
-          "url": "https://www.douyin.com/hot/2592773",
-          "source": "抖音",
+          "title": "本周中国央行公开市场将有18420亿元短期逆回购到期",
+          "url": "https://wallstreetcn.com/livenews/3143765",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "07时59分"
         },
         {
-          "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
-          "url": "https://wallstreetcn.com/articles/3778497",
-          "source": "华尔街见闻",
+          "title": "方程豹 7 月销量超 4 万辆，这对新能源汽车市场意味着什么？越野市场需求被打开了吗？",
+          "url": "https://www.zhihu.com/question/2066988587279718231",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
+          "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
+          "url": "https://wallstreetcn.com/articles/3778433",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
           "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "手机不好卖 芯片出货量暴跌",
+          "url": "https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E4%B8%8D%E5%A5%BD%E5%8D%96%20%E8%8A%AF%E7%89%87%E5%87%BA%E8%B4%A7%E9%87%8F%E6%9A%B4%E8%B7%8C&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "货币政策的“安娜卡列尼娜原则”：沃什要保住信誉，美联储9月就必须加息？",
+          "url": "https://wallstreetcn.com/articles/3778513",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "美两家AI巨头承认自家大模型“失控”",
-          "url": "https://www.toutiao.com/trending/7668948314036899378/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "马斯克关注DeepSeek账号",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "韩国还是黄金时代吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%BF%98%E6%98%AF%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "2家券商被证监会立案",
-          "url": "https://www.douyin.com/hot/2592949",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
-          "url": "https://wallstreetcn.com/articles/3778486",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
           "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2443284",
           "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "证监会对7家券商开出罚单",
-          "url": "https://www.douyin.com/hot/2593881",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "人工智能助力直肠癌个性化化疗",
-          "url": "https://wallstreetcn.com/livenews/3143612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        },
-        {
-          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
+          "title": "中微公司未来五年内至少覆盖60%的半导体高端设备，整体产能规划不低于700亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33695377",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "存储芯片利好来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "A股8月会迎来反攻吗",
+          "url": "https://www.toutiao.com/trending/7669355683321482798/",
+          "source": "今日头条",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "证监会对多家券商开出罚单",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%AF%B9%E5%A4%9A%E5%AE%B6%E5%88%B8%E5%95%86%E5%BC%80%E5%87%BA%E7%BD%9A%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "日本财务省：干预旨在应对近期日元过度、无序波动。将毫不犹豫与美国进行进一步外汇干预，计划未来使用美联储的外国和国际货币当局回购工具。",
+          "url": "https://flash.jin10.com/detail/20260803070650417800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "07时59分"
+        },
+        {
+          "title": "7月新能源车企销量分化，年度目标完成进度拉开差距",
+          "url": "https://wallstreetcn.com/livenews/3143761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：与美国共同实施了联合外汇干预。 如有必要，将毫不犹豫地进行进一步联合干预。 外汇干预是基于美日联合声明进行的。 外汇干预是为了应对过度波动。 可以针对外汇市场的剧烈波动采取果断行动。 日本正密切关注外汇市场发展，与美方保持密切联系。 与美方的沟通非常顺利。 预计我们很快就能开始使用FIMA回购工具。 美方表示日元汇率应当更高。",
+          "url": "https://wallstreetcn.com/livenews/3143760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "日本财务省发布财务大臣片山皋月的声明：7月31日，日本财务省与美国共同协调购买了日元。 与美方同行保持密切沟通。 对日元的过度波动和无序走势进行了应对。 如有必要，我们将毫不犹豫地实施进一步联合干预。 日本计划未来利用FIMA回购工具（FIMA Repo Facility）。",
+          "url": "https://wallstreetcn.com/livenews/3143757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260803064157448800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "美联储9月加息25个基点的概率为73.6%",
+          "url": "https://flash.jin10.com/detail/20260803062630391800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "券商研报：8月A股或进入修复时间窗口，配置回归基本面定价逻辑",
+          "url": "https://wallstreetcn.com/livenews/3143748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "摩根士丹利：将韩国、泰国股票评级上调至增持。",
+          "url": "https://wallstreetcn.com/livenews/3143746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         }
       ]
     },
     {
-      "keyword_group": "赤峰 内蒙古 翁牛特旗 乌丹",
-      "match_count": 2,
+      "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
+      "match_count": 10,
       "titles": [
         {
-          "title": "内蒙古呼和浩特获授“世界乳都”称号",
-          "url": "https://wallstreetcn.com/livenews/3143628",
-          "source": "华尔街见闻-快讯",
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "内蒙古的韭菜花又开了",
-          "url": "https://www.douyin.com/hot/2593277",
-          "source": "抖音",
+          "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
+          "url": "https://wallstreetcn.com/articles/3778505",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
+          "url": "https://www.cls.cn/detail/2443437",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
+          "url": "https://www.zhihu.com/question/2066215968578204075",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "网上爆火的AI短剧男主",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E4%B8%8A%E7%88%86%E7%81%AB%E7%9A%84AI%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "QFII二季度调仓呈现“头部化”特征，外资机构纷纷看好中国AI产业链",
+          "url": "https://wallstreetcn.com/livenews/3143755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时57分"
+          "time_info": "07时59分"
         }
       ]
     }
