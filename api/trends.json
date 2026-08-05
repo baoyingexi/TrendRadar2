@@ -1,457 +1,347 @@
 {
-  "generated_at": "2026-08-04T08:10:06.546080+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-05T08:02:25.353917+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "加息 降息 降准 GDP CPI 证监会 A股 美股 北向资金 涨停 跌停 回购 增持 减持 立案调查 违约 破产 退市 暴雷 人工智能 芯片 半导体 新能源 房地产 黄金 财报 业绩预告",
-      "match_count": 26,
+      "match_count": 20,
       "titles": [
         {
-          "title": "关停局域网行情通道，新规实施首日，A股成交量影响如何？",
-          "url": "https://www.cls.cn/detail/2444433",
+          "title": "央行将开展5000亿元买断式逆回购 8月流动性面临两大扰动",
+          "url": "https://www.cls.cn/detail/2445625",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
+          "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
+          "url": "https://wallstreetcn.com/articles/3778638",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "穿山跨海的“黄金大外环”要来了",
-          "url": "https://www.baidu.com/s?wd=%E7%A9%BF%E5%B1%B1%E8%B7%A8%E6%B5%B7%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E5%A4%A7%E5%A4%96%E7%8E%AF%E2%80%9D%E8%A6%81%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
+          "url": "https://www.cls.cn/detail/2445802",
+          "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
-          "url": "https://www.cls.cn/detail/2444684",
+          "title": "国家邮政局对申通立案调查",
+          "url": "https://www.douyin.com/hot/2597554",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
+          "url": "https://www.cls.cn/detail/2445760",
           "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3778543",
+          "title": "分红回购持续推进，券商多管齐下增强投资者信心",
+          "url": "https://wallstreetcn.com/livenews/3145005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3778628",
           "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
-          "url": "https://www.cls.cn/detail/2444660",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "美股三大指数集体收涨 纳指涨逾2%",
-          "url": "https://www.toutiao.com/trending/7669943981744066086/",
-          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "韩国财政部在CPI数据公布后表示，将致力于稳定石油产品及食品价格。",
-          "url": "https://wallstreetcn.com/livenews/3144403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         },
         {
-          "title": "“装得越多，浪费越多”？新能源装机大涨背后仍面临消纳考验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33708330",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "SpaceX将发布上市后首份财报",
-          "url": "https://www.douyin.com/hot/2595375",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "美股半导体指数低开高走闪迪大涨超6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E9%97%AA%E8%BF%AA%E5%A4%A7%E6%B6%A8%E8%B6%856%25",
-          "source": "百度热搜",
+          "title": "申通快递被立案调查",
+          "url": "https://www.toutiao.com/trending/7670119765616689158/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "中微公司上半年净利预增282%-311%，股权投资贡献近20亿元收益，设备业务延续高增｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778581",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
           "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "国家邮政局依法对申通快递有限公司立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33714700",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "美股收盘：谷歌涨超4%总市值超过苹果",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E6%B6%A8%E8%B6%854%25%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B9%E6%9E%9C",
+          "title": "美股道指标普500指数均再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%81%93%E6%8C%87%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%9D%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "美股科技巨头迎来强劲买盘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%BF%8E%E6%9D%A5%E5%BC%BA%E5%8A%B2%E4%B9%B0%E7%9B%98%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "为什么好多人不想买新能源汽车？",
-          "url": "https://www.zhihu.com/question/2067315373137990163",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "长鑫科技为何能问鼎A股市值第一",
-          "url": "https://www.toutiao.com/trending/7669800779284221476/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "韩国7月CPI月率 -0.2%，预期0.1%，前值0.10%。",
-          "url": "https://flash.jin10.com/detail/20260804070002816800",
-          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         },
         {
-          "title": "韩国7月CPI年率 2.8%，预期3.00%，前值3.20%。",
-          "url": "https://flash.jin10.com/detail/20260804070002610800",
-          "source": "金十数据",
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "申通快递被立案调查",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B3%E9%80%9A%E5%BF%AB%E9%80%92%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         },
         {
-          "title": "城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温",
-          "url": "https://wallstreetcn.com/livenews/3144393",
+          "title": "美日联手就能撑住日元吗？华尔街相信“日本不加息，任何干预都没用”",
+          "url": "https://wallstreetcn.com/articles/3778619",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美兰宣告破产，旗下老牌国货上海雪花膏退场",
+          "url": "https://news.ifeng.com/c/8vJwEmL5TCl",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "A股110份半年报“交卷”，多个赛道持续高景气",
+          "url": "https://wallstreetcn.com/livenews/3144994",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         },
         {
-          "title": "韩国7月CPI环比 -0.2%，预估 -0.1%。 韩国7月CPI同比 +2.8%; 预估 +3.0%。 韩国7月核心CPI同比 +2.6%，涨幅创2023年12月以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3144388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上一交易日减少1.141吨，当前持仓量为1005.874吨。",
-          "url": "https://flash.jin10.com/detail/20260804061616597800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "美联储9月加息25个基点的概率为67.2%",
-          "url": "https://flash.jin10.com/detail/20260804060152075800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "业界预计降准降息可能适时启用",
-          "url": "https://wallstreetcn.com/livenews/3144381",
+          "title": "部分基金逆势加仓，A股硬科技板块迎修复契机",
+          "url": "https://wallstreetcn.com/livenews/3144987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         },
         {
-          "title": "“创新+出海”驱动，A股生物医药公司盈利能力提升",
-          "url": "https://wallstreetcn.com/livenews/3144375",
+          "title": "8月公募调查出炉：A股港股获力挺，投资布局趋向均衡",
+          "url": "https://wallstreetcn.com/livenews/3144985",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         },
         {
-          "title": "核能初创公司Valar首席执行官Isaiah Taylor：人工智能正在飞速发展。我们在各个方面都需要大量电力。对我们来说，这关乎规模化。这正是我们去建设所需的火力。 预计8月初这笔融资我们希望证明我们的生产节奏。我们希望将建造一座反应堆的周期从一年缩短到六个月，再到一个月一次，甚至更快。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3144373",
+          "title": "美股存储芯片指数收涨超6.7%，闪迪、泰瑞达涨超10%，超大规模云服务商板块四天涨约16%",
+          "url": "https://wallstreetcn.com/livenews/3144978",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
+        },
+        {
+          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
+          "url": "https://wallstreetcn.com/livenews/3144976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
     {
       "keyword_group": "AI chatgpt gemini grok deepseek Sora 多模态 智能 AI Agent Diffusion Model 开源生态",
-      "match_count": 14,
+      "match_count": 10,
       "titles": [
         {
-          "title": "DeepSeek一天消耗了8万亿",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "SpaceX将独家采用英伟达AI计算架构，拟部署太空数据中心",
+          "url": "https://flash.jin10.com/detail/20260805072402482800",
+          "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "DeepSeek斩杀线斩的是什么",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2444244",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "上半年 AI 短剧全网上线超二十万部，但播放破亿作品仅有千部，爆款率为啥这么低？大家都不爱看吗？",
-          "url": "https://www.zhihu.com/question/2067564276433401082",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "“InP短缺将比内存更严峻”！Lumentum、SemiAnalysis警告：光互联成AI新瓶颈",
-          "url": "https://wallstreetcn.com/articles/3778565",
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "我用AI创造虚拟世界 弹幕即神谕",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%88%9B%E9%80%A0%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%20%E5%BC%B9%E5%B9%95%E5%8D%B3%E7%A5%9E%E8%B0%95",
-          "source": "bilibili 热搜",
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
+          "url": "https://flash.jin10.com/detail/20260805070003293800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
+          "url": "https://flash.jin10.com/detail/20260805070003280800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            9
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "中金：AI之外还有什么值得买",
-          "url": "https://wallstreetcn.com/articles/3778538",
-          "source": "华尔街见闻",
+          "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
+          "url": "https://wallstreetcn.com/livenews/3144979",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
-          "title": "用AI编造期货市场“小作文”，95后男子趁机牟利8.5万，监管出手重罚",
-          "url": "https://www.cls.cn/detail/2444442",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
           "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "DeepSeek模型单日吞下8万亿Token",
-          "url": "https://www.toutiao.com/trending/7669679149316836902/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "UP主自制AI短片 洪流之上",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E7%9F%AD%E7%89%87%20%E6%B4%AA%E6%B5%81%E4%B9%8B%E4%B8%8A",
-          "source": "bilibili 热搜",
           "ranks": [
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 08时10分]"
-        },
-        {
-          "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
-          "url": "https://flash.jin10.com/detail/20260804051558715800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "08时02分"
         }
       ]
     }
